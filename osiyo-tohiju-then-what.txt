@@ -3,6 +3,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||ᏙᎯ|||tò:hi̋|Healthy or peaceful.
 |||Ꮷ|ᏙᎯ|||tò:hi̋:ju?|Things are well, aren’t they?
 |||Ꮚ|ᏙᎯ|||tò:hi̋:gwu|Just fine, peaceful.
+
 ||gadò de:jadó?; dò de:jadó?|ᏕᏣ|ᎠᏙᎠ|||gadò de:jadó:ɂa?|What is your name?
 ||ja:n dà:gwadó:ɂa; ja:n dà:gwadó; ja:ni dà:gwadó|ᏓᏆ|ᎠᏙᎠ|male||ja:ni dà:gwadó:ɂa|My name is John.
 ||lini:d dà:gwadó:ɂa; lini:d dà:gwadó|ᏓᏆ|ᎠᏙᎠ|female||lini:da dà:gwadó:ɂa|My name is Linda.
