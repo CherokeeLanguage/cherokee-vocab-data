@@ -156,8 +156,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏗᏣᏛᏓᏍᏓ|dì:jà:tv:dà:sda|let you all listen to them.||Complete the lesson material through the end of chapter 9.|
 
 #Chapter 10 ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let us two see each other again later.”|||
-*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let us all see each other again later.|||
+*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.”|||
+*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again later.|||
 
 ||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|“The deer people.”|||
 ||||||ᎠᏂᎩᏟ|à:ni:gi:hli|“The dog people.”|||
@@ -169,7 +169,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|“John, You will see me again.”|||
 
 ||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᏛᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᏛᎪᎯ|lí:nida ale ma:gá:li, dv:sdv:go:hi; lí:nid ale ma:gá:l, dv:sdv:go:hi|“Linda and Michael, I will see you two again.”|||
-||||||ᎠᎵᏌᏇᏘ, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙᏂ ᎠᎴ ᎠᏴ.; ᎠᎵᏌᏇt, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙn ᎠᎴ ᎠᏴ.|a:lí:sa:gwe:ti, dv:sgini:go:hi, énto:ni ale ayv.; a:lí:sa:gwe:t, dv:sgini:go:hi, énto:n ale ayv.|Elizabeth, you will see us two again, Anthony and me.|||
+||||||ᎠᎵᏌᏇᏘ, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙᏂ ᎠᎴ ᎠᏴ.; ᎠᎵᏌᏇt, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙn ᎠᎴ ᎠᏴ.|a:lí:sa:gwe:ti, dv:sgini:go:hi, énto:ni ale ayv.; a:lí:sa:gwe:t, dv:sgini:go:hi, énto:n ale ayv.|Elizabeth, you will see both of us again, Anthony and me.|||
 ||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᎩᏂᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᎩᏂᎪᎯ|lí:nida ale ma:gá:li, dv:sgini:go:hi; lí:nid ale ma:gá:l, dv:sgini:go:hi|Linda and Michael, You two will see me again|||
 
 ||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏨᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏨᎪᎯ|niga̋:da nihi, dv:ʔì:jv:go:hi; niga̋:d nihi, dv:ʔì:jv:go:hi|I will see you all again.|||
