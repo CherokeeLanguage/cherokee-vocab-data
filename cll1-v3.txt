@@ -86,8 +86,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; Ꮩ ᎤnᏍᏗ ᎠᏂᎨᏯ?|gadō űnsdi ani:gě:hya?; gadō űnsdi ani:gě:hya?; dō űnsdi ani:gě:hya?|“Which women?”|||
 ||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᏍᎦᏯ?; ᎦᏙ ᎤnᏍd ᎠᏂᏍᎦᏯ?; Ꮩ ᎤnᏍd ᎠᏂᏍᎦᏯ?|gadō űnsdi ani:sgaya?; gadō űnsd ani:sgaya?; dō űnsd ani:sgaya?|“Which men?”|||
 
-||||||ᏗᏍᏓᏛᏓᏍᏓ|disdà:tv:dà:sda|let you two listen to them.|||
-||||||ᏂᏗᏍᏓᏛᎦ|nidisdadv̀:ga|let you two do them.||Complete the lesson material through the end of chapter 6.|
+||||||ᏗᏍᏓᏛᏓᏍᏓ|disdà:tv:dà:sda|let the two of you listen to them.|||
+||||||ᏂᏗᏍᏓᏛᎦ|nidisdadv̀:ga|let the two of you do them.||Complete the lesson material through the end of chapter 6.|
 
 #Chapter 7|||
 
@@ -106,8 +106,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᎭᏂ ᎠᎴ ᎤᎿ; ᎠᏂ ᎠᎴ ᎤᎿ|áhani ale ù:hna̋; áhni ale ù:hna̋|Here and or there.|||
 ||||||ᎢᎾ ᎠᎴ ᎾᎥ|i̋:na ale naʔv|Far and or near.|||
 
-||||||ᏗᏍᏙᏪᎸᎦ|disdo:hwe:lv̀:ga|Let you two write them.|||
-||||||ᏗᏍᏗᎪᎵᏯ.|disdigo:lǐ:ya.|let you two read them.||Complete the lesson material through the end of chapter 7.|
+||||||ᏗᏍᏙᏪᎸᎦ|disdo:hwe:lv̀:ga|Let the two of you write them.|||
+||||||ᏗᏍᏗᎪᎵᏯ.|disdigo:lǐ:ya.|let the two of you read them.||Complete the lesson material through the end of chapter 7.|
 
 #Chapter 8|||
 ||||||ᎠᏴ; ᎠᏯ|ayv; aya|“I. We.”|||
@@ -122,8 +122,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 # |||||||na|“The. That.”|||
 ||||||ᏂᎯ|nihi|“You.”|||
 
-||||||ᏂᏗᏣᏛᎦ|nidijadv̀:ga|let you all do them.|||
-||||||ᏗᏦᏪᎸᎦ|dì:jo:hwe:lv̀:ga|Let you all write them.||Complete the lesson material through the end of chapter 8.|
+||||||ᏂᏗᏣᏛᎦ|nidijadv̀:ga|let all of you do them.|||
+||||||ᏗᏦᏪᎸᎦ|dì:jo:hwe:lv̀:ga|Let all of you write them.||Complete the lesson material through the end of chapter 8.|
 
 #Chapter 9|||
 ||||||ᎦᏬᏂᏍᎬᎢ ᎠkᏔᎲᎢ; ᎦᏬᏂᏍᎬ ᎠkᏔᎲ|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|“Knowing how to speak.”|||
@@ -152,12 +152,12 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏝᏍᎪ ᎠᎭᏫ ᏱᎩ; ᏝᏍ ᎠᏫ Ᏹg?|hlasgo ahawi yi̋:gi; hlas ahwi yi̋:g?|It isn't a deer, is it?|||
 ||||||ᏝᏧ ᏩᎭᏯ ᏱᎩ; ᏝᏧ ᏩᏯ Ᏹg?|hlaju wahaya yi̋:gi; hlaju wahya yi̋:g?|It isn't a wolf. Right?|||
 
-||||||ᏗᏥᎪᎵᏯ.|dì:jigo:lǐ:ya.|let you all read them.|||
-||||||ᏗᏣᏛᏓᏍᏓ|dì:jà:tv:dà:sda|let you all listen to them.||Complete the lesson material through the end of chapter 9.|
+||||||ᏗᏥᎪᎵᏯ.|dì:jigo:lǐ:ya.|let all of you read them.|||
+||||||ᏗᏣᏛᏓᏍᏓ|dì:jà:tv:dà:sda|let all of you listen to them.||Complete the lesson material through the end of chapter 9.|
 
 #Chapter 10 ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let us two see each other again later.”|||
-*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let us all see each other again later.|||
+*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.”|||
+*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again later.|||
 
 ||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|“The deer people.”|||
 ||||||ᎠᏂᎩᏟ|à:ni:gi:hli|“The dog people.”|||
@@ -168,15 +168,15 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|“John, I will see you again.”|||
 ||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|“John, You will see me again.”|||
 
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᏛᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᏛᎪᎯ|lí:nida ale ma:gá:li, dv:sdv:go:hi; lí:nid ale ma:gá:l, dv:sdv:go:hi|“Linda and Michael, I will see you two again.”|||
-||||||ᎠᎵᏌᏇᏘ, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙᏂ ᎠᎴ ᎠᏴ.; ᎠᎵᏌᏇt, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙn ᎠᎴ ᎠᏴ.|a:lí:sa:gwe:ti, dv:sgini:go:hi, énto:ni ale ayv.; a:lí:sa:gwe:t, dv:sgini:go:hi, énto:n ale ayv.|Elizabeth, you will see us two again, Anthony and me.|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᎩᏂᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᎩᏂᎪᎯ|lí:nida ale ma:gá:li, dv:sgini:go:hi; lí:nid ale ma:gá:l, dv:sgini:go:hi|Linda and Michael, You two will see me again|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᏛᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᏛᎪᎯ|lí:nida ale ma:gá:li, dv:sdv:go:hi; lí:nid ale ma:gá:l, dv:sdv:go:hi|“Linda and Michael, I will see the two of you again.”|||
+||||||ᎠᎵᏌᏇᏘ, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙᏂ ᎠᎴ ᎠᏴ.; ᎠᎵᏌᏇt, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙn ᎠᎴ ᎠᏴ.|a:lí:sa:gwe:ti, dv:sgini:go:hi, énto:ni ale ayv.; a:lí:sa:gwe:t, dv:sgini:go:hi, énto:n ale ayv.|Elizabeth, you will see both of us again, Anthony and me.|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᎩᏂᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᎩᏂᎪᎯ|lí:nida ale ma:gá:li, dv:sgini:go:hi; lí:nid ale ma:gá:l, dv:sgini:go:hi|Linda and Michael, the two of you will see me again|||
 
-||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏨᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏨᎪᎯ|niga̋:da nihi, dv:ʔì:jv:go:hi; niga̋:d nihi, dv:ʔì:jv:go:hi|I will see you all again.|||
+||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏨᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏨᎪᎯ|niga̋:da nihi, dv:ʔì:jv:go:hi; niga̋:d nihi, dv:ʔì:jv:go:hi|I will see all of you again.|||
 ||||||ᏂᎦᏓ ᎠᏴ ᏛᎢᏨᎪᎯ; ᏂᎦd ᎠᏴ ᏛᎢᏨᎪᎯ|niga̋:da ayv dv:ʔì:jv:go:hi; niga̋:d ayv dv:ʔì:jv:go:hi|“All of us will see you again.”|||
 
 ||||||ᏛᎢᏍᎩᎪᎯ, ᏂᎦᏓ ᎠᏴ.; ᏛᎢᏍᎩᎪᎯ, ᏂᎦd ᎠᏴ.|dv:ʔì:sgi:go:hi, niga̋:da ayv.; dv:ʔì:sgi:go:hi, niga̋:d ayv.|You will see all of us again.|||
-||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏍᎩᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏍᎩᎪᎯ|niga̋:da nihi, dv:ʔì:sgi:go:hi; niga̋:d nihi, dv:ʔì:sgi:go:hi|You all will see me again.||Complete the lesson material through the end of chapter 10.|
+||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏍᎩᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏍᎩᎪᎯ|niga̋:da nihi, dv:ʔì:sgi:go:hi; niga̋:d nihi, dv:ʔì:sgi:go:hi|All of You will see me again.||Complete the lesson material through the end of chapter 10.|
 
 #Chapter 11 ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᎨᏳᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᎨᏳj?; Ꮩ ᎠᏛᏁ ᎠᎨᏳj?|gadō à:dv́:neha age:hyű:ja?; gadō à:dv́:ne age:hyű:j?; dō à:dv́:ne age:hyű:j?|What is the girl doing?|||
@@ -222,11 +222,11 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙᎲ|gadò:hv̋|“Why?”|||
 
 ||||||ᎡnᏙᏂ ᏓᏆᏙᎠ; ᎡnᏙn ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|“Anthony is what I am called.”|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|“Linda and Michael are what we two are called.”|||
-||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|“Margaret, Mary, and Barbara are what we all are called.”|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|“Linda and Michael are what both of us are called.”|||
+||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|“Margaret, Mary, and Barbara are what all of us are called.”|||
 ||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|“Elizabeth is what you are called.”|||
-||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|“Susan and Thomas are what you two are called.”|||
-||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|“David, Charles, and John are what you all are called.”|||
+||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|“Susan and Thomas are what the two of you are called.”|||
+||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|“David, Charles, and John are what all of you are called.”|||
 
 ||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|“Wolf is what he is called.”|||
 ||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|“Squirrel, Horse, and Bear are what they are called.”|||
