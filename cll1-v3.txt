@@ -111,7 +111,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 #Chapter 8|||
 ||||||ᎠᏴ; ᎠᏯ|ayv; aya|“I. We.”|||
-||||||ᎥᏍᎩᎾ; ᎥᏍᎩ; ᏍᎩᎾ; ᎾᏍᎩ|v̀:sgina; v̀:sgi; sgina; nà:sgi|“He. She. It. They.”|||
+||||||ᎥᏍᎩᎾ; ᎥᏍᎩ; ᏍᎩᎾ; ᎾᏍᎩ|v̀:sgina; v̀:sgi; sgina; nà:sgi|He. She. It. They. That.|||
 
 ||||||ᎭᏢ ᎥᏍᎩᎾ; ᎭᏢ ᎥᏍᎩ; ᎭᏢ ᏍᎩᎾ; ᎭᏢ ᎾᏍᎩ|ha:dlv v̀:sgina; ha:dlv v̀:sgi; ha:dlv sgina; ha:dlv nà:sgi|Where is he? Where are they?|||
 
@@ -129,17 +129,17 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏬᏂᏍᎬᎢ ᎠkᏔᎲᎢ; ᎦᏬᏂᏍᎬ ᎠkᏔᎲ|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|“Knowing how to speak.”|||
 
 ||||||ᎠᎨᏯᎲ?|agě:hyahv?|But a woman?|||
-||||||ᎥᏍᎩᎾᎲ?; ᎾᏍᎩᎲ?|v̀:sginahv?; nà:sgihv?|But for him or them?|||
+||||||ᎥᏍᎩᎾᎲ?; ᎾᏍᎩᎲ?|v̀:sginahv?; nà:sgihv?|But for him, them, or that?|||
 
 ||||||ᎠᏍᎦᏯᎾ?|asgayana?|What of a man?|||
 ||||||ᎯᎠᎾ?; ᎯᎢᎾ?|hiʔana?; hiʔina?|What of this?|||
 
-||||||ᎩᏟᏍᎪ?; ᎩᏟᏍ?|gi:hlisgo?; gi:hlis?|Is it a dog? Dogs?|||
-||||||ᎾᏍᎪ?; ᎾᏍ?|nasgo?; nas?|Is it that?|||
+||||||ᎩᏟᏍᎪ?; ᎩᏟᏍ?|Gi:hlisgo?; Gi:hlis?|Is it a dog? Dogs?|||
+||||||ᎾᏍᎪ?; ᎾᏍ?|V̀:sginasgo?; V̀:sgisgo?; Sginasgo?; Nà:sgisgo?; V̀:sginas?; V̀:sgis?; Sginas?; Nà:sgis?|Is it him, them, or that?|||
 ||||||ᎯᎠᏍᎪ?; ᎯᎢᏍᎪ?; ᎯᎠᏍ?; ᎯᎢᏍ?|hiʔasgo?; hiʔisgo?; hiʔas?; hiʔis?|Is it this?|||
 
 ||||||ᎠᎭᏫᏊ.; ᎠᏫᏊ.|ahawigwu.; ahwigwu.|Just a deer. Just deer.|||
-||||||ᎥᏍᎩᎾᏊ.; ᏍᎩᎾᏊ.; ᎾᏍᎩᏊ.|v̀:sginagwu.; sginagwu.; nà:sgigwu.|Just him or them.|||
+||||||ᎥᏍᎩᎾᏊ.; ᏍᎩᎾᏊ.; ᎾᏍᎩᏊ.|v̀:sginagwu.; sginagwu.; nà:sgigwu.|Just him, them, or that.|||
 ||||||ᎯᎠᏊ.; ᎯᎢᏊ.|hiʔagwu.; hiʔigwu.|Just this.|||
 
 ||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|It's just a wolf, right?|||
