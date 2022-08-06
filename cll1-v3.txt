@@ -167,7 +167,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|à:ni:ji:sdu; à:ni:ji:sd|The rabbit people.|||
 *||||||ᎠᏩᎭᏯ; ᎠᏩᏯ|awahaya; awahya|A member of the wolf people.|||
 *||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|à:ni:wahaya; à:ni:wahya|The wolf people.|||
-*||||||ᎠᏪᏌ; ᎠᏪᏌ|awě:sa; awě:s|The cat people.|||
+*||||||ᎠᏪᏌ; ᎠᏪᏌ|awě:sa; awě:s|A member of the cat people.|||
 *||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏌ|à:ni:wě:sa; à:ni:wě:s|The cat people.|||
 
 ||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|John, I will see you again.|||
