@@ -301,7 +301,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎢᏤᎢᏳᏍᏗᏍᎪ ᏲᎾ?; ᎢᏤᎢᏳᏍᏗᏍ Ᏺn?|ijé:ʔiyű:sdisgo yǒ:na?; ijé:ʔiyű:sdis yǒ:n?|Is it a green bear?|||
 ||||||ᎤᏍᎪᎸᎢ; ᎤᏍᎪᎸ|ù:sgǒ:lv̋:ʔi; ù:sgǒ:lv̋|“Dim. Faded.”|||
 ||||||ᎤᏬᏗᎨᎢ ᏄᎾᏊ; ᎤᏬᏗᎨ ᏄᎾᏊ|uwǒ:díge̋ʔi nǔ:nagwu; uwǒ:díge̋ nǔ:nagwu|just a brown potato.|||
-#gǐ:ge̋:ɂi|||
+#gǐ:ge̋:ʔi|||
 ||||||ᎩᎦᎨᎢ ᎫᎴ; ᎩᎦᎨ ᎫᎴ; ᎩᎨᎢ ᎫᎴ; ᎩᎨ ᎫᎴ|gǐ:gáge̋:ʔi gu:le; gǐ:gáge̋ gu:le; gǐ:ge̋:ʔi gu:le; gǐ:ge̋ gu:le|A red acorn.|||
 ||||||ᎬᎿᎨᎢ ᏌᏛᏗ; ᎬᎿᎨ ᏌᏛd; ᎬᏂᎨᎢ ᏌᏛᏗ; ᎬᏂᎨ ᏌᏛd|gv̌:hnáge̋ʔi sadv́:di; gv̌:hnáge̋ sadv́:d; gv̌:níge̋:ʔi sadv́:di; gv̌:níge̋ sadv́:d|A black trap.|||
 ||||||ᏌᎪᏂᎨᎢ ᏌᏛᏗ; ᏌᎪᏂᎨ ᏌᏛd|sakǒ:níge̋:ʔi sadv́:di; sakǒ:níge̋ sadv́:d|A blue trap.|||
