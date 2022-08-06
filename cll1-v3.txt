@@ -8,7 +8,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎰᏩ|howa|Okay.|||
 ||||||ᎠᏲ!|ayo!|Ouch!|||
 
-||||||ᏙᎯ|tò:hi̋|“Peaceful. Well in health.”|||
+||||||ᏙᎯ|tò:hi̋|Peaceful. Well in health.|||
 ||||||ᏙᎯᏧ?|tò:hi̋:ju?|It is well. Right?|||
 ||||||ᏙᎯᏍᎪ?; ᏙᎯᏍ?|tò:hi̋:sgo?; tò:hi̋:s?|Is it well?|||
 ||||||ᎥᎥ. ᏙᎯᏊ.; Ꭵ. ᏙᎯᏊ.|v:ʔv. tò:hi̋:gwu.; v:ʔ. tò:hi̋:gwu.|Yes, it's just well.|||
@@ -81,10 +81,10 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏂᏍᎦᏯ ᏲᎾ ᏓᏂᎪwᏘᎭ; ᎠᏂᏍᎦᏯ ᏲᎾ ᏓᏂᎪwᏘ|ani:sgaya yǒ:na dà:nigowhtíha; ani:sgaya yǒ:na dà:nigowhtí|The men see bears.|||
 ||||||ᎩᏟ ᎠᎴ ᏪᏌ; ᎩᏟ ᎠᎴ ᏪᏍ|gi:hli ale wě:sa; gi:hli ale wě:s|A dog and or a cat.|||
 
-||||||ᎦᏙ ᏧᏍᏗ ᏄᎾ?; ᎦᏙ ᏧᏍd Ꮔn?; Ꮩ ᏧᏍd Ꮔn?|gadō jű:sdi nǔ:na?; gadō jű:sd nǔ:n?; dō jű:sd nǔ:n?|“Which potatoes?”|||
-||||||ᎦᏙ ᏧᏍᏗ ᏅᏯ?; ᎦᏙ ᏧᏍd ᏅᏯ?; Ꮩ ᏧᏍd ᏅᏯ?|gadō jű:sdi nv̀:ya?; gadō jű:sd nv̀:ya?; dō jű:sd nv̀:ya?|“Which rocks?”|||
-||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; Ꮩ ᎤnᏍᏗ ᎠᏂᎨᏯ?|gadō űnsdi ani:gě:hya?; gadō űnsdi ani:gě:hya?; dō űnsdi ani:gě:hya?|“Which women?”|||
-||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᏍᎦᏯ?; ᎦᏙ ᎤnᏍd ᎠᏂᏍᎦᏯ?; Ꮩ ᎤnᏍd ᎠᏂᏍᎦᏯ?|gadō űnsdi ani:sgaya?; gadō űnsd ani:sgaya?; dō űnsd ani:sgaya?|“Which men?”|||
+||||||ᎦᏙ ᏧᏍᏗ ᏄᎾ?; ᎦᏙ ᏧᏍd Ꮔn?; Ꮩ ᏧᏍd Ꮔn?|gadō jű:sdi nǔ:na?; gadō jű:sd nǔ:n?; dō jű:sd nǔ:n?|Which potatoes?|||
+||||||ᎦᏙ ᏧᏍᏗ ᏅᏯ?; ᎦᏙ ᏧᏍd ᏅᏯ?; Ꮩ ᏧᏍd ᏅᏯ?|gadō jű:sdi nv̀:ya?; gadō jű:sd nv̀:ya?; dō jű:sd nv̀:ya?|Which rocks?|||
+||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; ᎦᏙ ᎤnᏍᏗ ᎠᏂᎨᏯ?; Ꮩ ᎤnᏍᏗ ᎠᏂᎨᏯ?|gadō űnsdi ani:gě:hya?; gadō űnsdi ani:gě:hya?; dō űnsdi ani:gě:hya?|Which women?|||
+||||||ᎦᏙ ᎤnᏍᏗ ᎠᏂᏍᎦᏯ?; ᎦᏙ ᎤnᏍd ᎠᏂᏍᎦᏯ?; Ꮩ ᎤnᏍd ᎠᏂᏍᎦᏯ?|gadō űnsdi ani:sgaya?; gadō űnsd ani:sgaya?; dō űnsd ani:sgaya?|Which men?|||
 
 ||||||ᏗᏍᏓᏛᏓᏍᏓ|disdà:tv:dà:sda|let the two of you listen to them.|||
 ||||||ᏂᏗᏍᏓᏛᎦ|nidisdadv̀:ga|let the two of you do them.||Complete the lesson material through the end of chapter 6.|
@@ -110,7 +110,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏗᏍᏗᎪᎵᏯ.|disdigo:lǐ:ya.|let the two of you read them.||Complete the lesson material through the end of chapter 7.|
 
 #Chapter 8|||
-||||||ᎠᏴ; ᎠᏯ|ayv; aya|“I. We.”|||
+||||||ᎠᏴ; ᎠᏯ|ayv; aya|I. We.|||
 ||||||ᎥᏍᎩᎾ; ᎥᏍᎩ; ᏍᎩᎾ; ᎾᏍᎩ|v̀:sgina; v̀:sgi; sgina; nà:sgi|He. She. It. They. That.|||
 
 ||||||ᎭᏢ ᎥᏍᎩᎾ; ᎭᏢ ᎥᏍᎩ; ᎭᏢ ᏍᎩᎾ; ᎭᏢ ᎾᏍᎩ|ha:dlv v̀:sgina; ha:dlv v̀:sgi; ha:dlv sgina; ha:dlv nà:sgi|Where is he? Where are they?|||
@@ -119,14 +119,14 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎭᏢ Ꮎ ᏕꮅᎬᎢ|Ha:dlv na dě:hlʔgv̋:ʔi?|Where are the trees?|||
 
 ||||||ᎠᎨᏯ ᎯᎠ ᎠᎪwᏘᎭ; ᎠᎨᏯ ᎯᎠ ᎠᎪwᏘ; ᎠᎨᏯ ᎯᎢ ᎠᎪwᏘᎭ; ᎠᎨᏯ ᎯᎢ ᎠᎪwᏘ|agě:hya hiʔa à:gowhtíha; agě:hya hiʔa à:gowhtí; agě:hya hiʔi à:gowhtíha; agě:hya hiʔi à:gowhtí|A woman sees this.|||
-# |||||||na|“The. That.”|||
-||||||ᏂᎯ|nihi|“You.”|||
+# |||||||na|The. That.|||
+||||||ᏂᎯ|nihi|You.|||
 
 ||||||ᏂᏗᏣᏛᎦ|nidijadv̀:ga|let all of you do them.|||
 ||||||ᏗᏦᏪᎸᎦ|dì:jo:hwe:lv̀:ga|Let all of you write them.||Complete the lesson material through the end of chapter 8.|
 
 #Chapter 9|||
-||||||ᎦᏬᏂᏍᎬᎢ ᎠkᏔᎲᎢ; ᎦᏬᏂᏍᎬ ᎠkᏔᎲ|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|“Knowing how to speak.”|||
+||||||ᎦᏬᏂᏍᎬᎢ ᎠkᏔᎲᎢ; ᎦᏬᏂᏍᎬ ᎠkᏔᎲ|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|Knowing how to speak.|||
 
 ||||||ᎠᎨᏯᎲ?|agě:hyahv?|But a woman?|||
 ||||||ᎥᏍᎩᎾᎲ?; ᎾᏍᎩᎲ?|v̀:sginahv?; nà:sgihv?|But for him, them, or that?|||
@@ -156,24 +156,24 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏗᏣᏛᏓᏍᏓ|dì:jà:tv:dà:sda|let all of you listen to them.||Complete the lesson material through the end of chapter 9.|
 
 #Chapter 10 ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.”|||
+*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.|||
 *||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again later.|||
 
-||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|“The deer people.”|||
-||||||ᎠᏂᎩᏟ|à:ni:gi:hli|“The dog people.”|||
-||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|à:ni:ji:sdu; à:ni:ji:sd|“The rabbit people.”|||
-||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|à:ni:wahaya; à:ni:wahya|“The wolf people.”|||
-||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏍ|à:ni:wě:sa; à:ni:wě:s|“The cat people.”|||
+||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|The deer people.|||
+||||||ᎠᏂᎩᏟ|à:ni:gi:hli|The dog people.|||
+||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|à:ni:ji:sdu; à:ni:ji:sd|The rabbit people.|||
+||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|à:ni:wahaya; à:ni:wahya|The wolf people.|||
+||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏍ|à:ni:wě:sa; à:ni:wě:s|The cat people.|||
 
-||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|“John, I will see you again.”|||
-||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|“John, You will see me again.”|||
+||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|John, I will see you again.|||
+||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|John, You will see me again.|||
 
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᏛᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᏛᎪᎯ|lí:nida ale ma:gá:li, dv:sdv:go:hi; lí:nid ale ma:gá:l, dv:sdv:go:hi|“Linda and Michael, I will see the two of you again.”|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᏛᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᏛᎪᎯ|lí:nida ale ma:gá:li, dv:sdv:go:hi; lí:nid ale ma:gá:l, dv:sdv:go:hi|Linda and Michael, I will see the two of you again.|||
 ||||||ᎠᎵᏌᏇᏘ, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙᏂ ᎠᎴ ᎠᏴ.; ᎠᎵᏌᏇt, ᏛᏍᎩᏂᎪᎯ, ᎡnᏙn ᎠᎴ ᎠᏴ.|a:lí:sa:gwe:ti, dv:sgini:go:hi, énto:ni ale ayv.; a:lí:sa:gwe:t, dv:sgini:go:hi, énto:n ale ayv.|Elizabeth, you will see both of us again, Anthony and me.|||
 ||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ, ᏛᏍᎩᏂᎪᎯ; ᎵᏂd ᎠᎴ ᎹᎦꮅ, ᏛᏍᎩᏂᎪᎯ|lí:nida ale ma:gá:li, dv:sgini:go:hi; lí:nid ale ma:gá:l, dv:sgini:go:hi|Linda and Michael, the two of you will see me again|||
 
 ||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏨᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏨᎪᎯ|niga̋:da nihi, dv:ʔì:jv:go:hi; niga̋:d nihi, dv:ʔì:jv:go:hi|I will see all of you again.|||
-||||||ᏂᎦᏓ ᎠᏴ ᏛᎢᏨᎪᎯ; ᏂᎦd ᎠᏴ ᏛᎢᏨᎪᎯ|niga̋:da ayv dv:ʔì:jv:go:hi; niga̋:d ayv dv:ʔì:jv:go:hi|“All of us will see you again.”|||
+||||||ᏂᎦᏓ ᎠᏴ ᏛᎢᏨᎪᎯ; ᏂᎦd ᎠᏴ ᏛᎢᏨᎪᎯ|niga̋:da ayv dv:ʔì:jv:go:hi; niga̋:d ayv dv:ʔì:jv:go:hi|All of us will see you again.|||
 
 ||||||ᏛᎢᏍᎩᎪᎯ, ᏂᎦᏓ ᎠᏴ.; ᏛᎢᏍᎩᎪᎯ, ᏂᎦd ᎠᏴ.|dv:ʔì:sgi:go:hi, niga̋:da ayv.; dv:ʔì:sgi:go:hi, niga̋:d ayv.|You will see all of us again.|||
 ||||||ᏂᎦᏓ ᏂᎯ, ᏛᎢᏍᎩᎪᎯ; ᏂᎦd ᏂᎯ, ᏛᎢᏍᎩᎪᎯ|niga̋:da nihi, dv:ʔì:sgi:go:hi; niga̋:d nihi, dv:ʔì:sgi:go:hi|All of You will see me again.||Complete the lesson material through the end of chapter 10.|
@@ -181,76 +181,76 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #Chapter 11 ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᎨᏳᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᎨᏳj?; Ꮩ ᎠᏛᏁ ᎠᎨᏳj?|gadō à:dv́:neha age:hyű:ja?; gadō à:dv́:ne age:hyű:j?; dō à:dv́:ne age:hyű:j?|What is the girl doing?|||
 ||||||ᏦᎦᏚ ᎠᏂᎨᏳᏣ ᎠᎭᏂ.; ᏦᎦd ᎠᏂᎨᏳj ᎠᏂ.|joʔga:ʔdu ani:ge:hyű:ja áhani.; joʔga:ʔd ani:ge:hyű:j áhni.|Thirteen girls are here.|||
-||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᏧᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᏧj?; Ꮩ ᎠᏛᏁ ᎠᏧj?|gadō à:dv́:neha achű:ja?; gadō à:dv́:ne achű:j?; dō à:dv́:ne achű:j?|“What is the boy doing?”|||
-||||||ᎦᏙ ᎠᎾᏛᏁᎭ ᎠᏂᏧᏣ?; ᎦᏙ ᎠᎾᏛᏁ ᎠᏂᏧj?; Ꮩ ᎠᎾᏛᏁ ᎠᏂᏧj?|gadō à:na:dv́:neha ani:chű:ja?; gadō à:na:dv́:ne ani:chű:j?; dō à:na:dv́:ne ani:chű:j?|“What are the boys doing?”|||
+||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᏧᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᏧj?; Ꮩ ᎠᏛᏁ ᎠᏧj?|gadō à:dv́:neha achű:ja?; gadō à:dv́:ne achű:j?; dō à:dv́:ne achű:j?|What is the boy doing?|||
+||||||ᎦᏙ ᎠᎾᏛᏁᎭ ᎠᏂᏧᏣ?; ᎦᏙ ᎠᎾᏛᏁ ᎠᏂᏧj?; Ꮩ ᎠᎾᏛᏁ ᎠᏂᏧj?|gadō à:na:dv́:neha ani:chű:ja?; gadō à:na:dv́:ne ani:chű:j?; dō à:na:dv́:ne ani:chű:j?|What are the boys doing?|||
 
-||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlgv̋:ʔi jigowhtíha; hlgv̋ jigowhtí|“I see a tree.”|||
-||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlgv̋:ʔi dà:nigowhtíha; dě:hlgv̋ dà:nigowhtí|“They see trees.”|||
+||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlgv̋:ʔi jigowhtíha; hlgv̋ jigowhtí|I see a tree.|||
+||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlgv̋:ʔi dà:nigowhtíha; dě:hlgv̋ dà:nigowhtí|They see trees.|||
 
 ||||||ᏌᏚ|sa:ʔdu|Eleven.|||
 ||||||ᏣᏁᎳ; ᏣᏁꮅ; ᏧᏁᎳ; ᏧᏁꮅ|chaně:la; chaně:l; chuně:la; chuně:l|Eight.|||
 ||||||ᏐᏁᎳ; ᏐᏁꮅ|sóhně:la; sóhně:l|Nine.|||
 ||||||ᏍᎪᎯ.|sgǒ:hi.|Ten|||
 ||||||ᏔꮅᏚ|taʔldu|Twelve.|||
-||||||Ꮓt|nò:t|“Naught. Zero.”|||
-||||||ᎧᏂᎩᏓ|ka:nǐgîda|“Nothing. Zero.” |||
-||||||ᏂᎦᏚ|niga:ʔdu|“Fourteen.”|||
-||||||ᏍᎩᎦᏚ|sgiga:ʔdu|“Fifteen.”|||
-||||||ᏓᎳᏚ|da:la:du|“Sixteen.”|||
-||||||ᎦꮅᏆᏚ|gahlgwǎ:du|“Seventeen.”|||
-||||||ᏁᎳᏚ|ně:la:du|“Eighteen.”|||
-||||||ᏐᏁᎳᏚ|sóhněla:du|“Nineteen.”|||
-||||||ᏔꮅᏍᎪᎯ|táʔlsgǒ:hi|“Twenty.”|||
-||||||ᏦᏍᎪᎯ|joʔsgǒ:hi|“Thirty.”|||
-||||||ᏅkᏍᎪᎯ|nvksgǒ:hi|“Forty.”|||
-||||||ᎯkᏍᎪᎯ|hiksgǒ:hi|“Fifty.”|||
-||||||ᏑᏓꮅᏍᎪᎯ|sǔ:dálsgǒ:hi|“Sixty.”|||
-||||||ᎦꮅᏆᏍᎪᎯ|gahlgwǎ:sgǒ:hi|“Seventy.”|||
-||||||ᏁꮅᏍᎪᎯ|nélsgǒ:hi|“Eighty.”|||
-||||||ᏐᏁꮅᏍᎪᎯ|sóhnélsgǒ:hi|“Ninety.”|||
-||||||ᏍᎪᎯtᏍᏆ|sgǒ:hítsgwa|“One hundred.”||Complete the lesson material through the end of chapter 11.|
+||||||Ꮓt|nò:t|Naught. Zero.|||
+||||||ᎧᏂᎩᏓ|ka:nǐgîda|Nothing. Zero. |||
+||||||ᏂᎦᏚ|niga:ʔdu|Fourteen.|||
+||||||ᏍᎩᎦᏚ|sgiga:ʔdu|Fifteen.|||
+||||||ᏓᎳᏚ|da:la:du|Sixteen.|||
+||||||ᎦꮅᏆᏚ|gahlgwǎ:du|Seventeen.|||
+||||||ᏁᎳᏚ|ně:la:du|Eighteen.|||
+||||||ᏐᏁᎳᏚ|sóhněla:du|Nineteen.|||
+||||||ᏔꮅᏍᎪᎯ|táʔlsgǒ:hi|Twenty.|||
+||||||ᏦᏍᎪᎯ|joʔsgǒ:hi|Thirty.|||
+||||||ᏅkᏍᎪᎯ|nvksgǒ:hi|Forty.|||
+||||||ᎯkᏍᎪᎯ|hiksgǒ:hi|Fifty.|||
+||||||ᏑᏓꮅᏍᎪᎯ|sǔ:dálsgǒ:hi|Sixty.|||
+||||||ᎦꮅᏆᏍᎪᎯ|gahlgwǎ:sgǒ:hi|Seventy.|||
+||||||ᏁꮅᏍᎪᎯ|nélsgǒ:hi|Eighty.|||
+||||||ᏐᏁꮅᏍᎪᎯ|sóhnélsgǒ:hi|Ninety.|||
+||||||ᏍᎪᎯtᏍᏆ|sgǒ:hítsgwa|One hundred.||Complete the lesson material through the end of chapter 11.|
 
 #Chapter 12 ᏔᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
-||||||ᎯᎳᏴᎢ?; ᎯᎳᏴ?|hilâ:yv̋:ʔi?; hilâ:yv̋?|“When?”|||
-||||||ᎦᎪ?|gá:gō?|“Who?”|||
-||||||ᎦᎩ?|gâ:gí?|“Who again?”|||
-||||||ᎦᏙ?; Ꮩ?|gadò?; dò?|“What?”|||
-||||||ᎦᏙᎩ?; ᏙᎩ?|gadògí?; dògí?|“What again?”|||
-||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|gadō u:sdi?; dō u:sd?|“What?” “What thing?”|||
+||||||ᎯᎳᏴᎢ?; ᎯᎳᏴ?|hilâ:yv̋:ʔi?; hilâ:yv̋?|When?|||
+||||||ᎦᎪ?|gá:gō?|Who?|||
+||||||ᎦᎩ?|gâ:gí?|Who again?|||
+||||||ᎦᏙ?; Ꮩ?|gadò?; dò?|What?|||
+||||||ᎦᏙᎩ?; ᏙᎩ?|gadògí?; dògí?|What again?|||
+||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|gadō u:sdi?; dō u:sd?|What? What thing?|||
 
-||||||ᎦᏙᎲ|gadò:hv̋|“Why?”|||
+||||||ᎦᏙᎲ|gadò:hv̋|Why?|||
 
-||||||ᎡnᏙᏂ ᏓᏆᏙᎠ; ᎡnᏙn ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|“Anthony is what I am called.”|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|“Linda and Michael are what both of us are called.”|||
-||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|“Margaret, Mary, and Barbara are what all of us are called.”|||
-||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|“Elizabeth is what you are called.”|||
-||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|“Susan and Thomas are what the two of you are called.”|||
-||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|“David, Charles, and John are what all of you are called.”|||
+||||||ᎡnᏙᏂ ᏓᏆᏙᎠ; ᎡnᏙn ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|Anthony is what I am called.|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|Linda and Michael are what both of us are called.|||
+||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Margaret, Mary, and Barbara are what all of us are called.|||
+||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|Elizabeth is what you are called.|||
+||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|Susan and Thomas are what the two of you are called.|||
+||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|David, Charles, and John are what all of you are called.|||
 
-||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|“Wolf is what he is called.”|||
-||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|“Squirrel, Horse, and Bear are what they are called.”|||
+||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|Wolf is what he is called.|||
+||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|Squirrel, Horse, and Bear are what they are called.|||
 
-||||||ᏌᎶᎵ, ᎢᎮᏙᎸᎢ; ᏌᎶꮅ, ᎢᎮᏙᎸᎢ|salǒ:li, íhě:dô:lv:ʔi; salǒ:l, íhě:dô:lv:ʔi|“Squirrel, come around again.”|||
-||||||ᏐᏈᎵ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ; ᏐᏈꮅ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ|sǒ:gwíli ale yǒ:na, ísdě:dô:lv:ʔi; sǒ:gwíl ale yǒ:na, ísdě:dô:lv:ʔi|“Horse and Bear, come around again.”|||
-||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ|salǒ:li, sǒ:gwíli, ale yǒ:na íʔì:jě:dô:lv:ʔi; salǒ:l, sǒ:gwíl, ale yǒ:na íʔì:jě:dô:lv:ʔi|“Squirrel, Horse, and Bear, come around again.”|||
-||||||ᎩᎵᏏ; ᎩᎵᏍ|gili:si; gili:s|“English.”|||
-||||||ᏴᏫ|yv:wi|“A person. People.”|||
-||||||ᎠᎩᎵᏏ; ᎠᎩᎵᏍ|agili:si; agili:s|“An English person.”|||
-||||||ᎠᏂᎩᎵᏏ; ᎠᏂᎩᎵᏍ|ani:gili:si; ani:gili:s|“English people.”|||
-||||||ᎠᏣᎳᎩ; ᎠᏣᎳg|ajalagi; ajalag|“A Cherokee person.”|||
-||||||ᎠᏃᏍᏓ ᎠᏂᏣᎳᎩ; ᎠᏃᏍd ᎠᏂᏣᎳg|à:nő:sda ani:jalagi; à:nő:sd ani:jalag|“Good cherokee people.”|||
+||||||ᏌᎶᎵ, ᎢᎮᏙᎸᎢ; ᏌᎶꮅ, ᎢᎮᏙᎸᎢ|salǒ:li, íhě:dô:lv:ʔi; salǒ:l, íhě:dô:lv:ʔi|Squirrel, come around again.|||
+||||||ᏐᏈᎵ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ; ᏐᏈꮅ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ|sǒ:gwíli ale yǒ:na, ísdě:dô:lv:ʔi; sǒ:gwíl ale yǒ:na, ísdě:dô:lv:ʔi|Horse and Bear, come around again.|||
+||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ|salǒ:li, sǒ:gwíli, ale yǒ:na íʔì:jě:dô:lv:ʔi; salǒ:l, sǒ:gwíl, ale yǒ:na íʔì:jě:dô:lv:ʔi|Squirrel, Horse, and Bear, come around again.|||
+||||||ᎩᎵᏏ; ᎩᎵᏍ|gili:si; gili:s|English.|||
+||||||ᏴᏫ|yv:wi|A person. People.|||
+||||||ᎠᎩᎵᏏ; ᎠᎩᎵᏍ|agili:si; agili:s|An English person.|||
+||||||ᎠᏂᎩᎵᏏ; ᎠᏂᎩᎵᏍ|ani:gili:si; ani:gili:s|English people.|||
+||||||ᎠᏣᎳᎩ; ᎠᏣᎳg|ajalagi; ajalag|A Cherokee person.|||
+||||||ᎠᏃᏍᏓ ᎠᏂᏣᎳᎩ; ᎠᏃᏍd ᎠᏂᏣᎳg|à:nő:sda ani:jalagi; à:nő:sd ani:jalag|Good cherokee people.|||
 ||||||ᎠᏲᏁᎦ; ᎠᏲᏁg|ayó:ne:ga; ayó:ne:g|An English or white person.|||
-||||||ᎤᏂᏲᎢ ᎠᏂᏲᏁᎦ; ᎤᏂᏲ ᎠᏂᏲᏁg|u:niyő:ʔi ani:yó:ne:ga; u:niyő ani:yó:ne:g|“Bad English people.”|||
-||||||ᎠᏂᏴᏫ|ani:yv:wi|“People.”|||
-||||||ᎠᏴᏫᏯᎢ; ᎠᏴᏫᏯ|ayv:wi:ya̋:ʔi; ayv:wi:ya̋|“A Native American.”|||
-||||||ᎠᏂᏴᏫᏯᎢ; ᎠᏂᏴᏫᏯ|ani:yv:wi:ya̋:ʔi; ani:yv:wi:ya̋|“Native Americans.”||Complete the lesson material through the end of chapter 12.|
+||||||ᎤᏂᏲᎢ ᎠᏂᏲᏁᎦ; ᎤᏂᏲ ᎠᏂᏲᏁg|u:niyő:ʔi ani:yó:ne:ga; u:niyő ani:yó:ne:g|Bad English people.|||
+||||||ᎠᏂᏴᏫ|ani:yv:wi|People.|||
+||||||ᎠᏴᏫᏯᎢ; ᎠᏴᏫᏯ|ayv:wi:ya̋:ʔi; ayv:wi:ya̋|A Native American.|||
+||||||ᎠᏂᏴᏫᏯᎢ; ᎠᏂᏴᏫᏯ|ani:yv:wi:ya̋:ʔi; ani:yv:wi:ya̋|Native Americans.||Complete the lesson material through the end of chapter 12.|
 
 #Chapter 13 ᏦᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||Ꮟ|si|“Wait! Yet! All the same.”|||
-||||||ᎥᏝᏏ; ᏝᏏ|vhlási; hlási|“Not all the same. No longer still.”|||
+||||||Ꮟ|si|Wait! Yet! All the same.|||
+||||||ᎥᏝᏏ; ᏝᏏ|vhlási; hlási|Not all the same. No longer still.|||
 
-||||||Ꮭ ᎪᎱᏍᏗ; Ꮭ ᎪᎱᏍd; Ꮭ ᎪᏍᏗ; Ꮭ ᎪᏍd|hla go:hű:sdi; hla go:hű:sd; hla gő:sdi; hla gő:sd|“Not anything.”|||
+||||||Ꮭ ᎪᎱᏍᏗ; Ꮭ ᎪᎱᏍd; Ꮭ ᎪᏍᏗ; Ꮭ ᎪᏍd|hla go:hű:sdi; hla go:hű:sd; hla gő:sdi; hla gő:sd|Not anything.|||
 
 ||||||ᎤᏬꮅᏗ ᎪᏪᎵ; ᎤᏬꮅd ᎪᏪꮅ|uwőhldi go:hwe:li; uwőhld go:hwe:l|A funny paper.|||
 ||||||ᏧᏬꮅᏗ ᏗᎪᏪᎵ; ᏧᏬꮅd ᏗᎪᏪꮅ|juwőhldi digo:hwe:li; juwőhld digo:hwe:l|Funny papers.|||
@@ -299,7 +299,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #Chapter 14 ᏂᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎢᏤᎢ ᏚᏯ; ᎢᏤ ᏚᏯ|ìje̋:ʔi tǔ:ya; ìje̋ tǔ:ya|A green bean.|||
 ||||||ᎢᏤᎢᏳᏍᏗᏍᎪ ᏲᎾ?; ᎢᏤᎢᏳᏍᏗᏍ Ᏺn?|ijé:ʔiyű:sdisgo yǒ:na?; ijé:ʔiyű:sdis yǒ:n?|Is it a green bear?|||
-||||||ᎤᏍᎪᎸᎢ; ᎤᏍᎪᎸ|ù:sgǒ:lv̋:ʔi; ù:sgǒ:lv̋|“Dim. Faded.”|||
+||||||ᎤᏍᎪᎸᎢ; ᎤᏍᎪᎸ|ù:sgǒ:lv̋:ʔi; ù:sgǒ:lv̋|Dim. Faded.|||
 ||||||ᎤᏬᏗᎨᎢ ᏄᎾᏊ; ᎤᏬᏗᎨ ᏄᎾᏊ|uwǒ:díge̋ʔi nǔ:nagwu; uwǒ:díge̋ nǔ:nagwu|just a brown potato.|||
 #gǐ:ge̋:ʔi|||
 ||||||ᎩᎦᎨᎢ ᎫᎴ; ᎩᎦᎨ ᎫᎴ; ᎩᎨᎢ ᎫᎴ; ᎩᎨ ᎫᎴ|gǐ:gáge̋:ʔi gu:le; gǐ:gáge̋ gu:le; gǐ:ge̋:ʔi gu:le; gǐ:ge̋ gu:le|A red acorn.|||
@@ -338,74 +338,74 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #Chapter 16 ᏓᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
 #Chapter 17 ᎦᎵᏆᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎫᎴ ᎤᎭ|gu:le ǔ:ha|“He has an acorn.”|||
-||||||ᏚᏯ ᎤᏂᎭ|tǔ:ya ù:nǐ:ha|“They have a bean.”|||
-||||||ᏌᏛᏗ ᎠᎩᎭ|sadv́:di à:giha|“I have a trap.”|||
-||||||ᏄᎾ ᏣᎭ|nǔ:na jaha|“You have a potato.”|||
-||||||ᎩᏟ ᎤᏩᎧᎭ; ᎩᏟ ᎤᏩᎧ|gi:hli ù:wa:káha; gi:hli ù:wa:ká|“He has a dog.”|||
-||||||ᏪᏌ ᎤᏂᎧᎭ; ᏪᏍ ᎤᏂᎧ|wě:sa ù:ni:káha; wě:s ù:ni:ká|“They have a cat.”|||
-||||||ᎠᎭᏫ ᎠᎩᎧᎭ; ᎠᏫ ᎠᎩᎧ|ahawi à:gikáha; ahwi à:giká|“I have a deer.”|||
-||||||ᏙᏯ ᏣᎧᎭ; ᏙᏯ ᏣᎧ|do:ya jakáha; do:ya jaká|“You have a beaver.”||Complete the lesson material through the end of chapter 17.|
+||||||ᎫᎴ ᎤᎭ|gu:le ǔ:ha|He has an acorn.|||
+||||||ᏚᏯ ᎤᏂᎭ|tǔ:ya ù:nǐ:ha|They have a bean.|||
+||||||ᏌᏛᏗ ᎠᎩᎭ|sadv́:di à:giha|I have a trap.|||
+||||||ᏄᎾ ᏣᎭ|nǔ:na jaha|You have a potato.|||
+||||||ᎩᏟ ᎤᏩᎧᎭ; ᎩᏟ ᎤᏩᎧ|gi:hli ù:wa:káha; gi:hli ù:wa:ká|He has a dog.|||
+||||||ᏪᏌ ᎤᏂᎧᎭ; ᏪᏍ ᎤᏂᎧ|wě:sa ù:ni:káha; wě:s ù:ni:ká|They have a cat.|||
+||||||ᎠᎭᏫ ᎠᎩᎧᎭ; ᎠᏫ ᎠᎩᎧ|ahawi à:gikáha; ahwi à:giká|I have a deer.|||
+||||||ᏙᏯ ᏣᎧᎭ; ᏙᏯ ᏣᎧ|do:ya jakáha; do:ya jaká|You have a beaver.||Complete the lesson material through the end of chapter 17.|
 
 #Chapter 18 ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎠᎨᏳᏣ ᎠᎩᎪwᏘᎭ|age:hyű:ja agigowhtíha|“A girl sees me.”|||
-||||||ᎠᏧᏣ Ꮭ ᏯᎩᎪwᏘᎭ|achű:ja hla yagigowhtíha|“The boy doesn't see me.”|||
-||||||ᏌᎶᎵ ᏣᎪwᏘᎭ|salǒ:li jagowhtíha|“A squirrel sees you.”|||
-||||||Ꮭ ᏲᎾ ᏱᏣᎪwᏘᎭ|hla yǒ:na yijagowhtíha|“The bear doesn't see you.”|||
-||||||Ꮭ ᎫᎴ ᏳᎭ|hla gu:le yǔ:ha|“He doesn't have an acorn.”|||
-||||||Ꮭ ᏌᏛᏗ ᏳᏂᎭ|hla sadv́:di yù:nǐ:ha|“They don't have the trap.”|||
-||||||Ꮭ ᏄᎾ ᏯᎩᎭ|hla nǔ:na yà:giha|“I don't have the potato.”|||
-||||||Ꮭ ᏅᏯ ᏱᏣᎭ|hla nv̀:ya yijaha|“You don't have the rock.”|||
-||||||Ꮭ ᎩᏟ ᏳᏩᎧᎭ|hla gi:hli yù:wa:káha|“He doesn't have a dog.”|||
-||||||Ꮭ ᏪᏌ ᏳᏂᎧᎭ|hla wě:sa yù:ni:káha|“They don't have a cat.”|||
-||||||Ꮭ ᏙᏯ ᏯᎩᎧᎭ|hla do:ya yà:gikáha|“I don't have a beaver.”|||
-||||||Ꮭ ᏥᏍᏚ ᏱᏣᎧᎭ|hla ji:sdu yijakáha|“You don't have a rabbit.”||Complete the lesson material through the end of chapter 18.|
+||||||ᎠᎨᏳᏣ ᎠᎩᎪwᏘᎭ|age:hyű:ja agigowhtíha|A girl sees me.|||
+||||||ᎠᏧᏣ Ꮭ ᏯᎩᎪwᏘᎭ|achű:ja hla yagigowhtíha|The boy doesn't see me.|||
+||||||ᏌᎶᎵ ᏣᎪwᏘᎭ|salǒ:li jagowhtíha|A squirrel sees you.|||
+||||||Ꮭ ᏲᎾ ᏱᏣᎪwᏘᎭ|hla yǒ:na yijagowhtíha|The bear doesn't see you.|||
+||||||Ꮭ ᎫᎴ ᏳᎭ|hla gu:le yǔ:ha|He doesn't have an acorn.|||
+||||||Ꮭ ᏌᏛᏗ ᏳᏂᎭ|hla sadv́:di yù:nǐ:ha|They don't have the trap.|||
+||||||Ꮭ ᏄᎾ ᏯᎩᎭ|hla nǔ:na yà:giha|I don't have the potato.|||
+||||||Ꮭ ᏅᏯ ᏱᏣᎭ|hla nv̀:ya yijaha|You don't have the rock.|||
+||||||Ꮭ ᎩᏟ ᏳᏩᎧᎭ|hla gi:hli yù:wa:káha|He doesn't have a dog.|||
+||||||Ꮭ ᏪᏌ ᏳᏂᎧᎭ|hla wě:sa yù:ni:káha|They don't have a cat.|||
+||||||Ꮭ ᏙᏯ ᏯᎩᎧᎭ|hla do:ya yà:gikáha|I don't have a beaver.|||
+||||||Ꮭ ᏥᏍᏚ ᏱᏣᎧᎭ|hla ji:sdu yijakáha|You don't have a rabbit.||Complete the lesson material through the end of chapter 18.|
 
 #Chapter 19 ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 #ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE|||
-||||||ᏩᎭᏯ ᎬᎩᎪwᏘᎭ; ᏩᏯ ᎬᎩᎪwᏘ|wahaya gv:gigowhtíha; wahya gv:gigowhtí|“Wolves see me.”|||
-||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ|vhla ani:ge:hyű:ja yigv:gigowhtíha; hla ani:ge:hyű:j yigv:gigowhtí|“Girls don't see me.”|||
-||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ; ᎠᏂᏧj ᎨᏣᎪwᏘ|ani:chű:ja ge:jagowhtíha; ani:chű:j ge:jagowhtí|“Boys see you.”|||
-||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ|vhla salǒ:li yige:jagowhtíha; hla salǒ:l yige:jagowhtí|“Squirrels don't see you.”|||
+||||||ᏩᎭᏯ ᎬᎩᎪwᏘᎭ; ᏩᏯ ᎬᎩᎪwᏘ|wahaya gv:gigowhtíha; wahya gv:gigowhtí|Wolves see me.|||
+||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ|vhla ani:ge:hyű:ja yigv:gigowhtíha; hla ani:ge:hyű:j yigv:gigowhtí|Girls don't see me.|||
+||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ; ᎠᏂᏧj ᎨᏣᎪwᏘ|ani:chű:ja ge:jagowhtíha; ani:chű:j ge:jagowhtí|Boys see you.|||
+||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ|vhla salǒ:li yige:jagowhtíha; hla salǒ:l yige:jagowhtí|Squirrels don't see you.|||
 
-||||||ᏗᏌᏛᏗ ᏚᎭ; ᏗᏌᏛd ᏚᎭ|di:sadv́:di dǔ:ha; di:sadv́:d dǔ:ha|“He has traps.”|||
-||||||ᏄᎾ ᏚᏂᎭ; Ꮔn ᏚᏂᎭ|nǔ:na dù:nǐ:ha; nǔ:n dù:nǐ:ha|“They have potatoes.”|||
-||||||ᏅᏯ ᏓᎩᎭ|nv̀:ya dà:giha|“I have rocks.”|||
-||||||ᎫᎴ ᏕᏣᎭ|gu:le de:jaha|“You have acorns.”|||
-||||||ᎠᎭᏫ ᏚᏩᎧᎭ; ᎠᏫ ᏚᏩᎧ|ahawi dù:wa:káha; ahwi dù:wa:ká|“He has deer.”|||
-||||||ᏙᏯ ᏚᏂᎧᎭ; ᏙᏯ ᏚᏂᎧ|do:ya dù:ni:káha; do:ya dù:ni:ká|“They have beavers.”|||
-||||||ᏥᏍᏚ ᏓᎩᎧᎭ; ᏥᏍd ᏓᎩᎧ|ji:sdu dà:gikáha; ji:sd dà:giká|“I have rabbits.”|||
-||||||ᏩᎭᏯ ᏕᏣᎧᎭ; ᏩᏯ ᏕᏣᎧ|wahaya de:jakáha; wahya de:jaká|“You have wolves.”|||
+||||||ᏗᏌᏛᏗ ᏚᎭ; ᏗᏌᏛd ᏚᎭ|di:sadv́:di dǔ:ha; di:sadv́:d dǔ:ha|He has traps.|||
+||||||ᏄᎾ ᏚᏂᎭ; Ꮔn ᏚᏂᎭ|nǔ:na dù:nǐ:ha; nǔ:n dù:nǐ:ha|They have potatoes.|||
+||||||ᏅᏯ ᏓᎩᎭ|nv̀:ya dà:giha|I have rocks.|||
+||||||ᎫᎴ ᏕᏣᎭ|gu:le de:jaha|You have acorns.|||
+||||||ᎠᎭᏫ ᏚᏩᎧᎭ; ᎠᏫ ᏚᏩᎧ|ahawi dù:wa:káha; ahwi dù:wa:ká|He has deer.|||
+||||||ᏙᏯ ᏚᏂᎧᎭ; ᏙᏯ ᏚᏂᎧ|do:ya dù:ni:káha; do:ya dù:ni:ká|They have beavers.|||
+||||||ᏥᏍᏚ ᏓᎩᎧᎭ; ᏥᏍd ᏓᎩᎧ|ji:sdu dà:gikáha; ji:sd dà:giká|I have rabbits.|||
+||||||ᏩᎭᏯ ᏕᏣᎧᎭ; ᏩᏯ ᏕᏣᎧ|wahaya de:jakáha; wahya de:jaká|You have wolves.|||
 
-||||||ᎥᏝ ᏗᏌᏛᏗ ᏱᏚᎭ; Ꮭ ᏗᏌᏛd ᏱᏚᎭ|vhla di:sadv́:di yidǔ:ha; hla di:sadv́:d yidǔ:ha|“He doesn't have traps.”|||
-||||||ᎥᏝ ᏄᎾ ᏱᏚᏂᎭ|vhla nǔ:na yidù:nǐ:ha|“They don't have potatoes.”|||
-||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ|vhla nv̀:ya yida:giha|“I don't have rocks.”|||
-||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ|vhla gu:le yidi:jaha|“You don't have acorns.”|||
-||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ; Ꮭ ᎩᏟ ᏱᏚᏩᎧ|vhla gi:hli yidù:wa:káha; hla gi:hli yidù:wa:ká|“He doesn't have dogs.”|||
-||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ; Ꮭ ᏪᏍ ᏱᏚᏂᎧ|vhla wě:sa yidù:ni:káha; hla wě:s yidù:ni:ká|“They don't have cats.”|||
-||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ; Ꮭ ᎠᏫ ᏱᏓᎩᎧ|vhla ahawi yida:gikáha; hla ahwi yida:giká|“I don't have deer.”|||
-||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha; hla do:ya yidi:jaká|“You don't have beavers.”||Complete the lesson material through the end of chapter 19.|
+||||||ᎥᏝ ᏗᏌᏛᏗ ᏱᏚᎭ; Ꮭ ᏗᏌᏛd ᏱᏚᎭ|vhla di:sadv́:di yidǔ:ha; hla di:sadv́:d yidǔ:ha|He doesn't have traps.|||
+||||||ᎥᏝ ᏄᎾ ᏱᏚᏂᎭ|vhla nǔ:na yidù:nǐ:ha|They don't have potatoes.|||
+||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ|vhla nv̀:ya yida:giha|I don't have rocks.|||
+||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ|vhla gu:le yidi:jaha|You don't have acorns.|||
+||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ; Ꮭ ᎩᏟ ᏱᏚᏩᎧ|vhla gi:hli yidù:wa:káha; hla gi:hli yidù:wa:ká|He doesn't have dogs.|||
+||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ; Ꮭ ᏪᏍ ᏱᏚᏂᎧ|vhla wě:sa yidù:ni:káha; hla wě:s yidù:ni:ká|They don't have cats.|||
+||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ; Ꮭ ᎠᏫ ᏱᏓᎩᎧ|vhla ahawi yida:gikáha; hla ahwi yida:giká|I don't have deer.|||
+||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha; hla do:ya yidi:jaká|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
 
 #Chapter 20 ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎢᎩ|i̋:gi|Is now or was just now.|||
 ||||||ᎢᎦ|i̋:ga|Is now.|||
-||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|“Usually is.”|||
-||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̌:ʔi; gè:sv̌|“Being.”|||
-||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|“Was being.”|||
-||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|“Reportedly was being.”|||
-||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̌:ʔi; gè:hv̌|“Been (a while ago).”|||
-||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|“Was (a while ago).”|||
-||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|“Reportedly was (a while ago).”|||
-||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|“Will be being.”||Complete the lesson material through the end of chapter 20.|
+||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|Usually is.|||
+||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̌:ʔi; gè:sv̌|Being.|||
+||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|Was being.|||
+||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|Reportedly was being.|||
+||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̌:ʔi; gè:hv̌|Been (a while ago).|||
+||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|Was (a while ago).|||
+||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|Reportedly was (a while ago).|||
+||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|Will be being.||Complete the lesson material through the end of chapter 20.|
 
 #Chapter 21 ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᏆᏆᎠ ᏥᏯᏚᎵᎭ; ᏆᏆ ᏥᏯᏚᎵ|gwa:gwaʔa ji:ya:du:líha; gwa:gwa ji:ya:du:lí|“I want Barbara.”|||
+||||||ᏆᏆᎠ ᏥᏯᏚᎵᎭ; ᏆᏆ ᏥᏯᏚᎵ|gwa:gwaʔa ji:ya:du:líha; gwa:gwa ji:ya:du:lí|I want Barbara.|||
 
 ||||||ᏄᎾ ᎠᏆᏚᎵᎭ; Ꮔn ᎠᏆᏚᎵ|nǔ:na à:gwadu:líha; nǔ:n à:gwadu:lí|I want a potato.|||
 ||||||Ꮎ ᎠᎨᏯ ᎠᏆᏚᎵᎭ; Ꮎ ᎠᎨᏯ ᎠᏆᏚᎵ|na agě:hya à:gwadu:líha; na agě:hya à:gwadu:lí|That woman wants me.|||
 
-||||||ᎩᏟ ᎦᏥᏯᏚᎵᎭ; ᎩᏟ ᎦᏥᏯᏚᎵ|gi:hli ga:ji:ya:du:líha; gi:hli ga:ji:ya:du:lí|“I want dogs.”|||
-||||||ᏗᎦᏍᎩᎶ ᏓᏆᏚᎵᎭ; ᏗᎦᏍᎩꮅ ᏓᏆᏚᎵ|diga:sgilo dà:gwadu:líha; diga:sgil dà:gwadu:lí|“I want the tables or chairs.”|||
+||||||ᎩᏟ ᎦᏥᏯᏚᎵᎭ; ᎩᏟ ᎦᏥᏯᏚᎵ|gi:hli ga:ji:ya:du:líha; gi:hli ga:ji:ya:du:lí|I want dogs.|||
+||||||ᏗᎦᏍᎩᎶ ᏓᏆᏚᎵᎭ; ᏗᎦᏍᎩꮅ ᏓᏆᏚᎵ|diga:sgilo dà:gwadu:líha; diga:sgil dà:gwadu:lí|I want the tables or chairs.|||
 ||||||ᎠᎵᏌᏇᏘ ᎠᎴ ᎡnᏙᏂ ᎬᏆᏚᎵᎭ; ᎠᎵᏌᏇt ᎠᎴ ᎡnᏙn ᎬᏆᏚᎵ|a:lí:sa:gwe:ti ale énto:ni gv̀:gwadu:líha; a:lí:sa:gwe:t ale énto:n gv̀:gwadu:lí|Elizabeth and Anthony want me.|||
 ||||||ᎹᎦᎵ ᎵᏂᏓ ᎤᏚᎵᎭ; ᎹᎦꮅ ᎵᏂd ᎤᏚᎵ|ma:gá:li lí:nida ù:du:líha; ma:gá:l lí:nid ù:du:lí|Michael wants Linda|||
 ||||||ᎹᎦᏰᏘ ᏪᏌ ᏚᏚᎵᎭ; ᎹᎦᏰᏘ ᏪᏍ ᏚᏚᎵ|má:gaye:ti wě:sa dù:du:líha; má:gaye:ti wě:s dù:du:lí|Margaret wants cats.|||
