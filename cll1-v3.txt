@@ -159,11 +159,16 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.|||
 *||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again later.|||
 
-||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|The deer people.|||
+||||||ᎠᏂᎩᏟ|agi:hli|A member of the dog people.|||
 ||||||ᎠᏂᎩᏟ|à:ni:gi:hli|The dog people.|||
-||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|à:ni:ji:sdu; à:ni:ji:sd|The rabbit people.|||
-||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|à:ni:wahaya; à:ni:wahya|The wolf people.|||
-||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏍ|à:ni:wě:sa; à:ni:wě:s|The cat people.|||
+*||||||ᎠᎠᎭᏫ; ᎠᎠᏫ|aʔahawi; aʔahwi|A member of the deer people.|||
+*||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|à:ni:ʔahawi; à:ni:ʔahwi|The deer people.|||
+*||||||ᎠᏥᏍᏚ; ᎠᏥᏍᏚ|aji:sdu; aji:sd|A member of the rabbit people.|||
+*||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|à:ni:ji:sdu; à:ni:ji:sd|The rabbit people.|||
+*||||||ᎠᏩᎭᏯ; ᎠᏩᏯ|awahaya; awahya|A member of the wolf people.|||
+*||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|à:ni:wahaya; à:ni:wahya|The wolf people.|||
+*||||||ᎠᏪᏌ; ᎠᏪᏌ|awě:sa; awě:s|The cat people.|||
+*||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏌ|à:ni:wě:sa; à:ni:wě:s|The cat people.|||
 
 ||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|John, I will see you again.|||
 ||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|John, You will see me again.|||
