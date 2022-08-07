@@ -162,13 +162,13 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏂᎩᏟ|agi:hli|A member of the dog people.|||
 ||||||ᎠᏂᎩᏟ|a:ni:gi:hli|The dog people.|||
 *||||||ᎠᎠᎭᏫ; ᎠᎠᏫ|aʔahawi; aʔahwi|A member of the deer people.|||
-*||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|a:ni:ʔahawi; à:ni:ʔahwi|The deer people.|||
+*||||||ᎠᏂᎠᎭᏫ; ᎠᏂᎠᏫ|a:niʔahawi; a:ni:ʔahwi|The deer people.|||
 *||||||ᎠᏥᏍᏚ; ᎠᏥᏍᏚ|aji:sdu; aji:sd|A member of the rabbit people.|||
-*||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|a:ni:ji:sdu; à:ni:ji:sd|The rabbit people.|||
+*||||||ᎠᏂᏥᏍᏚ; ᎠᏂᏥᏍd|a:niji:sdu; a:niji:sd|The rabbit people.|||
 *||||||ᎠᏩᎭᏯ; ᎠᏩᏯ|awahaya; awahya|A member of the wolf people.|||
-*||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|a:ni:wahaya; à:ni:wahya|The wolf people.|||
+*||||||ᎠᏂᏩᎭᏯ; ᎠᏂᏩᏯ|a:niwahaya; a:niwahya|The wolf people.|||
 *||||||ᎠᏪᏌ; ᎠᏪᏌ|awě:sa; awě:s|A member of the cat people.|||
-*||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏌ|a:ni:wě:sa; à:ni:wě:s|The cat people.|||
+*||||||ᎠᏂᏪᏌ; ᎠᏂᏪᏌ|a:niwě:sa; a:niwě:s|The cat people.|||
 
 ||||||ᏣᏂ, ᏛᎬᎪᎯ; Ꮳn, ᏛᎬᎪᎯ|já:ni, dv:gv:go:hi; já:n, dv:gv:go:hi|John, I will see you again.|||
 ||||||ᏣᏂ, ᏛᏍᎩᎪᎯ; Ꮳn, ᏛᏍᎩᎪᎯ|já:ni, dv:sgi:go:hi; já:n, dv:sgi:go:hi|John, You will see me again.|||
