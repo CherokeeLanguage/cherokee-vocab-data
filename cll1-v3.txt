@@ -217,7 +217,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 #Chapter 12 ᏔᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
-||||||ᎯᎳᏴᎢ?; ᎯᎳᏴ?|hilâ:yv̋:ʔi?; hilâ:yv̋?|When?|||
+||||||ᎯᎳᏴᎢ?; ᎯᎳᏴ?; ᎯᎳ ᎢᏴᎢ?; ᎯᎳ ᎢᏴ?|hilâ:yv̋:ʔi?; hilâ:yv̋?; hila̋ iyv̋:ʔi?; hila̋ iyv̋?|When?|||
 ||||||ᎦᎪ?|gá:gō?|Who?|||
 ||||||ᎦᎩ?|gâ:gí?|Who again?|||
 ||||||ᎦᏙ?; Ꮩ?|gadò?; dò?|What?|||
@@ -226,7 +226,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||ᎦᏙᎲ|gadò:hv̋|Why?|||
 
-||||||ᎡnᏙᏂ ᏓᏆᏙᎠ; ᎡnᏙn ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|Anthony is what I am called.|||
+||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|Anthony is what I am called.|||
 ||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|Linda and Michael are what both of us are called.|||
 ||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Margaret, Mary, and Barbara are what all of us are called.|||
 ||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|Elizabeth is what you are called.|||
