@@ -249,7 +249,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᎩᎵᏏ; ᎠᎩᎵᏍ|agili:si; agili:s|An English person.|||
 ||||||ᎠᏂᎩᎵᏏ; ᎠᏂᎩᎵᏍ|ani:gili:si; ani:gili:s|English people.|||
 ||||||ᎠᏣᎳᎩ; ᎠᏣᎳg|ajalagi; ajalag|A Cherokee person.|||
-||||||ᎠᏃᏍᏓ ᎠᏂᏣᎳᎩ; ᎠᏃᏍd ᎠᏂᏣᎳg|à:nő:sda ani:jalagi; à:nő:sd ani:jalag|Good cherokee people.|||
+||||||ᎠᏃᏍᏓ ᎠᏂᏣᎳᎩ; ᎠᏃᏍd ᎠᏂᏣᎳg|a:nő:sda ani:jalagi; a:nő:sd ani:jalag|Good cherokee people.|||
 ||||||ᎠᏲᏁᎦ; ᎠᏲᏁg|ayó:ne:ga; ayó:ne:g|An English or white person.|||
 ||||||ᎤᏂᏲᎢ ᎠᏂᏲᏁᎦ; ᎤᏂᏲ ᎠᏂᏲᏁg|u:niyő:ʔi ani:yó:ne:ga; u:niyő ani:yó:ne:g|Bad English or white people.|||
 *||||||ᎠᏂᏴᏫ|ani:yv:wi|People.|||
