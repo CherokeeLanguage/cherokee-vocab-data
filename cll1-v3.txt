@@ -213,7 +213,11 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦꮅᏆᏍᎪᎯ|gahlgwǎ:sgǒ:hi|Seventy.|||
 ||||||ᏁꮅᏍᎪᎯ|nélsgǒ:hi|Eighty.|||
 ||||||ᏐᏁꮅᏍᎪᎯ|sóhnélsgǒ:hi|Ninety.|||
-||||||ᏍᎪᎯtᏍᏆ|sgǒ:hítsgwa|One hundred.||Complete the lesson material through the end of chapter 11.|
+||||||ᏍᎪᎯtᏍᏆ|sgǒ:hítsgwa|One hundred.|||
+||||||ᎦᎵᏉᎩ ᎠᎴ ᏦᎦᏚ ᏔᎵᏍᎪᎯ ᎢᎩ.|Gahlgwǒ:gi ale joʔga:ʔdu táʔlsgǒ:hi ǐ:gi.; Gahlgwǒ:g ale joʔga:ʔd táʔlsgǒ ǐ:g.|Seven and thirteen is twenty.|||
+*||||||ᎦᎵᏉᎩ ᎠᎴ ᏌᏊ ᏣᏁᎳ ᎢᎩ.|Gahlgwǒ:gi ale sà:gwű chaně:la ǐ:gi.; Gahlgwǒ:g ale sà:gwű chaně:l ǐ:g.; Gahlgwǒ:gi ale sà:gwű chuně:la ǐ:gi.; Gahlgwǒ:g ale sà:gwű chuně:l ǐ:g.|Seven and one is eight.|||
+*||||||ᎯᏍᎩ ᎠᎴ ᏐᏁᎳ ᏂᎦᏚ ᎢᎩ.|Hisgi ale sóhně:la niga:ʔdu ǐ:gi.; Hisg ale sóhně:l niga:ʔd ǐ:g.|Five and nine is fourteen.|||
+*|||||ᏣᏁᎳ ᎠᎴ ᎦᎵᏉᎩ ᏍᎩᎦᏚ ᎢᎩ.|Chaně:la ale gahlgwǒ:gi sgiga:ʔdu ǐ:gi.; Chuně:la ale gahlgwǒ:gi sgiga:ʔdu ǐ:gi.; Chaně:l ale gahlgwǒ:g sgiga:ʔd ǐ:g.; Chuně:l ale gahlgwǒ:g sgiga:ʔd ǐ:g.|Eight and seven is fifteen.||Complete the lesson material through the end of chapter 11.|
 
 #Chapter 12 ᏔᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
