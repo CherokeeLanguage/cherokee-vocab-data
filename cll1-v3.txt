@@ -226,15 +226,15 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||ᎦᏙᎲ|gadò:hv̋|Why?|||
 
-||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|I'm called Anthony.|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|We are called Linda and Michael.|||
-||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|We are called Margaret, Mary, and Barbara.|||
-||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|You are called Elizabeth.|||
-||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|The two of you are called Susan and Thomas.|||
-||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|All of you are called David, Charles, and John.|||
+||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|My name is Anthony.|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|Our names are Linda and Michael.|||
+||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Our names are Margaret, Mary, and Barbara.|||
+||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|Your name is Elizabeth.|||
+||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|Your names are Susan and Thomas.|||
+||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|Your names are David, Charles, and John.|||
 
-||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|He is called Wolf.|||
-||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|They are called Squirrel, Horse, and Bear.|||
+||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|His name is Wolf.|||
+||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|Their names are Squirrel, Horse, and Bear.|||
 
 ||||||ᏌᎶᎵ, ᎢᎮᏙᎸᎢ; ᏌᎶꮅ, ᎢᎮᏙᎸᎢ|salǒ:li, íhě:dô:lv:ʔi; salǒ:l, íhě:dô:lv:ʔi|Squirrel, come around again.|||
 ||||||ᏐᏈᎵ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ; ᏐᏈꮅ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ|sǒ:gwíli ale yǒ:na, ísdě:dô:lv:ʔi; sǒ:gwíl ale yǒ:na, ísdě:dô:lv:ʔi|Horse and Bear, come around again.|||
@@ -247,26 +247,26 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏣᎳᎩ; ᎠᏣᎳg|ajalagi; ajalag|A Cherokee person.|||
 ||||||ᎠᏃᏍᏓ ᎠᏂᏣᎳᎩ; ᎠᏃᏍd ᎠᏂᏣᎳg|à:nő:sda ani:jalagi; à:nő:sd ani:jalag|Good cherokee people.|||
 ||||||ᎠᏲᏁᎦ; ᎠᏲᏁg|ayó:ne:ga; ayó:ne:g|An English or white person.|||
-||||||ᎤᏂᏲᎢ ᎠᏂᏲᏁᎦ; ᎤᏂᏲ ᎠᏂᏲᏁg|u:niyő:ʔi ani:yó:ne:ga; u:niyő ani:yó:ne:g|Bad English people.|||
+||||||ᎤᏂᏲᎢ ᎠᏂᏲᏁᎦ; ᎤᏂᏲ ᎠᏂᏲᏁg|u:niyő:ʔi ani:yó:ne:ga; u:niyő ani:yó:ne:g|Bad English or white people.|||
 *||||||ᎠᏂᏴᏫ|ani:yv:wi|People.|||
-||||||ᎠᏴᏫᏯᎢ; ᎠᏴᏫᏯ|ayv:wi:ya̋:ʔi; ayv:wi:ya̋|A Native American.|||
-*||||||ᎠᏂᏴᏫᏯᎢ; ᎠᏂᏴᏫᏯ|ani:yv:wi:ya̋:ʔi; ani:yv:wi:ya̋|Native Americans.||Complete the lesson material through the end of chapter 12.|
+||||||ᎠᏴᏫᏯᎢ; ᎠᏴᏫᏯ|ayv:wi:ya̋:ʔi; ayv:wi:ya̋|An aboriginal. A Native American.|||
+*||||||ᎠᏂᏴᏫᏯᎢ; ᎠᏂᏴᏫᏯ|ani:yv:wi:ya̋:ʔi; ani:yv:wi:ya̋|Aboriginals. Native Americans.||Complete the lesson material through the end of chapter 12.|
 
 #Chapter 13 ᏦᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||Ꮟ|si|Wait! Yet! All the same.|||
-||||||ᎥᏝᏏ; ᏝᏏ|vhlási; hlási|Not all the same. No longer still.|||
+||||||Ꮟ|Si.|Yet. Still. Wait.|||
+||||||ᎥᏝᏏ; ᏝᏏ|Vhlási.; Hlási.|Not yet. Not still.|||
 
-||||||Ꮭ ᎪᎱᏍᏗ; Ꮭ ᎪᎱᏍd; Ꮭ ᎪᏍᏗ; Ꮭ ᎪᏍd|hla go:hű:sdi; hla go:hű:sd; hla gő:sdi; hla gő:sd|Not anything.|||
+||||||Ꮭ ᎪᎱᏍᏗ; Ꮭ ᎪᎱᏍd; Ꮭ ᎪᏍᏗ; Ꮭ ᎪᏍd|hla go:hű:sdi; hla go:hű:sd; hla gő:sdi; hla gő:sd|Nothing.|||
 
 ||||||ᎤᏬꮅᏗ ᎪᏪᎵ; ᎤᏬꮅd ᎪᏪꮅ|uwőhldi go:hwe:li; uwőhld go:hwe:l|A funny paper.|||
 ||||||ᏧᏬꮅᏗ ᏗᎪᏪᎵ; ᏧᏬꮅd ᏗᎪᏪꮅ|juwőhldi digo:hwe:li; juwőhld digo:hwe:l|Funny papers.|||
 
 *||||||ᏕᏫᏗ ᏥᏍᏚ; ᏕᏫd ᏥᏍd|dé:widi ji:sdu; dé:wid ji:sd|David Rabbit|||
-*||||||Ꮎ ᎠᏂᏦᎢ ᏲᎾ; Ꮎ ᎠᏂᏦ Ᏺn|na a:nijoʔi yǒ:na; na a:nijo yǒ:n|Those Three Bears|||
+*||||||Ꮎ ᎠᏂᏦᎢ ᏲᎾ; Ꮎ ᎠᏂᏦ Ᏺn|na a:nijoʔi yǒ:na; na a:nijo yǒ:n|The Three Bears|||
 *||||||ᏌᏊ ᎤᏲ ᏥᏍᏚ.; ᏌᏊ ᎤᏲ ᏥᏍd.|sà:gwű u:yő ji:sdu.; sà:gwű u:yő ji:sd.|This is one bad rabbit!|||
 *||||||ᏏᏲ ᏕᏫᏗ; ᏏᏲ ᏕᏫd|síyo dé:widi; síyo dé:wid|Hello David|||
 *||||||ᎠᎨᏳᏣ ᎠᎴ ᎠᏂᏦᎢ ᏲᎾ; ᎠᎨᏳ ᎠᎴ ᎠᏂᏦ Ᏺn|age:hyű:ja ale a:nijoʔi yǒ:na; age:hyű ale a:nijo yǒ:n|A Girl and Three Bears|||
-*|||||male|ᎠᏂ ᏥᏍᏚ|áhni ji:sdu|Here is a rabbit.|||
+*|||||male|ᎠᏂ ᏥᏍᏚ|áhani ji:sdu.; áhni ji:sd.|Here is a rabbit.|||
 *|||||male|ᏥᏍᏚ ᎠᎨᏳᏣ; ᏥᏍd ᎠᎨᏳj|ji:sdu age:hyű:ja; ji:sd age:hyű:j|A rabbit girl|||
 *|||||female|ᎦᏙ ᏕᏣᏙᎠ; ᎦᏙ ᏕᏣᏙ; Ꮩ ᏕᏣᏙ|gadō dě:jádó:ʔa; gadō dě:jádó; dō dě:jádó|What are you called?|||
 *|||||male|ᏕᏫᏗ ᏥᏍᏚ ᏓᏆᏙᎠ; ᏕᏫd ᏥᏍd ᏓᏆᏙ|dé:widi ji:sdu dà:gwadó:a; dé:wid ji:sd dà:gwadó|I'm called David Rabbit.|||
