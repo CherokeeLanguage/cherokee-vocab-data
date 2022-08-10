@@ -230,9 +230,9 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||ᎦᏙᎲ|gadò:hv̋|Why?|||
 
-||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:a; énto:n dà:gwadó|My name is Anthony.|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:a; lí:nid ale ma:gá:l dò:gi:nadó|Our names are Linda and Michael.|||
-||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:a; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Our names are Margaret, Mary, and Barbara.|||
+||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:ʔa; énto:n dà:gwadó|My name is Anthony.|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:ʔa; lí:nid ale ma:gá:l dò:gi:nadó|Her and my names are Linda and Michael.|||
+||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:ʔa; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Their and my names are Margaret, Mary, and Barbara.|||
 ||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|Your name is Elizabeth.|||
 ||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|Your names are Susan and Thomas.|||
 ||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|Your names are David, Charles, and John.|||
