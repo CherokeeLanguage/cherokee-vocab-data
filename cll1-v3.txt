@@ -20,8 +20,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||ᎪᎱᏍᏗ; ᎪᎱᏍd; ᎪᏍᏗ; ᎪᏍd|go:hű:sdi; go:hű:sd; gő:sdi; gő:sd|Something.|||
 
-||||||ᏙᎾᏓᎪᎲᎢ|donada:go:hv:ʔi|Let's both see each other again later.|||
-||||||ᏙᏓᏓᎪᎲᎢ|dodada:go:hv:ʔi|Let's all see each other again later.|||
+||||||ᏙᎾᏓᎪᎲᎢ|donada:go:hv:ʔi|Let's both see each other again.|||
+||||||ᏙᏓᏓᎪᎲᎢ|dodada:go:hv:ʔi|Let's all see each other again.|||
 
 ||||||ᎤᏲᎢ ᎠᏓ; ᎤᏲ ᎠᏓ|u:yő:ʔi ada; u:yő ada|Bad wood.|||
 ||||||Ꮒ! ᎠᏓ|ni! a̋ʔda|Look! A young animal.|||
@@ -148,16 +148,16 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||Ꮭ ᎠᎨᏯ ᏱᎩ. ᎠᏍᎦᏯ.; Ꮭ ᎠᎨᏯ Ᏹg. ᎠᏍᎦᎢ.|hla agě:hya yi̋:gi. asgaya.; hla agě:hya yi̋:g. asgai.|It isn't a woman. It's a man.|||
 *||||||Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.; Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.|hla asgaya yi̋:gi. agě:hya.; hla asgai yi̋:g. agě:hya.|It isn't a man. It's a woman.|||
-||||||Ꮭ ᎩᏟ ᏱᎩ. ᏪᏌ.; Ꮭ ᎩᏟ Ᏹg. ᏪᏍ.|hla gi:hli yi̋:gi. wě:sa.; hla gi:hli yi̋:g. wě:s.|It isn't a dog. It's a cat.|||
-||||||ᏝᏍᎪ ᎠᎭᏫ ᏱᎩ; ᏝᏍ ᎠᏫ Ᏹg?|hlasgo ahawi yi̋:gi; hlas ahwi yi̋:g?|It isn't a deer, is it?|||
+||||||Ꮭ ᎩᏟ ᏱᎩ. ᏪᏌ.; Ꮭ ᎩᏟ Ᏹg. ᏪᏍ.|hla gi:hli yi̋:gi. wě:sa.; hla gi:hli yi̋:g. wě:s.|It's not a dog or dogs. It's a cat or cats.|||
+||||||ᏝᏍᎪ ᎠᎭᏫ ᏱᎩ; ᏝᏍ ᎠᏫ Ᏹg?|hlasgo ahawi yi̋:gi; hlas ahwi yi̋:g?|Is it not a deer?|||
 ||||||ᏝᏧ ᏩᎭᏯ ᏱᎩ; ᏝᏧ ᏩᏯ Ᏹg?|hlaju wahaya yi̋:gi; hlaju wahya yi̋:g?|It isn't a wolf. Right?|||
 
 ||||||ᏗᏥᎪᎵᏯ.|dì:jigo:lǐ:ya.|let all of you read them.|||
 ||||||ᏗᏣᏛᏓᏍᏓ|dì:jà:tv:dà:sda|let all of you listen to them.||Complete the lesson material through the end of chapter 9.|
 
 #Chapter 10 ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again later.|||
-*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again later.|||
+*||||||ᎺᎵ, ᏙᎾᏓᎪᎲᎢ|mé:li, do:nada:go:hv:ʔi|Mary, let both of us see each other again.|||
+*||||||ᏂᎯ ᎠᎴ ᏑᏌᏃ, ᏙᏓᏓᎪᎲᎢ|nihi ale sú:sano, do:dada:go:hv:ʔi|You and Susan, let all of us see each other again.|||
 
 ||||||ᎠᏂᎩᏟ|agi:hli|A member of the dog people.|||
 ||||||ᎠᏂᎩᏟ|a:ni:gi:hli|The dog people.|||
@@ -262,19 +262,19 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||Ꮭ ᎪᎱᏍᏗ; Ꮭ ᎪᎱᏍd; Ꮭ ᎪᏍᏗ; Ꮭ ᎪᏍd|hla go:hű:sdi; hla go:hű:sd; hla gő:sdi; hla gő:sd|Nothing.|||
 
-||||||ᎤᏬꮅᏗ ᎪᏪᎵ; ᎤᏬꮅd ᎪᏪꮅ|uwőhldi go:hwe:li; uwőhld go:hwe:l|A funny paper.|||
-||||||ᏧᏬꮅᏗ ᏗᎪᏪᎵ; ᏧᏬꮅd ᏗᎪᏪꮅ|juwőhldi digo:hwe:li; juwőhld digo:hwe:l|Funny papers.|||
+||||||ᎤᏬꮅᏗ ᎪᏪᎵ; ᎤᏬꮅd ᎪᏪꮅ|uwőhldi go:hwe:li; uwőhld go:hwe:l|A funny paper. A comic page.|||
+||||||ᏧᏬꮅᏗ ᏗᎪᏪᎵ; ᏧᏬꮅd ᏗᎪᏪꮅ|juwőhldi digo:hwe:li; juwőhld digo:hwe:l|Funny papers. Comics.|||
 
 *||||||ᏕᏫᏗ ᏥᏍᏚ; ᏕᏫd ᏥᏍd|dé:widi ji:sdu; dé:wid ji:sd|David Rabbit|||
 *||||||Ꮎ ᎠᏂᏦᎢ ᏲᎾ; Ꮎ ᎠᏂᏦ Ᏺn|na a:nijoʔi yǒ:na; na a:nijo yǒ:n|The Three Bears|||
-*||||||ᏌᏊ ᎤᏲ ᏥᏍᏚ.; ᏌᏊ ᎤᏲ ᏥᏍd.|sà:gwű u:yő ji:sdu.; sà:gwű u:yő ji:sd.|This is one bad rabbit!|||
+*||||||ᏌᏊ ᎤᏲ ᏥᏍᏚ.; ᏌᏊ ᎤᏲ ᏥᏍd.|Hiʔa sà:gwű u:yő ji:sdu.; Hiʔa sà:gwű u:yő ji:sd.|This is one bad rabbit!|||
 *||||||ᏏᏲ ᏕᏫᏗ; ᏏᏲ ᏕᏫd|síyo dé:widi; síyo dé:wid|Hello David|||
 *||||||ᎠᎨᏳᏣ ᎠᎴ ᎠᏂᏦᎢ ᏲᎾ; ᎠᎨᏳ ᎠᎴ ᎠᏂᏦ Ᏺn|age:hyű:ja ale a:nijoʔi yǒ:na; age:hyű ale a:nijo yǒ:n|A Girl and Three Bears|||
 *|||||male|ᎠᏂ ᏥᏍᏚ|áhani ji:sdu.; áhni ji:sd.|Here is a rabbit.|||
 *|||||male|ᏥᏍᏚ ᎠᎨᏳᏣ; ᏥᏍd ᎠᎨᏳj|ji:sdu age:hyű:ja; ji:sd age:hyű:j|A rabbit girl|||
 *|||||female|ᎦᏙ ᏕᏣᏙᎠ; ᎦᏙ ᏕᏣᏙ; Ꮩ ᏕᏣᏙ|gadō dě:jádó:ʔa; gadō dě:jádó; dō dě:jádó|What are you called?|||
 *|||||male|ᏕᏫᏗ ᏥᏍᏚ ᏓᏆᏙᎠ; ᏕᏫd ᏥᏍd ᏓᏆᏙ|dé:widi ji:sdu dà:gwadó:a; dé:wid ji:sd dà:gwadó|I'm called David Rabbit.|||
-*|||||male|ᏂᎯ ᎠᎴ ᎠᏴ.|nihi ale ayv.|You and me!|||
+*|||||male|ᏂᎯ ᎠᎴ ᎠᏴ.|nihi ale ayv.|You or you all and me or us!|||
 *|||||male|ᏂᎯ ᎠᎭᏂ ᎣᏍᏓ; ᏂᎯ ᎠᏂ ᎣᏍd|nihi áhani ő:sda; nihi áhni ő:sd|You here is good.|||
 *|||||female|ᎭᏢ Ꮎ ᎠᏂᏦᎢ ᏲᎾ?; ᎭᏢ Ꮎ ᎠᏂᏦ Ᏺn?|ha:dlv na a:nijoʔi yǒ:na?; ha:dlv na a:nijo yǒ:n?|Where are those three bears?|||
 *|||||male|ᏲᎾᎾ ᎠᏂᏦᎢ?; ᏲᎾᎾ ᎠᏂᏦ?|yǒ:nana a:nijoʔi?; yǒ:nana a:nijo?|What about three bears?|||
@@ -456,8 +456,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎠᏃᏍᏓ ᏴᏫ Ꮭ ᎠᏂ ᏱᎩ|à:nő:sda yv:wi hla áhni yi̋:gi|Good people aren't here!|||
 *||||||ᎤᎿᎾ?|ù:hnana?|What about there?|||
 *||||||ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍᏗ; ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍd|ani:yv:wi ù:hna yigè:sé:sdi; ani:yv:wi ù:hna yigè:sé:sd|Maybe people will be there!|||
-*||||||ᎠᏍᎦᏯ Ꮭ Ꮎ ᏯᎪwᏘ ᎠᏴ ᎠᏂ|asgaya hla na yà:gowhtí ayv áhni|The man doesn't see that we are here!|||
-*||||||ᎰᏩ! ᎠᏴ ᎠᏂ!|howa! ayv áhni!|Alright! Here we are!|||
+*||||||ᎠᏍᎦᏯ Ꮭ Ꮎ ᏯᎪwᏘ ᎠᏴ ᎠᏂ|asgaya hla na yà:gowhtí ayv áhni|The man doesn't see that I or we are here!|||
+*||||||ᎰᏩ! ᎠᏴ ᎠᏂ!|howa! ayv áhni!|Alright! Here I am, we are!|||
 *||||||ᎤᏂᏲ ᎠᏂᏴᏫ ᎠᏂ Ᏹg|u:niyő ani:yv:wi áhni yi̋:g|Bad people might be here!|||
 *||||||ᎭᏢ ᏴᏫ?|ha:dlv yv:wi?|Where are people?|||
 *||||||Ꮭ ᎠᏂ Ᏹg|hla áhni yi̋:g|Not here!|||
