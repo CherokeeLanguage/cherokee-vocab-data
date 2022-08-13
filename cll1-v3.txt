@@ -287,7 +287,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *|||||female|ᏲᎾᎾ|yǒ:nana|What about bears?|||
 *|||||male|ᎥᏝ ᏲᎾ ᎠᎭᏂ ᏱᎩ; Ꮭ Ᏺn ᎠᏂ Ᏹg|vhla yǒ:na áhani yi̋:gi; hla yǒ:n áhni yi̋:g|No bears are here!|||
 *|||||female|ᎦᏙ ᎤᏍᏗ ᎠᎭᏂ?; ᎦᏙ ᎤᏍd ᎠᏂ?; Ꮩ ᎤᏍd ᎠᏂ?|gadō u:sdi áhani?; gadō u:sd áhni?; dō u:sd áhni?|What is here?|||
-*|||||male|ᎤᎿ ᏥᎪwᏘᎭ; ᎤᎿ ᏥᎪwᏘ|ù:hna̋ jigowhtíha; ù:hna̋ jigowhtí|I'm looking there!|||
+*|||||male|ᎤᎿ ᏥᎪwᏘᎭ; ᎤᎿ ᏥᎪwᏘ|ù:hna̋ jigowhtíha; ù:hna̋ jigowhtí|I see it there!|||
 # gő:sdi|||
 *|||||male|ᎪᎱᏍᏗ ᎣᏍᏓ ᏥᎪwᏘᎭ; ᎪᎱᏍd ᎣᏍd ᏥᎪwᏘ; ᎪᏍᏗ ᎣᏍᏓ ᏥᎪwᏘᎭ; ᎪᏍd ᎣᏍd ᏥᎪwᏘ|go:hű:sdi ő:sda jigowhtíha; go:hű:sd ő:sd jigowhtí; gő:sdi ő:sda jigowhtíha; gő:sd ő:sd jigowhtí|I see something good!|||
 *|||||female|ᎦᏙ ᎤᏍᏗ ᎯᎪwᏘᎭ?; ᎦᏙ ᎤᏍd ᎯᎪwᏘ?; Ꮩ ᎤᏍᏗ ᎯᎪwᏘ?|gadō u:sdi higowhtíha?; gadō u:sd higowhtí?; dō u:sdi higowhtí?|What do you see?|||
@@ -299,7 +299,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *|||||male|ᎯᎠᏍᎪ ᎣᏍᏓ ᏐᏈᎵ?; ᎯᎠᏍ ᎣᏍd ᏐᏈꮅ?; ᎯᎢᏍ ᎣᏍd ᏐᏈꮅ?|hiʔasgo ő:sda sǒ:gwíli?; hiʔas ő:sd sǒ:gwíl?; hiʔis ő:sd sǒ:gwíl?|Is this a good horse?|||
 *|||||male|ᎣᏍᏓ ᏐᏈᎵ; ᎣᏍd ᏐᏈꮅ|ő:sda sǒ:gwíli; ő:sd sǒ:gwíl|It's a good horse!|||
 *|||||female|Ꮎ ᎤᏲᎢ ᏐᏈᎵ.; Ꮎ ᎤᏲ ᏐᏈꮅ.|na u:yő:ʔi sǒ:gwíli.; na u:yő sǒ:gwíl.|That bad horse!|||
-*|||||male|ᎤᎿ, ᎣᏍᏓ ᏌᏊ ᏥᎪwᏘᎭ|ù:hna̋, ő:sda sà:gwű jigowhtíha|There, I see a good one!|||
+*|||||male|ᎤᎿ, ᎣᏍᏓ ᏌᏊ ᏥᎪwᏘᎭ|ù:hna̋. ő:sda sà:gwű jigowhtíha!|I see a good one there!|||
 *|||||female|ᏕᏫᏗ! ᏴᏫ ᎠᎭᏂ!; ᏕᏫd! ᏴᏫ ᎠᏂ!|dé:widi! yv:wi áhani!; dé:wid! yv:wi áhni!|David! People are here!|||
 *|||||female|Ꮎ ᏲᎾ ᎠᏧᏣ ᏣᏂ ᏚᏙᎠ; Ꮎ Ᏺn ᎠᏧj ᏣᏂ ᏚᏙ|na yǒ:na achű:ja já:ni dù:dó:ʔa; na yǒ:n achű:j já:ni dù:dó|The bear boy is called John.|||
 *|||||male|ᎦᎪ? ᎦᏙ ᏚᏙᎠ?; ᎦᎪ? ᎦᏙ ᏚᏙ?; ᎦᎪ? Ꮩ ᏚᏙ?|gá:gō? gadō dù:dó:ʔa?; gá:gō? gadō dù:dó?; gá:gō? dō dù:dó?|Who? What's he called?|||
