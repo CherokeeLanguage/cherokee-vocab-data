@@ -222,27 +222,30 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #Chapter 12 ᏔᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
 ||||||ᎯᎳᏴᎢ?; ᎯᎳᏴ?; ᎯᎳ ᎢᏴᎢ?; ᎯᎳ ᎢᏴ?|hilâ:yv̋:ʔi?; hilâ:yv̋?; hila̋ iyv̋:ʔi?; hila̋ iyv̋?|When?|||
-||||||ᎦᎪ?|gá:gō?|Who?|||
-||||||ᎦᎩ?|gâ:gí?|Who again?|||
-||||||ᎦᏙ?; Ꮩ?|gadò?; dò?|What?|||
-||||||ᎦᏙᎩ?; ᏙᎩ?|gadògí?; dògí?|What again?|||
-||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|gadō u:sdi?; dō u:sd?|What? What thing?|||
+||||||ᎦᎪ?|Gá:gō?|Who?|||
+||||||ᎦᎩ?|Gâ:gí?|Who again?|||
+||||||ᎦᏙ?; Ꮩ?|Gadò?; Dò?|What?|||
+||||||ᎦᏙᎩ?; ᏙᎩ?|Gadògí?; Dògí?|What again?|||
 
-||||||ᎦᏙᎲ|gadò:hv̋|Why?|||
+*|||||||Gadō ű:sdi?; Dō ű:sdi?; Dō ű:sd?|Which one?|||
+*|||||||Gadō űnsdi?; Dō űnsdi?; Dō űnsd?|Which ones?|||
 
-||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:ʔa; énto:n dà:gwadó|My name is Anthony.|||
-||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:ʔa; lí:nid ale ma:gá:l dò:gi:nadó|Her and my names are Linda and Michael.|||
-||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:ʔa; má:gaye:t, mé:l, ale gwa:gwa dò:gadó|Their and my names are Margaret, Mary, and Barbara.|||
-||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó|Your name is Elizabeth.|||
-||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó|Your names are Susan and Thomas.|||
-||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó|Your names are David, Charles, and John.|||
+|||||||Gadō u:sdi?; Dō u:sdi?; Dō u:sd?|What thing? What?|||
+||||||ᎦᏙᎲ|Gadò:hv̋?; Dò:hv̋?|Why?|||
+
+||||||ᎡᏅᏙᏂ ᏓᏆᏙᎠ; ᎡᏅᏙᏂ ᏓᏆᏙ|énto:ni dà:gwadó:ʔa; énto:n dà:gwadó; dà:gwadó énto:ni|My name is Anthony.|||
+||||||ᎵᏂᏓ ᎠᎴ ᎹᎦᎵ ᏙᎩᎾᏙᎠ; ᎵᏂd ᎠᎴ ᎹᎦꮅ ᏙᎩᎾᏙ|lí:nida ale ma:gá:li dò:gi:nadó:ʔa; lí:nid ale ma:gá:l dò:gi:nadó; dò:gi:nadó lí:nid ale ma:gá:l|Her and my names are Linda and Michael.|||
+||||||ᎹᎦᏰᏘ, ᎺᎵ, ᎠᎴ ᏆᏆᎠ ᏙᎦᏙᎠ; ᎹᎦᏰt, Ꮊꮅ, ᎠᎴ ᏆᏆ ᏙᎦᏙ|má:gaye:ti, mé:li, ale gwa:gwaʔa dò:gadó:ʔa; má:gaye:t, mé:l, ale gwa:gwa dò:gadó; dò:gadó má:gaye:t, mé:l, ale gwa:gwa|Their and my names are Margaret, Mary, and Barbara.|||
+||||||ᎠᎵᏌᏇᏘ ᏕᏣᏙᎠ; ᎠᎵᏌᏇt ᏕᏣᏙ|a:lí:sa:gwe:ti dě:jádó:ʔa; a:lí:sa:gwe:t dě:jádó; dě:jádó a:lí:sa:gwe:ti|Your name is Elizabeth.|||
+||||||ᏑᏌᏃ ᎠᎴ ᏙᎹᏏ ᏕᏍᏓᏙᎠ; ᏑᏌn ᎠᎴ ᏙᎹᏍ ᏕᏍᏓᏙ|sú:sano ale tó:masi dě:sdádó:ʔa; sú:san ale tó:mas dě:sdádó; dě:sdádó sú:sano ale tó:masi|Your names are Susan and Thomas.|||
+||||||ᏕᏫᏗ, ᏣᎵ, ᎠᎴ ᏣᏂ ᏕᏣᏙᎠ; ᏕᏫd, ᏣᎵ, ᎠᎴ Ꮳn ᏕᏣᏙ|dé:widi, chá:li, ale já:ni dè:jádó:ʔa; dé:wid, chá:li, ale já:n dè:jádó; dè:jádó dé:widi, chá:li, ale já:ni|Your names are David, Charles, and John.|||
 
 ||||||ᏩᎭᏯ ᏚᏙᎠ; ᏩᏯ ᏚᏙ|wahaya dù:dó:ʔa; wahya dù:dó|His name is Wolf.|||
-||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó|Their names are Squirrel, Horse, and Bear.|||
+||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᏚᎾᏙᎠ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᏚᎾᏙ|salǒ:li, sǒ:gwíli, ale yǒ:na dù:nadó:ʔa; salǒ:l, sǒ:gwíl, ale yǒ:na dù:nadó; dù:nadó salǒ:li, sǒ:gwíli, ale yǒ:na|Their names are Squirrel, Horse, and Bear.|||
 
-||||||ᏌᎶᎵ, ᎢᎮᏙᎸᎢ; ᏌᎶꮅ, ᎢᎮᏙᎸᎢ|salǒ:li, íhě:dô:lv:ʔi; salǒ:l, íhě:dô:lv:ʔi|Squirrel, come around again.|||
-||||||ᏐᏈᎵ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ; ᏐᏈꮅ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ|sǒ:gwíli ale yǒ:na, ísdě:dô:lv:ʔi; sǒ:gwíl ale yǒ:na, ísdě:dô:lv:ʔi|Horse and Bear, come around again.|||
-||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ|salǒ:li, sǒ:gwíli, ale yǒ:na íʔì:jě:dô:lv:ʔi; salǒ:l, sǒ:gwíl, ale yǒ:na íʔì:jě:dô:lv:ʔi|Squirrel, Horse, and Bear, come around again.|||
+||||||ᏌᎶᎵ, ᎢᎮᏙᎸᎢ; ᏌᎶꮅ, ᎢᎮᏙᎸᎢ|salǒ:li, íhě:dô:lv:ʔi; salǒ:l. íhě:dô:lv:ʔi|Squirrel, come around again.|||
+||||||ᏐᏈᎵ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ; ᏐᏈꮅ ᎠᎴ ᏲᎾ, ᎢᏍᏕᏙᎸᎢ|sǒ:gwíli ale yǒ:na. ísdě:dô:lv:ʔi; sǒ:gwíl ale yǒ:na. ísdě:dô:lv:ʔi|Horse and Bear, come around again.|||
+||||||ᏌᎶᎵ, ᏐᏈᎵ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ; ᏌᎶꮅ, ᏐᏈꮅ, ᎠᎴ ᏲᎾ ᎢᎢᏤᏙᎸᎢ|salǒ:li, sǒ:gwíli, ale yǒ:na. íʔì:jě:dô:lv:ʔi; salǒ:l, sǒ:gwíl, ale yǒ:na. íʔì:jě:dô:lv:ʔi|Squirrel, Horse, and Bear, come around again.|||
 
 ||||||ᎩᎵᏏ; ᎩᎵᏍ|gili:si; gili:s|English.|||
 ||||||ᏴᏫ|yv:wi|A person. People.|||
@@ -311,7 +314,6 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎢᏤᎢᏳᏍᏗᏍᎪ ᏲᎾ?; ᎢᏤᎢᏳᏍᏗᏍ Ᏺn?|ijé:ʔiyű:sdisgo yǒ:na?; ijé:ʔiyű:sdis yǒ:n?|Is it a green bear?|||
 ||||||ᎤᏍᎪᎸᎢ; ᎤᏍᎪᎸ|ù:sgǒ:lv̋:ʔi; ù:sgǒ:lv̋|Dim. Faded.|||
 ||||||ᎤᏬᏗᎨᎢ ᏄᎾᏊ; ᎤᏬᏗᎨ ᏄᎾᏊ|uwǒ:díge̋ʔi nǔ:nagwu; uwǒ:díge̋ nǔ:nagwu|just a brown potato.|||
-#gǐ:ge̋:ʔi|||
 ||||||ᎩᎦᎨᎢ ᎫᎴ; ᎩᎦᎨ ᎫᎴ; ᎩᎨᎢ ᎫᎴ; ᎩᎨ ᎫᎴ|gǐ:gáge̋:ʔi gu:le; gǐ:gáge̋ gu:le; gǐ:ge̋:ʔi gu:le; gǐ:ge̋ gu:le|A red acorn.|||
 ||||||ᎬᎿᎨᎢ ᏌᏛᏗ; ᎬᎿᎨ ᏌᏛd; ᎬᏂᎨᎢ ᏌᏛᏗ; ᎬᏂᎨ ᏌᏛd|gv̌:hnáge̋ʔi sadv́:di; gv̌:hnáge̋ sadv́:d; gv̌:níge̋:ʔi sadv́:di; gv̌:níge̋ sadv́:d|A black trap.|||
 ||||||ᏌᎪᏂᎨᎢ ᏌᏛᏗ; ᏌᎪᏂᎨ ᏌᏛd|sakǒ:níge̋:ʔi sadv́:di; sakǒ:níge̋ sadv́:d|A blue trap.|||
