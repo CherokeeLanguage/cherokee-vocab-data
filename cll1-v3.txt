@@ -189,16 +189,16 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᏧᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᏧj?; Ꮩ ᎠᏛᏁ ᎠᏧj?|gadō à:dv́:neha achű:ja?; gadō à:dv́:ne achű:j?; dō à:dv́:ne achű:j?|What is the boy doing?|||
 ||||||ᎦᏙ ᎠᎾᏛᏁᎭ ᎠᏂᏧᏣ?; ᎦᏙ ᎠᎾᏛᏁ ᎠᏂᏧj?; Ꮩ ᎠᎾᏛᏁ ᎠᏂᏧj?|gadō à:na:dv́:neha ani:chű:ja?; gadō à:na:dv́:ne ani:chű:j?; dō à:na:dv́:ne ani:chű:j?|What are the boys doing?|||
 
-||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlgv̋:ʔi jigowhtíha; hlgv̋ jigowhtí|I see a tree.|||
-||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlgv̋:ʔi dà:nigowhtíha; dě:hlgv̋ dà:nigowhtí|They see trees.|||
+||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlʔgv̋:ʔi jigowhtíha; hlʔgv̋ jigowhtí|I see a tree.|||
+||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlʔgv̋:ʔi dà:nigowhtíha; dě:hlʔgv̋ dà:nigowhtí|They see trees.|||
 
 ||||||ᏌᏚ|sa:ʔdu|Eleven.|||
 ||||||ᏣᏁᎳ; ᏣᏁꮅ; ᏧᏁᎳ; ᏧᏁꮅ|chaně:la; chaně:l; chuně:la; chuně:l|Eight.|||
 ||||||ᏐᏁᎳ; ᏐᏁꮅ|sóhně:la; sóhně:l|Nine.|||
 ||||||ᏍᎪᎯ.|sgǒ:hi.|Ten|||
 ||||||ᏔꮅᏚ|taʔldu|Twelve.|||
-||||||Ꮓt|nò:t|Zero.|||
-||||||ᎧᏂᎩᏓ|kanǐ:gida|Nothing.|||
+||||||Ꮓt|nó:t|Zero.|||
+||||||ᎧᏂᎩᏓ|kanǐ:gida|Nothing. Zero.|||
 ||||||ᏂᎦᏚ|niga:ʔdu|Fourteen.|||
 ||||||ᏍᎩᎦᏚ|sgiga:ʔdu|Fifteen.|||
 ||||||ᏓᎳᏚ|da:la:du|Sixteen.|||
@@ -337,7 +337,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏧᏃᏗᎨ ᎩᏟ|ju:nǒ:díge̋ gi:hli|Brown dogs.|||
 ||||||ᏗᏤ ᏄᎾ|dije̋ nǔ:na|Green potatoes.|||
 ||||||ᏗᏤᎢᏳᏍᏗ ᏗᏌᏛᏗ|dijé:ʔiyű:sdi di:sadv́:di|green traps.|||
-||||||ᏧᏁᎦ ᏕꮅᎬᎢ|ju:ne̋:ga dě:hlgv̋:ʔi|white trees.|||
+||||||ᏧᏁᎦ ᏕꮅᎬᎢ|ju:ne̋:ga dě:hlʔgv̋:ʔi|white trees.|||
 ||||||ᏧᏬᏗᎨᎢ ᏗᎪᏪᎵ|juwǒ:díge̋:ʔi digo:hwe:li|Brown papers. A brown book.|||
 ||||||ᏗᎩᎦᎨ ᎪᎱᏍᏗ; ᏗᎩᎦᎨ ᎪᏍᏗ|digǐ:gáge̋ go:hű:sdi; digǐ:gáge̋ gő:sdi|Red things.|||
 ||||||ᏗᎬᎿᎨ ᏅᏯ|digv̌:hnáge̋ nv̀:ya|Black rocks.|||
@@ -437,7 +437,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||Ꭷ, ᎥᏝ ᏄᎾ ᏯᏆᏚᎵᎭ; Ꭷ! Ꮭ ᏄᎾ ᏯᏆᏚᎵ!|ka, vhla nǔ:na yà:gwadu:líha; ka! hla nǔ:na yà:gwadu:lí!|Hey! Enough! I don't want a potato!|||
 ||||||ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵᎭ; ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵ|nű:la, sú:sano jadu:líha; nű:la, sú:sano jadu:lí|Hurry, Susan wants you.|||
 ||||||ᎠᏂᏔᎵ ᎢᏯᏂ ᎠᏂᎨᏳᏣ; ᎠᏂᏔꮅ ᎢᏯᏂ ᎠᏂᎨᏳj|a:nitáʔli iyáni ani:ge:hyű:ja; a:nitáʔl iyáni ani:ge:hyű:j|Two count girls.|||
-||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlgv̋:ʔi; jo ǐ:ga̋ dě:hlgv̋|Three count trees.|||
+||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋|Three count trees.|||
 ||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|nǔ:na ga:sgilv̋:ʔi; nǔ:na ga:sgilv̋|A potato is on a chair or on a table.|||
 
 # gadō u:sdi|||
