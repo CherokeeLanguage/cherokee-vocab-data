@@ -350,28 +350,28 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #Chapter 16 ᏓᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 
 #Chapter 17 ᎦᎵᏆᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎫᎴ ᎤᎭ|gu:le ǔ:ha|He has an acorn.|||
-||||||ᏚᏯ ᎤᏂᎭ|tǔ:ya ù:nǐ:ha|They have a bean.|||
-||||||ᏌᏛᏗ ᎠᎩᎭ|sadv́:di à:giha|I have a trap.|||
-||||||ᏄᎾ ᏣᎭ|nǔ:na jaha|You have a potato.|||
-||||||ᎩᏟ ᎤᏩᎧᎭ; ᎩᏟ ᎤᏩᎧ|gi:hli ù:wa:káha; gi:hli ù:wa:ká|He has a dog.|||
-||||||ᏪᏌ ᎤᏂᎧᎭ; ᏪᏍ ᎤᏂᎧ|wě:sa ù:ni:káha; wě:s ù:ni:ká|They have a cat.|||
-||||||ᎠᎭᏫ ᎠᎩᎧᎭ; ᎠᏫ ᎠᎩᎧ|ahawi à:gikáha; ahwi à:giká|I have a deer.|||
-||||||ᏙᏯ ᏣᎧᎭ; ᏙᏯ ᏣᎧ|do:ya jakáha; do:ya jaká|You have a beaver.||Complete the lesson material through the end of chapter 17.|
+||||||ᎫᎴ ᎤᎭ|gu:le ǔ:ha.; ǔ:ha gu:le.|He has an acorn.|||
+||||||ᏚᏯ ᎤᏂᎭ|tǔ:ya ù:nǐ:ha.; ù:nǐ:ha tǔ:ya.|They have a bean.|||
+||||||ᏌᏛᏗ ᎠᎩᎭ|sadv́:di à:giha.; à:giha sadv́:di.|I have a trap.|||
+||||||ᏄᎾ ᏣᎭ|nǔ:na jaha.; jaha nǔ:na.|You have a potato.|||
+||||||ᎩᏟ ᎤᏩᎧᎭ; ᎩᏟ ᎤᏩᎧ|gi:hli ù:wa:káha.; gi:hli ù:wa:ká.; ù:wa:káha gi:hli.; ù:wa:ká gi:hli.|He has a dog.|||
+||||||ᏪᏌ ᎤᏂᎧᎭ; ᏪᏍ ᎤᏂᎧ|wě:sa ù:ni:káha.; wě:s ù:ni:ká.; ù:ni:káha wě:sa.; ù:ni:ká wě:s.|They have a cat.|||
+||||||ᎠᎭᏫ ᎠᎩᎧᎭ; ᎠᏫ ᎠᎩᎧ|ahawi à:gikáha.; ahwi à:giká.; à:gikáha ahawi.; à:giká ahwi.|I have a deer.|||
+||||||ᏙᏯ ᏣᎧᎭ; ᏙᏯ ᏣᎧ|do:ya jakáha.; do:ya jaká.; jakáha do:ya.; jaká do:ya.|You have a beaver.||Complete the lesson material through the end of chapter 17.|
 
 #Chapter 18 ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎠᎨᏳᏣ ᎠᎩᎪwᏘᎭ|age:hyű:ja agigowhtíha|A girl sees me.|||
-||||||ᎠᏧᏣ Ꮭ ᏯᎩᎪwᏘᎭ|achű:ja hla yagigowhtíha|The boy doesn't see me.|||
-||||||ᏌᎶᎵ ᏣᎪwᏘᎭ|salǒ:li jagowhtíha|A squirrel sees you.|||
-||||||Ꮭ ᏲᎾ ᏱᏣᎪwᏘᎭ|hla yǒ:na yijagowhtíha|The bear doesn't see you.|||
-||||||Ꮭ ᎫᎴ ᏳᎭ|hla gu:le yǔ:ha|He doesn't have an acorn.|||
-||||||Ꮭ ᏌᏛᏗ ᏳᏂᎭ|hla sadv́:di yù:nǐ:ha|They don't have the trap.|||
-||||||Ꮭ ᏄᎾ ᏯᎩᎭ|hla nǔ:na yà:giha|I don't have the potato.|||
-||||||Ꮭ ᏅᏯ ᏱᏣᎭ|hla nv̀:ya yijaha|You don't have the rock.|||
-||||||Ꮭ ᎩᏟ ᏳᏩᎧᎭ|hla gi:hli yù:wa:káha|He doesn't have a dog.|||
-||||||Ꮭ ᏪᏌ ᏳᏂᎧᎭ|hla wě:sa yù:ni:káha|They don't have a cat.|||
-||||||Ꮭ ᏙᏯ ᏯᎩᎧᎭ|hla do:ya yà:gikáha|I don't have a beaver.|||
-||||||Ꮭ ᏥᏍᏚ ᏱᏣᎧᎭ|hla ji:sdu yijakáha|You don't have a rabbit.||Complete the lesson material through the end of chapter 18.|
+||||||ᎠᎨᏳᏣ ᎠᎩᎪwᏘᎭ|age:hyű:ja agigowhtíha.; agigowhtíha na age:hyű:ja.|The girl sees me.|||
+||||||ᎠᏧᏣ Ꮭ ᏯᎩᎪwᏘᎭ|hla achű:ja yagigowhtíha.; achű:ja hla yagigowhtíha.; hla yagigowhtíha na achű:ja.|The boy doesn't see me.|||
+||||||ᏌᎶᎵ ᏣᎪwᏘᎭ|salǒ:li jagowhtíha.; jagowhtíha salǒ:li.|A squirrel sees you.|||
+||||||Ꮭ ᏲᎾ ᏱᏣᎪwᏘᎭ|hla yǒ:na yijagowhtíha.; yǒ:na hla yijagowhtíha.; hla yijagowhtíha na yǒ:na.|The bear doesn't see you.|||
+||||||Ꮭ ᎫᎴ ᏳᎭ|hla na gu:le yǔ:ha.; na gu:le hla yǔ:ha.; hla yǔ:ha na gu:le.|He doesn't have the acorn.|||
+||||||Ꮭ ᏌᏛᏗ ᏳᏂᎭ|hla sadv́:di yù:nǐ:ha.; sadv́:di hla yù:nǐ:ha.; hla yù:nǐ:ha na sadv́:di.|They don't have the trap.|||
+||||||Ꮭ ᏄᎾ ᏯᎩᎭ|hla nǔ:na yà:giha.; nǔ:na hla yà:giha.; hla yà:giha na nǔ:na.|I don't have the potato.|||
+||||||Ꮭ ᏅᏯ ᏱᏣᎭ|hla nv̀:ya yijaha.; nv̀:ya hla yijaha.; hla yijaha na nv̀:ya.|You don't have the rock.|||
+||||||Ꮭ ᎩᏟ ᏳᏩᎧᎭ|hla gi:hli yù:wa:káha.; gi:hli hla yù:wa:káha.; hla yù:wa:káha gi:hli.|He doesn't have a dog.|||
+||||||Ꮭ ᏪᏌ ᏳᏂᎧᎭ|hla wě:sa yù:ni:káha.; wě:sa hla yù:ni:káha.; hla yù:ni:káha wě:sa.|They don't have a cat.|||
+||||||Ꮭ ᏙᏯ ᏯᎩᎧᎭ|hla do:ya yà:gikáha.; do:ya hla yà:gikáha.; hla yà:gikáha do:ya.|I don't have a beaver.|||
+||||||Ꮭ ᏥᏍᏚ ᏱᏣᎧᎭ|hla ji:sdu yijakáha.; ji:sdu hla yijakáha.; hla yijakáha ji:sdu.|You don't have a rabbit.||Complete the lesson material through the end of chapter 18.|
 
 #Chapter 19 ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 #ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE|||
