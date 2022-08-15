@@ -375,28 +375,28 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 #Chapter 19 ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 #ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE|||
-||||||ᏩᎭᏯ ᎬᎩᎪwᏘᎭ; ᏩᏯ ᎬᎩᎪwᏘ|wahaya gv:gigowhtíha; wahya gv:gigowhtí|Wolves see me.|||
-||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ|vhla ani:ge:hyű:ja yigv:gigowhtíha; hla ani:ge:hyű:j yigv:gigowhtí|Girls don't see me.|||
-||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ; ᎠᏂᏧj ᎨᏣᎪwᏘ|ani:chű:ja ge:jagowhtíha; ani:chű:j ge:jagowhtí|Boys see you.|||
-||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ|vhla salǒ:li yige:jagowhtíha; hla salǒ:l yige:jagowhtí|Squirrels don't see you.|||
+||||||ᏩᎭᏯ ᎬᎩᎪwᏘᎭ; ᏩᏯ ᎬᎩᎪwᏘ|na wahaya gv:gigowhtíha.; na wahya gv:gigowhtí.; gv:gigowhtíha na wahaya.; gv:gigowhtí na wahya.|The wolves see me.|||
+||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ|vhla ani:ge:hyű:ja yigv:gigowhtíha.; hla ani:ge:hyű:j yigv:gigowhtí.; vhla yigv:gigowhtíha na ani:ge:hyű:ja.;na ani:ge:hyű:j hla yigv:gigowhtí.|The girls don't see me.|||
+||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ; ᎠᏂᏧj ᎨᏣᎪwᏘ|ani:chű:ja ge:jagowhtíha.; ani:chű:j ge:jagowhtí.; ge:jagowhtíha na ani:chű:ja.; ge:jagowhtí na ani:chű:j.|The boys see you.|||
+||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ|vhla salǒ:li yige:jagowhtíha.; hla salǒ:l yige:jagowhtí.; vhla yige:jagowhtíha na salǒ:li.; na salǒ:l hla yige:jagowhtí.|The squirrels don't see you.|||
 
-||||||ᏗᏌᏛᏗ ᏚᎭ; ᏗᏌᏛd ᏚᎭ|di:sadv́:di dǔ:ha; di:sadv́:d dǔ:ha|He has traps.|||
-||||||ᏄᎾ ᏚᏂᎭ; Ꮔn ᏚᏂᎭ|nǔ:na dù:nǐ:ha; nǔ:n dù:nǐ:ha|They have potatoes.|||
-||||||ᏅᏯ ᏓᎩᎭ|nv̀:ya dà:giha|I have rocks.|||
-||||||ᎫᎴ ᏕᏣᎭ|gu:le de:jaha|You have acorns.|||
-||||||ᎠᎭᏫ ᏚᏩᎧᎭ; ᎠᏫ ᏚᏩᎧ|ahawi dù:wa:káha; ahwi dù:wa:ká|He has deer.|||
-||||||ᏙᏯ ᏚᏂᎧᎭ; ᏙᏯ ᏚᏂᎧ|do:ya dù:ni:káha; do:ya dù:ni:ká|They have beavers.|||
-||||||ᏥᏍᏚ ᏓᎩᎧᎭ; ᏥᏍd ᏓᎩᎧ|ji:sdu dà:gikáha; ji:sd dà:giká|I have rabbits.|||
-||||||ᏩᎭᏯ ᏕᏣᎧᎭ; ᏩᏯ ᏕᏣᎧ|wahaya de:jakáha; wahya de:jaká|You have wolves.|||
+||||||ᏗᏌᏛᏗ ᏚᎭ; ᏗᏌᏛd ᏚᎭ|di:sadv́:di dǔ:ha.; di:sadv́:d dǔ:ha.; dǔ:ha na di:sadv́:di.; dǔ:ha na di:sadv́:d.|He has the traps.|||
+||||||ᏄᎾ ᏚᏂᎭ; Ꮔn ᏚᏂᎭ|nǔ:na dù:nǐ:ha.; nǔ:n dù:nǐ:ha.; dù:nǐ:ha na nǔ:na.; dù:nǐ:ha na nǔ:n.|They have the potatoes.|||
+||||||ᏅᏯ ᏓᎩᎭ|nv̀:ya dà:giha.; dà:giha nv̀:ya.|I have rocks.|||
+||||||ᎫᎴ ᏕᏣᎭ|gu:le de:jaha.; de:jaha gu:le.|You have acorns.|||
+||||||ᎠᎭᏫ ᏚᏩᎧᎭ; ᎠᏫ ᏚᏩᎧ|ahawi dù:wa:káha.; ahwi dù:wa:ká.; dù:wa:káha ahawi.; dù:wa:ká ahwi.|He has deer.|||
+||||||ᏙᏯ ᏚᏂᎧᎭ; ᏙᏯ ᏚᏂᎧ|do:ya dù:ni:káha.; do:ya dù:ni:ká.; dù:ni:káha do:ya.; dù:ni:ká do:ya.|They have beavers.|||
+||||||ᏥᏍᏚ ᏓᎩᎧᎭ; ᏥᏍd ᏓᎩᎧ|ji:sdu dà:gikáha.; ji:sd dà:giká.; dà:gikáha ji:sdu.; dà:giká ji:sd.|I have rabbits.|||
+||||||ᏩᎭᏯ ᏕᏣᎧᎭ; ᏩᏯ ᏕᏣᎧ|wahaya de:jakáha.; wahya de:jaká.; de:jakáha wahaya.; de:jaká wahya.|You have wolves.|||
 
-||||||ᎥᏝ ᏗᏌᏛᏗ ᏱᏚᎭ; Ꮭ ᏗᏌᏛd ᏱᏚᎭ|vhla di:sadv́:di yidǔ:ha; hla di:sadv́:d yidǔ:ha|He doesn't have traps.|||
-||||||ᎥᏝ ᏄᎾ ᏱᏚᏂᎭ|vhla nǔ:na yidù:nǐ:ha|They don't have potatoes.|||
-||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ|vhla nv̀:ya yida:giha|I don't have rocks.|||
-||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ|vhla gu:le yidi:jaha|You don't have acorns.|||
-||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ; Ꮭ ᎩᏟ ᏱᏚᏩᎧ|vhla gi:hli yidù:wa:káha; hla gi:hli yidù:wa:ká|He doesn't have dogs.|||
-||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ; Ꮭ ᏪᏍ ᏱᏚᏂᎧ|vhla wě:sa yidù:ni:káha; hla wě:s yidù:ni:ká|They don't have cats.|||
-||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ; Ꮭ ᎠᏫ ᏱᏓᎩᎧ|vhla ahawi yida:gikáha; hla ahwi yida:giká|I don't have deer.|||
-||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha; hla do:ya yidi:jaká|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
+||||||ᎥᏝ ᏗᏌᏛᏗ ᏱᏚᎭ; Ꮭ ᏗᏌᏛd ᏱᏚᎭ|vhla na di:sadv́:di yidǔ:ha.; hla na di:sadv́:d yidǔ:ha.; vhla yidǔ:ha na di:sadv́:di.; na di:sadv́:d hla yidǔ:ha.|He doesn't have the traps.|||
+||||||ᎥᏝ ᏄᎾ ᏱᏚᏂᎭ|vhla na nǔ:na yidù:nǐ:ha.; na nǔ:na hla yidù:nǐ:ha.; vhla yidù:nǐ:ha na nǔ:na.|They don't have the potatoes.|||
+||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ|vhla nv̀:ya yida:giha.; nv̀:ya hla yida:giha.; vhla yida:giha nv̀:ya.|I don't have rocks.|||
+||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ|vhla gu:le yidi:jaha.; gu:le hla yidi:jaha.; vhla yidi:jaha gu:le.|You don't have acorns.|||
+||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ; Ꮭ ᎩᏟ ᏱᏚᏩᎧ|vhla gi:hli yidù:wa:káha.; hla gi:hli yidù:wa:ká.; vhla yidù:wa:káha gi:hli.; gi:hli hla yidù:wa:ká.|He doesn't have dogs.|||
+||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ; Ꮭ ᏪᏍ ᏱᏚᏂᎧ|vhla wě:sa yidù:ni:káha.; hla wě:sa yidù:ni:ká.; vhla yidù:ni:káha wě:sa.; wě:sa hla yidù:ni:ká.|They don't have cats.|||
+||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ; Ꮭ ᎠᏫ ᏱᏓᎩᎧ|vhla ahawi yida:gikáha.; hla ahwi yida:giká.; vhla yida:gikáha ahawi.; ahwi hla yida:giká.|I don't have deer.|||
+||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha.; hla do:ya yidi:jaká.; vhla yidi:jakáha do:ya.; hla yidi:jaká do:ya.|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
 
 #Chapter 20 ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎢᎩ|i̋:gi|Is now or was just now.|||
