@@ -9,7 +9,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏲ!|ayo!|Ouch!|||
 
 ||||||ᏙᎯ|tò:hi̋|Peaceful. Well in health.|||
-||||||ᏙᎯᏧ?|tò:hi̋:ju?|It is well. Right?|||
+||||||ᏙᎯᏧ?|tò:hi̋:ju?|Isn't it well?|||
 ||||||ᏙᎯᏍᎪ?; ᏙᎯᏍ?|tò:hi̋:sgo?; tò:hi̋:s?|Is it well?|||
 ||||||ᎥᎥ. ᏙᎯᏊ.; Ꭵ. ᏙᎯᏊ.|v:ʔv. tò:hi̋:gwu.; v:ʔ. tò:hi̋:gwu.|Yes, it's just well.|||
 ||||||ᎥᎥ. ᎣᏍᏓ.; Ꭵ. ᎣᏍᏓ.|v:ʔv. ő:sda.; v:ʔ. ő:sda.|Yes, it is good.|||
@@ -142,9 +142,9 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎥᏍᎩᎾᏊ.; ᏍᎩᎾᏊ.; ᎾᏍᎩᏊ.|v̀:sginagwu.; sginagwu.; nà:sgigwu.|Just him, them, or that.|||
 ||||||ᎯᎠᏊ.; ᎯᎢᏊ.|hiʔagwu.; hiʔigwu.|Just this.|||
 
-||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|It's just a wolf, right?|||
-||||||ᎾᏧ.|naju.|It's that, right?|||
-||||||ᎯᎠᏧ.; ᎯᎢᏧ.|hiʔaju.; hiʔiju.|It's this, right?|||
+||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|Isn't it just a wolf?|||
+||||||ᎾᏧ.|naju.|Isn't it that?|||
+||||||ᎯᎠᏧ.; ᎯᎢᏧ.|hiʔaju.; hiʔiju.|Isn't it this?|||
 
 ||||||Ꮭ ᎠᎨᏯ ᏱᎩ. ᎠᏍᎦᏯ.; Ꮭ ᎠᎨᏯ Ᏹg. ᎠᏍᎦᎢ.|hla agě:hya yi̋:gi. asgaya.; hla agě:hya yi̋:g. asgai.|It isn't a woman. It's a man.|||
 *||||||Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.; Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.|hla asgaya yi̋:gi. agě:hya.; hla asgai yi̋:g. agě:hya.|It isn't a man. It's a woman.|||
@@ -430,7 +430,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎹᎦᏰᏘ ᏪᏌ ᏚᏚᎵᎭ; ᎹᎦᏰᏘ ᏪᏍ ᏚᏚᎵ|má:gaye:ti wě:sa dù:du:líha; má:gaye:ti wě:s dù:du:lí|Margaret wants cats.|||
 ||||||ᎯᏯᏚᎵᎭᏍᎪ?; ᎯᏯᏚᎵᎭᏍ?; ᎯᏯᏚᎵᏍᎪ?; ᎯᏯᏚᎵᏍ?|hi:ya:du:líhasgo?; hi:ya:du:líhas?; hi:ya:du:lísgo?; hi:ya:du:lís?|Do you want him?|||
 
-||||||ᎾᏧ ᏌᏛᏗ ᏣᏚᎵᎭ?; ᎾᏧ ᏌᏛd ᏣᏚᎵ?|naju sadv́:di jadu:líha?; naju sadv́:d jadu:lí?|You want that trap, right?|||
+||||||ᎾᏧ ᏌᏛᏗ ᏣᏚᎵᎭ?; ᎾᏧ ᏌᏛd ᏣᏚᎵ?|naju sadv́:di jadu:líha?; naju sadv́:d jadu:lí?|Don't you want that trap?|||
 ||||||ᎺᎵ ᏣᏚᎵᎭ; ᎺᎵ ᏣᏚᎵ|mé:li jadu:líha; mé:li jadu:lí|Mary wants you.|||
 
 ||||||ᎠᎭᏫᏍᎪ ᎦᎯᏯᏚᎵᎭ?; ᎠᎭᏫᏍ ᎦᎯᏯᏚᎵ?|ahawisgo ga:hi:ya:du:líha?; ahawis ga:hi:ya:du:lí?|Do you want deer?|||
@@ -473,7 +473,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎯᎠ ᎤᏲ|hiʔa u:yő|This is bad!|||
 *||||||Ꮭ ᎾᏍᎩ ᏱᏥᎪwᏘ; Ꮭ ᎥᏍᎩ ᏱᏥᎪwᏘ; Ꮭ ᏍᎩᎾ ᏱᏥᎪwᏘ; Ꮭ ᎥᏍᎩᎾ ᏱᏥᎪwᏘ|hla nà:sgi yiji:gowhtí; hla v̀:sgi yiji:gowhtí; hla sgina yiji:gowhtí; hla v̀:sgina yiji:gowhtí|I don't see that!|||
 *||||||Ꮭ ᎣᏍd Ᏹg|hla ő:sd yi̋:g|Not good!|||
-*||||||ᏂᎯᏧ ᎤᎿ|nihiju ù:hna|You're there, right?|||
+*||||||ᏂᎯᏧ ᎤᎿ|nihiju ù:hna|Aren't you there?|||
 *||||||Ꮭ ᏱᏥᎪwᏘᎭ|hla yiji:gowhtíha|I don't see him!|||
 *||||||ᎭᏢ ᏂᎯ?|ha:dlv nihi?|Where are you?|||
 *||||||ᎤᎿ ᎤᏲ ᎨᏒg|ù:hna u:yő gè:sv̌:g|It was bad there!|||
