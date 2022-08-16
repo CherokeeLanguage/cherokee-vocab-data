@@ -408,7 +408,14 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̌:ʔi; gè:hv̌|Been (a while ago).|||
 ||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|Was (a while ago).|||
 ||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|Reportedly was (a while ago).|||
-||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|Will be being.||Complete the lesson material through the end of chapter 20.|
+||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|Will be being.|||
+*|||||||Wahaya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só:ʔi.; Wahya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só.|Wolves are usually gray.|||
+*|||||||Na sǎ:loli u:wǒ:díge̋ gè:sv̌:ʔi.; Na sǎ:lol u:wǒ:díge̋ gè:sv̌.|The squirrel was brown.|||
+*|||||||Asakǒ:níge̋ ù:sgǒ:lv̋ ahawi ahani gè:hv̌.; Asakǒ:níge̋ ù:sgǒ:lv̋ ahwi ahni gè:hv̌.|It was a blue-gray deer here a while ago.|||
+*|||||||Na gv̌:hnáge̋ do:ya ahani gè:sé:ʔi.; Na gv̌:hnáge̋ do:ya ahni gè:sé.|The black beaver was here.|||
+*|||||||Na sǒ:gwíli uwǒ:díge̋ gè:sé:sdi.; Na sǒ:gwíl uwǒ:díge̋ gè:sé:sd.|The horse will be brown.|||
+*|||||||Na a:nidalǒ:níge̋ ji:sdu ù:hna gè:sv̌:gi.; Na a:nidalǒ:níge̋ ji:sd ù:hna gè:sv̌:g.|The yellow rabbits were there.|||
+*|||||||Na yǒ:na dalǒ:níge̋ ù:sgǒ:lv̋ i̋:gi.; Na yǒ:n dalǒ:níge̋ ù:sgǒ:lv̋ i̋:g.|The bear is orange.||Complete the lesson material through the end of chapter 20.|
 
 #Chapter 21 ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᏆᏆᎠ ᏥᏯᏚᎵᎭ; ᏆᏆ ᏥᏯᏚᎵ|gwa:gwaʔa ji:ya:du:líha; gwa:gwa ji:ya:du:lí|I want Barbara.|||
