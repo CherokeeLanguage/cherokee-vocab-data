@@ -142,7 +142,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎥᏍᎩᎾᏊ.; ᏍᎩᎾᏊ.; ᎾᏍᎩᏊ.|v̀:sginagwu.; sginagwu.; nà:sgigwu.|Just him, them, or that.|||
 ||||||ᎯᎠᏊ.; ᎯᎢᏊ.|hiʔagwu.; hiʔigwu.|Just this.|||
 
-||||||ᏩᎭᏯᏊᏧ?; ᏩᏯᏊᏧ?|wahayagwuju?; wahyagwuju?|Isn't it just a wolf?|||
+||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|Isn't it just a wolf?|||
+
 ||||||ᎾᏧ.|naju.|Isn't it that?|||
 ||||||ᎯᎠᏧ.; ᎯᎢᏧ.|hiʔaju.; hiʔiju.|Isn't it this?|||
 
