@@ -410,13 +410,13 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|It was. They were. A while ago.|||
 ||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|It was, reportedly. They were, reportedly. A while ago.|||
 ||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|That being which will be.|||
-*||||||ᏩᎭᏯ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᎨᏐᎢ.; ᏩᏯ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᎨᏐ.|Wahaya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só:ʔi.; Wahya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só.|Wolves are usually gray.|||
-*||||||Ꮎ ᏌᎶᎵ ᎤᏬᏗᎨ ᎨᏒᎢ.; Ꮎ ᏌᎶꮅ ᎤᏬᏗᎨ ᎨᏒ.|Na sǎ:loli u:wǒ:díge̋ gè:sv̌:ʔi.; Na sǎ:lol u:wǒ:díge̋ gè:sv̌.|The squirrel was brown.|||
-*||||||ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᎠᎭᏫ ᎠᎭᏂ ᎨᎲ.; ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᎠᏫ ᎠᏂ ᎨᎲ.|Asakǒ:níge̋ ù:sgǒ:lv̋ ahawi ahani gè:hv̌.; Asakǒ:níge̋ ù:sgǒ:lv̋ ahwi ahni gè:hv̌.|It was a blue-gray deer here a while ago.|||
-*||||||Ꮎ ᎬᎿᎨ ᏙᏯ ᎠᎭᏂ ᎨᏎᎢ.; Ꮎ ᎬᎿᎨ ᏙᏯ ᎠᏂ ᎨᏎ.|Na gv̌:hnáge̋ do:ya ahani gè:sé:ʔi.; Na gv̌:hnáge̋ do:ya ahni gè:sé.|The black beaver was here.|||
-*||||||Ꮎ ᏐᏈᎵ ᎤᏬᏗᎨ ᎨᏎᏍᏗ.; Ꮎ ᏐᏈꮅ ᎤᏬᏗᎨ ᎨᏎᏍd.|Na sǒ:gwíli uwǒ:díge̋ gè:sé:sdi.; Na sǒ:gwíl uwǒ:díge̋ gè:sé:sd.|The horse will be brown.|||
-*||||||Ꮎ ᎠᏂᏓᎶᏂᎨ ᏥᏍᏚ ᎤᎿ ᎨᏒᎩ.; Ꮎ ᎠᏂᏓᎶᏂᎨ ᏥᏍd ᎤᎿ ᎨᏒg.|Na a:nidalǒ:níge̋ ji:sdu ù:hna gè:sv̌:gi.; Na a:nidalǒ:níge̋ ji:sd ù:hna gè:sv̌:g.|The yellow rabbits were there.|||
-*||||||Ꮎ ᏲᎾ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎢᎩ.; Ꮎ Ᏺn ᏓᎶᏂᎨ ᎤᏍᎪᎸ Ꭲg.|Na yǒ:na dalǒ:níge̋ ù:sgǒ:lv̋ i̋:gi.; Na yǒ:n dalǒ:níge̋ ù:sgǒ:lv̋ i̋:g.|The bear is orange.||Complete the lesson material through the end of chapter 20.|
+*|||||||Wahaya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só:ʔi.; Wahya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só.|Wolves are usually gray.|||
+*|||||||Na sǎ:loli u:wǒ:díge̋ gè:sv̌:ʔi.; Na sǎ:lol u:wǒ:díge̋ gè:sv̌.|The squirrel was brown.|||
+*|||||||Asakǒ:níge̋ ù:sgǒ:lv̋ ahawi ahani gè:hv̌.; Asakǒ:níge̋ ù:sgǒ:lv̋ ahwi ahni gè:hv̌.|It was a blue-gray deer here a while ago.|||
+*|||||||Na gv̌:hnáge̋ do:ya ahani gè:sé:ʔi.; Na gv̌:hnáge̋ do:ya ahni gè:sé.|The black beaver was here.|||
+*|||||||Na sǒ:gwíli uwǒ:díge̋ gè:sé:sdi.; Na sǒ:gwíl uwǒ:díge̋ gè:sé:sd.|The horse will be brown.|||
+*|||||||Na a:nidalǒ:níge̋ ji:sdu ù:hna gè:sv̌:gi.; Na a:nidalǒ:níge̋ ji:sd ù:hna gè:sv̌:g.|The yellow rabbits were there.|||
+*|||||||Na yǒ:na dalǒ:níge̋ ù:sgǒ:lv̋ i̋:gi.; Na yǒ:n dalǒ:níge̋ ù:sgǒ:lv̋ i̋:g.|The bear is orange.||Complete the lesson material through the end of chapter 20.|
 
 #Chapter 21 ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᏆᏆᎠ ᏥᏯᏚᎵᎭ; ᏆᏆ ᏥᏯᏚᎵ|gwa:gwaʔa ji:ya:du:líha; gwa:gwa ji:ya:du:lí|I want Barbara.|||
@@ -448,7 +448,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵᎭ; ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵ|nű:la, sú:sano jadu:líha; nű:la, sú:sano jadu:lí|Hurry, Susan wants you.|||
 ||||||ᎠᏂᏔᎵ ᎢᏯᏂ ᎠᏂᎨᏳᏣ; ᎠᏂᏔꮅ ᎢᏯᏂ ᎠᏂᎨᏳj|a:nitáʔli iyáni ani:ge:hyű:ja; a:nitáʔl iyáni ani:ge:hyű:j|Two count girls.|||
 ||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋; joʔi ǐ:ga̋ dě:hluʔgv̋:ʔi; jo ǐ:ga̋ dě:hluʔgv̋; joʔi ǐ:ga̋ dě:dluhgv̋:ʔi; jo ǐ:ga̋ dě:dluhgv̋|Three count trees.|||
-||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|nǔ:na ga:sgilv̋:ʔi; nǔ:na ga:sgilv̋|A potato is on a chair or on a table.|||
+||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|Na nǔ:na ga:sgilv̋:ʔi; Na nǔ:na ga:sgilv̋|the potato is on a table or chair.|||
 
 # gadō u:sdi|||
 ||||||ᎦᏙ ᎤᏍᏗ ᎤꮅᏑᏫᏓ Ꮎ ᎩᏟ?; ᎦᏙ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?; Ꮩ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?|gadō u:sdi ulsǔ:hwida na gi:hli?; gadō u:sd ulsǔ:hwid na gi:hli?; dō u:sd ulsǔ:hwid na gi:hli?|What color is the dog?|||
