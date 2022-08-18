@@ -399,16 +399,16 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha.; hla do:ya yidi:jaká.; vhla yidi:jakáha do:ya.; hla yidi:jaká do:ya.|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
 
 #Chapter 20 ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎢᎩ|i̋:gi|Is now or was just now.|||
+||||||ᎢᎩ|i̋:gi|Is now. Was just now.|||
 ||||||ᎢᎦ|i̋:ga|Is now.|||
-||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|Usually is.|||
-||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̌:ʔi; gè:sv̌|Being.|||
-||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|Was being.|||
-||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|Reportedly was being.|||
-||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̌:ʔi; gè:hv̌|Been (a while ago).|||
-||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|Was (a while ago).|||
-||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|Reportedly was (a while ago).|||
-||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|Will be being.|||
+||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|Usually is so.|||
+||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̋:ʔi; gè:sv̋|That which is. That which was.|||
+||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|It was. They were.|||
+||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|It was, reportedly. They were, reportedly.|||
+||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̋:ʔi; gè:hv̋|That which was a while ago.|||
+||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|It was. They were. A while ago.|||
+||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|It was, reportedly. They were, reportedly. A while ago.|||
+||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|That being which will be.|||
 *|||||||Wahaya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só:ʔi.; Wahya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só.|Wolves are usually gray.|||
 *|||||||Na sǎ:loli u:wǒ:díge̋ gè:sv̌:ʔi.; Na sǎ:lol u:wǒ:díge̋ gè:sv̌.|The squirrel was brown.|||
 *|||||||Asakǒ:níge̋ ù:sgǒ:lv̋ ahawi ahani gè:hv̌.; Asakǒ:níge̋ ù:sgǒ:lv̋ ahwi ahni gè:hv̌.|It was a blue-gray deer here a while ago.|||
@@ -440,14 +440,14 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎪᎱᏍᏗ ᏚᎾᏚᎵᎭ; ᎪᎱᏍd ᏚᎾᏚᎵ; ᎪᏍᏗ ᏚᎾᏚᎵ|go:hű:sdi dù:na:du:líha; go:hű:sd dù:na:du:lí; gő:sdi dù:na:du:lí|They want things.|||
 # a:sé:hnv|||
 ||||||ᎠᏎᏃ, ᏥᏍᏚ ᎦᏥᏯᏚᎵᎭ.; ᎠᏎᏃ, ᏥᏍd ᎦᏥᏯᏚᎵ.; ᎠᏎᏅ, ᏥᏍd ᎦᏥᏯᏚᎵ.|a:sé:hno, ji:sdu ga:ji:ya:du:líha.; a:sé:hno, ji:sd ga:ji:ya:du:lí.; a:sé:hnv, ji:sd ga:ji:ya:du:lí.|But, I want rabbits.|||
-||||||ᎦᏍᎩᎶ ᏥᎪwᏘᎭ; ᎦᏍᎩᎶ ᏥᎪwᏘ|ga:sgilo jigowhtíha; ga:sgilo jigowhtí|I see a table or a chair.||Complete the lesson material through the end of chapter 21.|
+||||||ᎦᏍᎩᎶ ᏥᎪwᏘᎭ; ᎦᏍᎩᎶ ᏥᎪwᏘ|ga:sgilo jigowhtíha; ga:sgilo jigowhtí|I see a table or chair.||Complete the lesson material through the end of chapter 21.|
 
 #Chapter 22 ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||Ꭷ, ᎥᏝ ᏄᎾ ᏯᏆᏚᎵᎭ; Ꭷ! Ꮭ ᏄᎾ ᏯᏆᏚᎵ!|ka, vhla nǔ:na yà:gwadu:líha; ka! hla nǔ:na yà:gwadu:lí!|Hey! Enough! I don't want a potato!|||
 ||||||ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵᎭ; ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵ|nű:la, sú:sano jadu:líha; nű:la, sú:sano jadu:lí|Hurry, Susan wants you.|||
 ||||||ᎠᏂᏔᎵ ᎢᏯᏂ ᎠᏂᎨᏳᏣ; ᎠᏂᏔꮅ ᎢᏯᏂ ᎠᏂᎨᏳj|a:nitáʔli iyáni ani:ge:hyű:ja; a:nitáʔl iyáni ani:ge:hyű:j|Two count girls.|||
 ||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋; joʔi ǐ:ga̋ dě:hluʔgv̋:ʔi; jo ǐ:ga̋ dě:hluʔgv̋; joʔi ǐ:ga̋ dě:dluhgv̋:ʔi; jo ǐ:ga̋ dě:dluhgv̋|Three count trees.|||
-||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|nǔ:na ga:sgilv̋:ʔi; nǔ:na ga:sgilv̋|A potato is on a chair or on a table.|||
+||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|Na nǔ:na ga:sgilv̋:ʔi; Na nǔ:na ga:sgilv̋|the potato is on a table or chair.|||
 
 # gadō u:sdi|||
 ||||||ᎦᏙ ᎤᏍᏗ ᎤꮅᏑᏫᏓ Ꮎ ᎩᏟ?; ᎦᏙ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?; Ꮩ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?|gadō u:sdi ulsǔ:hwida na gi:hli?; gadō u:sd ulsǔ:hwid na gi:hli?; dō u:sd ulsǔ:hwid na gi:hli?|What color is the dog?|||
