@@ -9,7 +9,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏲ!|ayo!|Ouch!|||
 
 ||||||ᏙᎯ|tò:hi̋|Peaceful. Well in health.|||
-||||||ᏙᎯᏧ?|tò:hi̋:ju?|It is well. Right?|||
+||||||ᏙᎯᏧ?|tò:hi̋:ju?|Isn't it well?|||
 ||||||ᏙᎯᏍᎪ?; ᏙᎯᏍ?|tò:hi̋:sgo?; tò:hi̋:s?|Is it well?|||
 ||||||ᎥᎥ. ᏙᎯᏊ.; Ꭵ. ᏙᎯᏊ.|v:ʔv. tò:hi̋:gwu.; v:ʔ. tò:hi̋:gwu.|Yes, it's just well.|||
 ||||||ᎥᎥ. ᎣᏍᏓ.; Ꭵ. ᎣᏍᏓ.|v:ʔv. ő:sda.; v:ʔ. ő:sda.|Yes, it is good.|||
@@ -115,8 +115,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 ||||||ᎭᏢ ᎥᏍᎩᎾ; ᎭᏢ ᎥᏍᎩ; ᎭᏢ ᏍᎩᎾ; ᎭᏢ ᎾᏍᎩ|ha:dlv v̀:sgina; ha:dlv v̀:sgi; ha:dlv sgina; ha:dlv nà:sgi|Where is he? Where are they?|||
 
-||||||ᎭᏢ Ꮎ ꮅᎬᎢ|Ha:dlv na hlʔgv̋:ʔi?|Where is the tree?|||
-||||||ᎭᏢ Ꮎ ᏕꮅᎬᎢ|Ha:dlv na dě:hlʔgv̋:ʔi?|Where are the trees?|||
+||||||ᎭᏢ Ꮎ ꮅᎬᎢ|Ha:dlv na hlʔgv̋:ʔi?; Ha:dlv na hluʔgv̋:ʔi?; Ha:dlv na dluhgv̋:ʔi?; Ha:dlv na hlʔgv̋?; Ha:dlv na hluʔgv̋?;Ha:dlv na dluhgv̋?|Where is the tree?|||
+||||||ᎭᏢ Ꮎ ᏕꮅᎬᎢ|Ha:dlv na dě:hlʔgv̋:ʔi?; Ha:dlv na dě:hluʔgv̋:ʔi?; Ha:dlv na dě:dluhgv̋:ʔi?; Ha:dlv na dě:hlʔgv̋?; Ha:dlv na dě:hluʔgv̋?; Ha:dlv na dě:dluhgv̋?|Where are the trees?|||
 
 ||||||ᎠᎨᏯ ᎯᎠ ᎠᎪwᏘᎭ; ᎠᎨᏯ ᎯᎠ ᎠᎪwᏘ; ᎠᎨᏯ ᎯᎢ ᎠᎪwᏘᎭ; ᎠᎨᏯ ᎯᎢ ᎠᎪwᏘ|agě:hya hiʔa à:gowhtíha; agě:hya hiʔa à:gowhtí; agě:hya hiʔi à:gowhtíha; agě:hya hiʔi à:gowhtí|A woman sees this.|||
 # |||||||na|The. That.|||
@@ -142,9 +142,9 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎥᏍᎩᎾᏊ.; ᏍᎩᎾᏊ.; ᎾᏍᎩᏊ.|v̀:sginagwu.; sginagwu.; nà:sgigwu.|Just him, them, or that.|||
 ||||||ᎯᎠᏊ.; ᎯᎢᏊ.|hiʔagwu.; hiʔigwu.|Just this.|||
 
-||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|It's just a wolf, right?|||
-||||||ᎾᏧ.|naju.|It's that, right?|||
-||||||ᎯᎠᏧ.; ᎯᎢᏧ.|hiʔaju.; hiʔiju.|It's this, right?|||
+||||||ᏩᎭᏯᏧ?; ᏩᏯᏧ|wahayagwuju?; wahyagwuju?|Isn't it just a wolf?|||
+||||||ᎾᏧ.|naju.|Isn't it that?|||
+||||||ᎯᎠᏧ.; ᎯᎢᏧ.|hiʔaju.; hiʔiju.|Isn't it this?|||
 
 ||||||Ꮭ ᎠᎨᏯ ᏱᎩ. ᎠᏍᎦᏯ.; Ꮭ ᎠᎨᏯ Ᏹg. ᎠᏍᎦᎢ.|hla agě:hya yi̋:gi. asgaya.; hla agě:hya yi̋:g. asgai.|It isn't a woman. It's a man.|||
 *||||||Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.; Ꮭ ᎠᏍᎦᏯ ᏱᎩ. ᎠᎨᏯ.|hla asgaya yi̋:gi. agě:hya.; hla asgai yi̋:g. agě:hya.|It isn't a man. It's a woman.|||
@@ -189,8 +189,8 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙ ᎠᏛᏁᎭ ᎠᏧᏣ?; ᎦᏙ ᎠᏛᏁ ᎠᏧj?; Ꮩ ᎠᏛᏁ ᎠᏧj?|gadō à:dv́:neha achű:ja?; gadō à:dv́:ne achű:j?; dō à:dv́:ne achű:j?|What is the boy doing?|||
 ||||||ᎦᏙ ᎠᎾᏛᏁᎭ ᎠᏂᏧᏣ?; ᎦᏙ ᎠᎾᏛᏁ ᎠᏂᏧj?; Ꮩ ᎠᎾᏛᏁ ᎠᏂᏧj?|gadō à:na:dv́:neha ani:chű:ja?; gadō à:na:dv́:ne ani:chű:j?; dō à:na:dv́:ne ani:chű:j?|What are the boys doing?|||
 
-||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlʔgv̋:ʔi jigowhtíha; hlʔgv̋ jigowhtí|I see a tree.|||
-||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlʔgv̋:ʔi dà:nigowhtíha; dě:hlʔgv̋ dà:nigowhtí|They see trees.|||
+||||||ꮅᎬᎢ ᏥᎪwᏘᎭ; ꮅᎬ ᏥᎪwᏘ|hlʔgv̋:ʔi jigowhtíha; hlʔgv̋ jigowhtí; hluʔgv̋:ʔi jigowhtíha; hluʔgv̋ jigowhtí; dluhgv̋:ʔi jigowhtíha; dluhgv̋ jigowhtí|I see a tree.|||
+||||||ᏕꮅᎬᎢ ᏓᏂᎪwᏘᎭ; ᏕꮅᎬ ᏓᏂᎪwᏘ|dě:hlʔgv̋:ʔi dà:nigowhtíha; dě:hlʔgv̋ dà:nigowhtí; dě:hluʔgv̋:ʔi dà:nigowhtíha; dě:hluʔgv̋ dà:nigowhtí; dě:dluhgv̋:ʔi dà:nigowhtíha; dě:dluhgv̋ dà:nigowhtí|They see trees.|||
 
 ||||||ᏌᏚ|sa:ʔdu|Eleven.|||
 ||||||ᏣᏁᎳ; ᏣᏁꮅ; ᏧᏁᎳ; ᏧᏁꮅ|chaně:la; chaně:l; chuně:la; chuně:l|Eight.|||
@@ -339,7 +339,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏧᏃᏗᎨ ᎩᏟ|ju:nǒ:díge̋ gi:hli|Brown dogs.|||
 ||||||ᏗᏤ ᏄᎾ|dije̋ nǔ:na|Green potatoes.|||
 ||||||ᏗᏤᎢᏳᏍᏗ ᏗᏌᏛᏗ|dijé:ʔiyű:sdi di:sadv́:di|green traps.|||
-||||||ᏧᏁᎦ ᏕꮅᎬᎢ|ju:ne̋:ga dě:hlʔgv̋:ʔi|white trees.|||
+||||||ᏧᏁᎦ ᏕꮅᎬᎢ|ju:ne̋:ga dě:hlʔgv̋:ʔi.; ju:ne̋:ga dě:hluʔgv̋:ʔi.; ju:ne̋:ga dě:dluhgv̋:ʔi|white trees.|||
 ||||||ᏧᏬᏗᎨᎢ ᏗᎪᏪᎵ|juwǒ:díge̋:ʔi digo:hwe:li|Brown papers. A brown book.|||
 ||||||ᏗᎩᎦᎨ ᎪᎱᏍᏗ; ᏗᎩᎦᎨ ᎪᏍᏗ|digǐ:gáge̋ go:hű:sdi; digǐ:gáge̋ gő:sdi|Red things.|||
 ||||||ᏗᎬᎿᎨ ᏅᏯ|digv̌:hnáge̋ nv̀:ya|Black rocks.|||
@@ -399,16 +399,16 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|vhla do:ya yidi:jakáha.; hla do:ya yidi:jaká.; vhla yidi:jakáha do:ya.; hla yidi:jaká do:ya.|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
 
 #Chapter 20 ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||ᎢᎩ|i̋:gi|Is now or was just now.|||
+||||||ᎢᎩ|i̋:gi|Is now. Was just now.|||
 ||||||ᎢᎦ|i̋:ga|Is now.|||
-||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|Usually is.|||
-||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̌:ʔi; gè:sv̌|Being.|||
-||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|Was being.|||
-||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|Reportedly was being.|||
-||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̌:ʔi; gè:hv̌|Been (a while ago).|||
-||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|Was (a while ago).|||
-||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|Reportedly was (a while ago).|||
-||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|Will be being.|||
+||||||ᎨᏐᎢ; ᎨᏐ|gè:só:ʔi; gè:só|Usually is so.|||
+||||||ᎨᏒᎢ; ᎨᏒ|gè:sv̋:ʔi; gè:sv̋|That which is. That which was.|||
+||||||ᎨᏒᎩ; ᎨᏒg|gè:sv̌:gi; gè:sv̌:g|It was. They were.|||
+||||||ᎨᏎᎢ; ᎨᏎ|gè:sé:ʔi; gè:sé|It was, reportedly. They were, reportedly.|||
+||||||ᎨᎲᎢ; ᎨᎲ|gè:hv̋:ʔi; gè:hv̋|That which was a while ago.|||
+||||||ᎨᎲᎩ; ᎨᎲ|gè:hv̌:gi; gè:hv̌|It was. They were. A while ago.|||
+||||||ᎨᎮᎢ; ᎨᎮ|gè:hé:ʔi; gè:hé|It was, reportedly. They were, reportedly. A while ago.|||
+||||||ᎨᏎᏍᏗ; ᎨᏎᏍd|gè:sé:sdi; gè:sé:sd|That being which will be.|||
 *|||||||Wahaya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só:ʔi.; Wahya a:nigv̌:hnáge̋ ù:nisgǒ:lv̋ gè:só.|Wolves are usually gray.|||
 *|||||||Na sǎ:loli u:wǒ:díge̋ gè:sv̌:ʔi.; Na sǎ:lol u:wǒ:díge̋ gè:sv̌.|The squirrel was brown.|||
 *|||||||Asakǒ:níge̋ ù:sgǒ:lv̋ ahawi ahani gè:hv̌.; Asakǒ:níge̋ ù:sgǒ:lv̋ ahwi ahni gè:hv̌.|It was a blue-gray deer here a while ago.|||
@@ -430,7 +430,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎹᎦᏰᏘ ᏪᏌ ᏚᏚᎵᎭ; ᎹᎦᏰᏘ ᏪᏍ ᏚᏚᎵ|má:gaye:ti wě:sa dù:du:líha; má:gaye:ti wě:s dù:du:lí|Margaret wants cats.|||
 ||||||ᎯᏯᏚᎵᎭᏍᎪ?; ᎯᏯᏚᎵᎭᏍ?; ᎯᏯᏚᎵᏍᎪ?; ᎯᏯᏚᎵᏍ?|hi:ya:du:líhasgo?; hi:ya:du:líhas?; hi:ya:du:lísgo?; hi:ya:du:lís?|Do you want him?|||
 
-||||||ᎾᏧ ᏌᏛᏗ ᏣᏚᎵᎭ?; ᎾᏧ ᏌᏛd ᏣᏚᎵ?|naju sadv́:di jadu:líha?; naju sadv́:d jadu:lí?|You want that trap, right?|||
+||||||ᎾᏧ ᏌᏛᏗ ᏣᏚᎵᎭ?; ᎾᏧ ᏌᏛd ᏣᏚᎵ?|naju sadv́:di jadu:líha?; naju sadv́:d jadu:lí?|Don't you want that trap?|||
 ||||||ᎺᎵ ᏣᏚᎵᎭ; ᎺᎵ ᏣᏚᎵ|mé:li jadu:líha; mé:li jadu:lí|Mary wants you.|||
 
 ||||||ᎠᎭᏫᏍᎪ ᎦᎯᏯᏚᎵᎭ?; ᎠᎭᏫᏍ ᎦᎯᏯᏚᎵ?|ahawisgo ga:hi:ya:du:líha?; ahawis ga:hi:ya:du:lí?|Do you want deer?|||
@@ -440,14 +440,14 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎪᎱᏍᏗ ᏚᎾᏚᎵᎭ; ᎪᎱᏍd ᏚᎾᏚᎵ; ᎪᏍᏗ ᏚᎾᏚᎵ|go:hű:sdi dù:na:du:líha; go:hű:sd dù:na:du:lí; gő:sdi dù:na:du:lí|They want things.|||
 # a:sé:hnv|||
 ||||||ᎠᏎᏃ, ᏥᏍᏚ ᎦᏥᏯᏚᎵᎭ.; ᎠᏎᏃ, ᏥᏍd ᎦᏥᏯᏚᎵ.; ᎠᏎᏅ, ᏥᏍd ᎦᏥᏯᏚᎵ.|a:sé:hno, ji:sdu ga:ji:ya:du:líha.; a:sé:hno, ji:sd ga:ji:ya:du:lí.; a:sé:hnv, ji:sd ga:ji:ya:du:lí.|But, I want rabbits.|||
-||||||ᎦᏍᎩᎶ ᏥᎪwᏘᎭ; ᎦᏍᎩᎶ ᏥᎪwᏘ|ga:sgilo jigowhtíha; ga:sgilo jigowhtí|I see a table or a chair.||Complete the lesson material through the end of chapter 21.|
+||||||ᎦᏍᎩᎶ ᏥᎪwᏘᎭ; ᎦᏍᎩᎶ ᏥᎪwᏘ|ga:sgilo jigowhtíha; ga:sgilo jigowhtí|I see a table or chair.||Complete the lesson material through the end of chapter 21.|
 
 #Chapter 22 ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||Ꭷ, ᎥᏝ ᏄᎾ ᏯᏆᏚᎵᎭ; Ꭷ! Ꮭ ᏄᎾ ᏯᏆᏚᎵ!|ka, vhla nǔ:na yà:gwadu:líha; ka! hla nǔ:na yà:gwadu:lí!|Hey! Enough! I don't want a potato!|||
 ||||||ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵᎭ; ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵ|nű:la, sú:sano jadu:líha; nű:la, sú:sano jadu:lí|Hurry, Susan wants you.|||
 ||||||ᎠᏂᏔᎵ ᎢᏯᏂ ᎠᏂᎨᏳᏣ; ᎠᏂᏔꮅ ᎢᏯᏂ ᎠᏂᎨᏳj|a:nitáʔli iyáni ani:ge:hyű:ja; a:nitáʔl iyáni ani:ge:hyű:j|Two count girls.|||
-||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋|Three count trees.|||
-||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|nǔ:na ga:sgilv̋:ʔi; nǔ:na ga:sgilv̋|A potato is on a chair or on a table.|||
+||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋; joʔi ǐ:ga̋ dě:hluʔgv̋:ʔi; jo ǐ:ga̋ dě:hluʔgv̋; joʔi ǐ:ga̋ dě:dluhgv̋:ʔi; jo ǐ:ga̋ dě:dluhgv̋|Three count trees.|||
+||||||ᏄᎾ ᎦᏍᎩᎸᎢ; ᏄᎾ ᎦᏍᎩᎸ|Na nǔ:na ga:sgilv̋:ʔi; Na nǔ:na ga:sgilv̋|the potato is on a table or chair.|||
 
 # gadō u:sdi|||
 ||||||ᎦᏙ ᎤᏍᏗ ᎤꮅᏑᏫᏓ Ꮎ ᎩᏟ?; ᎦᏙ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?; Ꮩ ᎤᏍd ᎤꮅᏑᏫd Ꮎ ᎩᏟ?|gadō u:sdi ulsǔ:hwida na gi:hli?; gadō u:sd ulsǔ:hwid na gi:hli?; dō u:sd ulsǔ:hwid na gi:hli?|What color is the dog?|||
@@ -473,7 +473,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎯᎠ ᎤᏲ|hiʔa u:yő|This is bad!|||
 *||||||Ꮭ ᎾᏍᎩ ᏱᏥᎪwᏘ; Ꮭ ᎥᏍᎩ ᏱᏥᎪwᏘ; Ꮭ ᏍᎩᎾ ᏱᏥᎪwᏘ; Ꮭ ᎥᏍᎩᎾ ᏱᏥᎪwᏘ|hla nà:sgi yiji:gowhtí; hla v̀:sgi yiji:gowhtí; hla sgina yiji:gowhtí; hla v̀:sgina yiji:gowhtí|I don't see that!|||
 *||||||Ꮭ ᎣᏍd Ᏹg|hla ő:sd yi̋:g|Not good!|||
-*||||||ᏂᎯᏧ ᎤᎿ|nihiju ù:hna|You're there, right?|||
+*||||||ᏂᎯᏧ ᎤᎿ|nihiju ù:hna|Aren't you there?|||
 *||||||Ꮭ ᏱᏥᎪwᏘᎭ|hla yiji:gowhtíha|I don't see him!|||
 *||||||ᎭᏢ ᏂᎯ?|ha:dlv nihi?|Where are you?|||
 *||||||ᎤᎿ ᎤᏲ ᎨᏒg|ù:hna u:yő gè:sv̌:g|It was bad there!|||
