@@ -4,17 +4,17 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎣᏏᏲ; ᏏᏲ|o:síyo; Síyo|Hello.|||
 
 ||||||ᎥᎥ.; Ꭵ.|v:ʔv.; v:ʔ.|Yes.|||
-||||||ᎥᏝ.; Ꮭ; Ꮭ|vhla.; hla; tla|No. Not.|||
+||||||ᎥᏝ.; Ꮭ; Ꮭ|v́ːhla.; hla; tla|No. Not.|||
 ||||||ᎰᏩ|howa|Okay.|||
-||||||ᎠᏲ!|ayo!|Ouch!|||
+||||||ᎠᏲ!|ayő!|Ouch!|||
 
 ||||||ᏙᎯ|tò:hi̋|Peaceful. Well in health.|||
 ||||||ᏙᎯᏧ?|tò:hi̋:ju?|Isn't it well?|||
 ||||||ᏙᎯᏍᎪ?; ᏙᎯᏍ?|tò:hi̋:sgo?; tò:hi̋:s?|Is it well?|||
 ||||||ᎥᎥ. ᏙᎯᏊ.; Ꭵ. ᏙᎯᏊ.|v:ʔv. tò:hi̋:gwu.; v:ʔ. tò:hi̋:gwu.|Yes, it's just well.|||
 ||||||ᎥᎥ. ᎣᏍᏓ.; Ꭵ. ᎣᏍᏓ.|v:ʔv. ő:sda.; v:ʔ. ő:sda.|Yes, it is good.|||
-||||||ᎥᏝ ᎣᏍᏓ ᏱᎩ.; Ꮭ ᎣᏍd ᏱᎩ.; Ꮭ ᎣᏍd Ᏹg.; ᏝᎲ ᎣᏍd ᏱᎩ.|v̀:hla ő:sda yi̋gi.; hla ő:sd yi̋gi.; hla ő:sd yi̋g.; hlahv ő:sd yi̋gi.|It's not good.|||
-||||||ᎥᏝ ᏙᎯ ᏱᎩ.; Ꮭ ᏙᎯ ᏱᎩ.; Ꮭ ᏙᎯ Ᏹg.; ᏝᎲ ᏙᎯ ᏱᎩ.|v̀:hla tò:hi̋ yi̋gi.; hla tò:hi̋ yi̋gi.; hla tò:hi̋ yi̋g.; hlahv tò:hi̋ yi̋gi.|It's not well.|||
+||||||ᎥᏝ ᎣᏍᏓ ᏱᎩ.; Ꮭ ᎣᏍd ᏱᎩ.; Ꮭ ᎣᏍd Ᏹg.; ᏝᎲ ᎣᏍd ᏱᎩ.|v́ːhla ő:sda yi̋gi.; hla ő:sd yi̋gi.; hla ő:sd yi̋g.; hlahv ő:sd yi̋gi.|It's not good.|||
+||||||ᎥᏝ ᏙᎯ ᏱᎩ.; Ꮭ ᏙᎯ ᏱᎩ.; Ꮭ ᏙᎯ Ᏹg.; ᏝᎲ ᏙᎯ ᏱᎩ.|v́ːhla tò:hi̋ yi̋gi.; hla tò:hi̋ yi̋gi.; hla tò:hi̋ yi̋g.; hlahv tò:hi̋ yi̋gi.|It's not well.|||
 ||||||ᏩᏙ|wado|Thanks.|||
 ||||||ᎥᏍᎩᎩ?|v̀:sgigi?|Really?|||
 
@@ -287,9 +287,9 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *|||||female|Ꮎ ᎠᏂᏦᎢ ᏲᎾ ᎤᎿ.; Ꮎ ᎠᏂᏦ Ᏺn ᎤᎿ.|na a:nijoʔi yǒ:na ù:hna̋.; na a:nijo yǒ:n ù:hna̋.|The three bears are there.|||
 *|||||male|Ꮟ! Ꮎ ᎠᏂᏦᎢ ᏲᎾ ᎠᎭᏂ; Ꮟ! Ꮎ ᎠᏂᏦ ᏲᎾ ᎠᏂ|Si! na a:nijoʔi yǒ:na áhani; Si! na a:nijo yǒ:na áhni|Wait! The three bears are here!|||
 *|||||male|ᎤᎿ ᎦᏥᎪwᏘᎭ, ᎠᏂᏔᎵ ᏪᏌ; ᎤᎿ ᎦᏥᎪwᏘ, ᏔᎵ ᏪᏍ|ù:hna̋ ga:ji:gowhtíha, a:nitáʔli wě:sa; ù:hna̋ ga:ji:gowhtí, táʔli wě:s|There, I see them, two cats|||
-*|||||male|ᏪᏌᏍᎪ? ᎥᏝ! ᎥᏍᎩ ᎠᏂᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᎥᏍᎩᎾ ᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᏍᎩᎾ ᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᎾᏍᎩ ᏔᎵ ᎩᏟ|wě:sasgo? vhla! v̀:sgi a:nitáʔli gi:hli; wě:sas? hla! v̀:sgina táʔli gi:hli; wě:sas? hla! sgina táʔli gi:hli; wě:sas? hla! nà:sgi táʔli gi:hli|Cats? No! Those are two dogs!|||
+*|||||male|ᏪᏌᏍᎪ? ᎥᏝ! ᎥᏍᎩ ᎠᏂᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᎥᏍᎩᎾ ᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᏍᎩᎾ ᏔᎵ ᎩᏟ; ᏪᏌᏍ? Ꮭ! ᎾᏍᎩ ᏔᎵ ᎩᏟ|wě:sasgo? v́ːhla! v̀:sgi a:nitáʔli gi:hli; wě:sas? hla! v̀:sgina táʔli gi:hli; wě:sas? hla! sgina táʔli gi:hli; wě:sas? hla! nà:sgi táʔli gi:hli|Cats? No! Those are two dogs!|||
 *|||||female|ᏲᎾᎾ|yǒ:nana|What about bears?|||
-*|||||male|ᎥᏝ ᏲᎾ ᎠᎭᏂ ᏱᎩ; Ꮭ Ᏺn ᎠᏂ Ᏹg|vhla yǒ:na áhani yi̋:gi; hla yǒ:n áhni yi̋:g|No bears are here!|||
+*|||||male|ᎥᏝ ᏲᎾ ᎠᎭᏂ ᏱᎩ; Ꮭ Ᏺn ᎠᏂ Ᏹg|v́ːhla yǒ:na áhani yi̋:gi; hla yǒ:n áhni yi̋:g|No bears are here!|||
 *|||||female|ᎦᏙ ᎤᏍᏗ ᎠᎭᏂ?; ᎦᏙ ᎤᏍd ᎠᏂ?; Ꮩ ᎤᏍd ᎠᏂ?|gadō u:sdi áhani?; gadō u:sd áhni?; dō u:sd áhni?|What is here?|||
 *|||||male|ᎤᎿ ᏥᎪwᏘᎭ; ᎤᎿ ᏥᎪwᏘ|ù:hna̋ jigowhtíha; ù:hna̋ jigowhtí|I see it there!|||
 # gő:sdi|||
@@ -376,10 +376,11 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 #Chapter 19 ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 #ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE|||
-||||||Ꮎ ᏩᎭᏯ ᎬᎩᎪwᏘᎭ.; Ꮎ ᏩᏯ ᎬᎩᎪwᏘ.; ᎬᎩᎪwᏘᎭ Ꮎ ᏩᎭᏯ.; ᎬᎩᎪwᏘ Ꮎ ᏩᏯ.|na wahaya gv:gigowhtíha.; na wahya gv:gigowhtí.; gv:gigowhtíha na wahaya.; gv:gigowhtí na wahya.|The wolves see me.|||
-||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ.; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ.; ᎥᏝ ᏱᎬᎩᎪwᏘᎭ Ꮎ ᎠᏂᎨᏳᏣ.; Ꮎ ᎠᏂᎨᏳj Ꮭ ᏱᎬᎩᎪwᏘ.|vhla ani:ge:hyű:ja yigv:gigowhtíha.; hla ani:ge:hyű:j yigv:gigowhtí.; vhla yigv:gigowhtíha na ani:ge:hyű:ja.;na ani:ge:hyű:j hla yigv:gigowhtí.|The girls don't see me.|||
-||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ.; ᎠᏂᏧj ᎨᏣᎪwᏘ.; ᎨᏣᎪwᏘᎭ Ꮎ ᎠᏂᏧᏣ.; ᎨᏣᎪwᏘ Ꮎ ᎠᏂᏧj.|ani:chű:ja ge:jagowhtíha.; ani:chű:j ge:jagowhtí.; ge:jagowhtíha na ani:chű:ja.; ge:jagowhtí na ani:chű:j.|The boys see you.|||
-||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ.; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ.; ᎥᏝ ᏱᎨᏣᎪwᏘᎭ Ꮎ ᏌᎶᎵ.; Ꮎ ᏌᎶꮅ Ꮭ ᏱᎨᏣᎪwᏘ.|vhla salǒ:li yige:jagowhtíha.; hla salǒ:l yige:jagowhtí.; vhla yige:jagowhtíha na salǒ:li.; na salǒ:l hla yige:jagowhtí.|The squirrels don't see you.|||
+
+||||||ᏩᎭᏯ ᎬᎩᎪwᏘᎭ; ᏩᏯ ᎬᎩᎪwᏘ|na wahaya gv:gigowhtíha.; na wahya gv:gigowhtí.; gv:gigowhtíha na wahaya.; gv:gigowhtí na wahya.|The wolves see me.|||
+||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ; Ꮭ ᎠᏂᎨᏳj ᏱᎬᎩᎪwᏘ|v́ːhla ani:ge:hyű:ja yigv:gigowhtíha.; hla ani:ge:hyű:j yigv:gigowhtí.; v́ːhla yigv:gigowhtíha na ani:ge:hyű:ja.;na ani:ge:hyű:j hla yigv:gigowhtí.|The girls don't see me.|||
+||||||ᎠᏂᏧᏣ ᎨᏣᎪwᏘᎭ; ᎠᏂᏧj ᎨᏣᎪwᏘ|ani:chű:ja ge:jagowhtíha.; ani:chű:j ge:jagowhtí.; ge:jagowhtíha na ani:chű:ja.; ge:jagowhtí na ani:chű:j.|The boys see you.|||
+||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪwᏘ|v́ːhla salǒ:li yige:jagowhtíha.; hla salǒ:l yige:jagowhtí.; v́ːhla yige:jagowhtíha na salǒ:li.; na salǒ:l hla yige:jagowhtí.|The squirrels don't see you.|||
 
 ||||||ᏗᏌᏛᏗ ᏚᎭ.; ᏗᏌᏛd ᏚᎭ.; ᏚᎭ Ꮎ ᏗᏌᏛᏗ.; ᏚᎭ Ꮎ ᏗᏌᏛd.|di:sadv́:di dǔ:ha.; di:sadv́:d dǔ:ha.; dǔ:ha na di:sadv́:di.; dǔ:ha na di:sadv́:d.|He has the traps.|||
 ||||||ᏄᎾ ᏚᏂᎭ.; Ꮔn ᏚᏂᎭ.; ᏚᏂᎭ Ꮎ ᏄᎾ.; ᏚᏂᎭ Ꮎ Ꮔn.|nǔ:na dù:nǐ:ha.; nǔ:n dù:nǐ:ha.; dù:nǐ:ha na nǔ:na.; dù:nǐ:ha na nǔ:n.|They have the potatoes.|||
@@ -390,14 +391,15 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏥᏍᏚ ᏓᎩᎧᎭ.; ᏥᏍd ᏓᎩᎧ.; ᏓᎩᎧᎭ ᏥᏍᏚ.; ᏓᎩᎧ ᏥᏍd.|ji:sdu dà:gikáha.; ji:sd dà:giká.; dà:gikáha ji:sdu.; dà:giká ji:sd.|I have rabbits.|||
 ||||||ᏩᎭᏯ ᏕᏣᎧᎭ.; ᏩᏯ ᏕᏣᎧ.; ᏕᏣᎧᎭ ᏩᎭᏯ.; ᏕᏣᎧ ᏩᏯ.|wahaya de:jakáha.; wahya de:jaká.; de:jakáha wahaya.; de:jaká wahya.|You have wolves.|||
 
-||||||ᎥᏝ Ꮎ ᏗᏌᏛᏗ ᏱᏚᎭ.; Ꮭ Ꮎ ᏗᏌᏛd ᏱᏚᎭ.; ᎥᏝ ᏱᏚᎭ Ꮎ ᏗᏌᏛᏗ.; Ꮎ ᏗᏌᏛd Ꮭ ᏱᏚᎭ.|vhla na di:sadv́:di yidǔ:ha.; hla na di:sadv́:d yidǔ:ha.; vhla yidǔ:ha na di:sadv́:di.; na di:sadv́:d hla yidǔ:ha.|He doesn't have the traps.|||
-||||||ᎥᏝ Ꮎ ᏄᎾ ᏱᏚᏂᎭ.; Ꮎ ᏄᎾ Ꮭ ᏱᏚᏂᎭ.; ᎥᏝ ᏱᏚᏂᎭ Ꮎ ᏄᎾ.|vhla na nǔ:na yidù:nǐ:ha.; na nǔ:na hla yidù:nǐ:ha.; vhla yidù:nǐ:ha na nǔ:na.|They don't have the potatoes.|||
-||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ.; ᏅᏯ Ꮭ ᏱᏓᎩᎭ.; ᎥᏝ ᏱᏓᎩᎭ ᏅᏯ.|vhla nv̀:ya yida:giha.; nv̀:ya hla yida:giha.; vhla yida:giha nv̀:ya.|I don't have rocks.|||
-||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ.; ᎫᎴ Ꮭ ᏱᏗᏣᎭ.; ᎥᏝ ᏱᏗᏣᎭ ᎫᎴ.|vhla gu:le yidi:jaha.; gu:le hla yidi:jaha.; vhla yidi:jaha gu:le.|You don't have acorns.|||
-||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ.; Ꮭ ᎩᏟ ᏱᏚᏩᎧ.; ᎥᏝ ᏱᏚᏩᎧᎭ ᎩᏟ.; ᎩᏟ Ꮭ ᏱᏚᏩᎧ.|vhla gi:hli yidù:wa:káha.; hla gi:hli yidù:wa:ká.; vhla yidù:wa:káha gi:hli.; gi:hli hla yidù:wa:ká.|He doesn't have dogs.|||
-||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ.; Ꮭ ᏪᏌ ᏱᏚᏂᎧ.; ᎥᏝ ᏱᏚᏂᎧᎭ ᏪᏌ.; ᏪᏌ Ꮭ ᏱᏚᏂᎧ.|vhla wě:sa yidù:ni:káha.; hla wě:sa yidù:ni:ká.; vhla yidù:ni:káha wě:sa.; wě:sa hla yidù:ni:ká.|They don't have cats.|||
-||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ.; Ꮭ ᎠᏫ ᏱᏓᎩᎧ.; ᎥᏝ ᏱᏓᎩᎧᎭ ᎠᎭᏫ.; ᎠᏫ Ꮭ ᏱᏓᎩᎧ.|vhla ahawi yida:gikáha.; hla ahwi yida:giká.; vhla yida:gikáha ahawi.; ahwi hla yida:giká.|I don't have deer.|||
-||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ.; Ꮭ ᏙᏯ ᏱᏗᏣᎧ.; ᎥᏝ ᏱᏗᏣᎧᎭ ᏙᏯ.; Ꮭ ᏱᏗᏣᎧ ᏙᏯ.|vhla do:ya yidi:jakáha.; hla do:ya yidi:jaká.; vhla yidi:jakáha do:ya.; hla yidi:jaká do:ya.|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
+
+||||||ᎥᏝ ᏗᏌᏛᏗ ᏱᏚᎭ; Ꮭ ᏗᏌᏛd ᏱᏚᎭ|v́ːhla na di:sadv́:di yidǔ:ha.; hla na di:sadv́:d yidǔ:ha.; v́ːhla yidǔ:ha na di:sadv́:di.; na di:sadv́:d hla yidǔ:ha.|He doesn't have the traps.|||
+||||||ᎥᏝ ᏄᎾ ᏱᏚᏂᎭ|v́ːhla na nǔ:na yidù:nǐ:ha.; na nǔ:na hla yidù:nǐ:ha.; v́ːhla yidù:nǐ:ha na nǔ:na.|They don't have the potatoes.|||
+||||||ᎥᏝ ᏅᏯ ᏱᏓᎩᎭ|v́ːhla nv̀:ya yida:giha.; nv̀:ya hla yida:giha.; v́ːhla yida:giha nv̀:ya.|I don't have rocks.|||
+||||||ᎥᏝ ᎫᎴ ᏱᏗᏣᎭ|v́ːhla gu:le yidi:jaha.; gu:le hla yidi:jaha.; v́ːhla yidi:jaha gu:le.|You don't have acorns.|||
+||||||ᎥᏝ ᎩᏟ ᏱᏚᏩᎧᎭ; Ꮭ ᎩᏟ ᏱᏚᏩᎧ|v́ːhla gi:hli yidù:wa:káha.; hla gi:hli yidù:wa:ká.; v́ːhla yidù:wa:káha gi:hli.; gi:hli hla yidù:wa:ká.|He doesn't have dogs.|||
+||||||ᎥᏝ ᏪᏌ ᏱᏚᏂᎧᎭ; Ꮭ ᏪᏍ ᏱᏚᏂᎧ|v́ːhla wě:sa yidù:ni:káha.; hla wě:sa yidù:ni:ká.; v́ːhla yidù:ni:káha wě:sa.; wě:sa hla yidù:ni:ká.|They don't have cats.|||
+||||||ᎥᏝ ᎠᎭᏫ ᏱᏓᎩᎧᎭ; Ꮭ ᎠᏫ ᏱᏓᎩᎧ|v́ːhla ahawi yida:gikáha.; hla ahwi yida:giká.; v́ːhla yida:gikáha ahawi.; ahwi hla yida:giká.|I don't have deer.|||
+||||||ᎥᏝ ᏙᏯ ᏱᏗᏣᎧᎭ; Ꮭ ᏙᏯ ᏱᏗᏣᎧ|v́ːhla do:ya yidi:jakáha.; hla do:ya yidi:jaká.; v́ːhla yidi:jakáha do:ya.; hla yidi:jaká do:ya.|You don't have beavers.||Complete the lesson material through the end of chapter 19.|
 
 #Chapter 20 ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
 ||||||ᎢᎩ|i̋:gi|Is now. Was just now.|||
@@ -444,7 +446,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏍᎩᎶ ᏥᎪwᏘᎭ; ᎦᏍᎩᎶ ᏥᎪwᏘ|ga:sgilo jigowhtíha; ga:sgilo jigowhtí|I see a table or chair.||Complete the lesson material through the end of chapter 21.|
 
 #Chapter 22 ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ|||
-||||||Ꭷ, ᎥᏝ ᏄᎾ ᏯᏆᏚᎵᎭ; Ꭷ! Ꮭ ᏄᎾ ᏯᏆᏚᎵ!|ka, vhla nǔ:na yà:gwadu:líha; ka! hla nǔ:na yà:gwadu:lí!|Hey! Enough! I don't want a potato!|||
+||||||Ꭷ, ᎥᏝ ᏄᎾ ᏯᏆᏚᎵᎭ; Ꭷ! Ꮭ ᏄᎾ ᏯᏆᏚᎵ!|ka, v́ːhla nǔ:na yà:gwadu:líha; ka! hla nǔ:na yà:gwadu:lí!|Hey! Enough! I don't want a potato!|||
 ||||||ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵᎭ; ᏄᎳ, ᏑᏌᏃ ᏣᏚᎵ|nű:la, sú:sano jadu:líha; nű:la, sú:sano jadu:lí|Hurry, Susan wants you.|||
 ||||||ᎠᏂᏔᎵ ᎢᏯᏂ ᎠᏂᎨᏳᏣ; ᎠᏂᏔꮅ ᎢᏯᏂ ᎠᏂᎨᏳj|a:nitáʔli iyáni ani:ge:hyű:ja; a:nitáʔl iyáni ani:ge:hyű:j|Two count girls.|||
 ||||||ᏦᎢ ᎢᎦ ᏕꮅᎬᎢ; Ꮶ ᎢᎦ ᏕꮅᎬ|joʔi ǐ:ga̋ dě:hlʔgv̋:ʔi; jo ǐ:ga̋ dě:hlʔgv̋; joʔi ǐ:ga̋ dě:hluʔgv̋:ʔi; jo ǐ:ga̋ dě:hluʔgv̋; joʔi ǐ:ga̋ dě:dluhgv̋:ʔi; jo ǐ:ga̋ dě:dluhgv̋|Three count trees.|||

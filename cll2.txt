@@ -25,13 +25,6 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎠᏴᏫ Ꮭ ᎠᎭᏫ ᎤᏁᎩᎸᏗ ᏯᏗᎭ.|Ayvːwi hla ahawi uːnéːgihldi yàːdiha.; Yvːwi hla ahwi uːnéːgihld yàːdi.|The person isn't saying the deer is ugly.|||
 ||||||Ꮭ ᎪᏪᎵ ᏐᎢ ᏳᏅᏔ.|Hla goːhweːli sóʔi yùnhta.; Hla goːhweːl só yùnhta.|He doesn't know the paper is an additional one.|||
 ||||||ᎤᎭᏍ ᏐᎢ ᎫᎫ ᎺᎵ?|ǔːhasgo sóʔi gùːgu méːli?; ǔːhas só gùːgu méːli?|Does Mary have another bottle?||Complete the lesson material through the end of chapter 2.|
-# ||||||ᎫᎫ ᏧᏁᎩᎸᏗ ᎤᏅᏔ.|gùːgu juːnéːgihldi ùnhta.; gùːgu juːnéːgihld ùnhta.|He knows the bottles are ugly.|||
-# ||||||ᏗᏐᎢ ᏗᎪᏪᎵ ᏐᎢᏱ ᎨᏎ.|dǐːsoʔi digoːhweːli soʔǐːyi gèːséːʔi.; dǐːso digoːhweːl soʔǐːyi gèːsé.|There were other papers in the next room.|||
-# ||||||ᏗᏐᎢ ᎪᎱᏍᏗ ᏐᎢᏱ.|dǐːsoʔi goːhűːsdi soʔǐːyi.; dǐːso gőːsdi soʔǐːyi.|Other things are in the next room.|||
-# ||||||ᎠᏂᏍᎦᏯ ᎪᎱᏍᏗ ᏐᎢ ᎤᏅᏔ.|asgaya goːhűːsdi sóʔi ùnhta.; asgai gőːsdi só ùnhta.|The man knows the thing is another one.|||
-# ||||||ᎤᏂᎭᏍᎪ ᎤᏁᎩᎸᏗ ᎦᏍᎩᎶ ᎠᏂᏴᏫ?|ùːnǐːhasgo uːnéːgihldi gaːsgilo aniːyvːwi?; ùːnǐːhas uːnéːgihld gaːsgil aniːyvːwi?|Do the people have an ugly table or chair?|||
-# ||||||Ꮭ ᏧᏃᏚᎯ ᏥᏍᏚ ᏐᎢᏱ ᏱᎩ.|Hla juːnoːdűːhi jiːsdu soʔǐːyi yi̋ːgi.; Hla juːnoːdű jiːsd soʔǐːyi yi̋ːg.|There aren't pretty rabbits in the next room.|||
-# ||||||ᎦᎪ ᎥᏝ ᏧᏬᏚᎯ ᎪᎱᏍᏗ ᏱᏓᏂᎪᏩᏘ?|Gáːgō hla juwoːdűːhi goːhűːsdi yidàːnigowhtíha?; Gáːgō hla juwoːdű gőːsdi yidàːnigowhtí?|Who all doesn't see the pretty things?|||
 
 # Chapter 3
 
