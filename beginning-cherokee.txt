@@ -106,7 +106,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎭᏫᏯ.|Hawi:ya.|Meat.|||
 ||||||ᎠᏑᏯᎾᎢ.; ᎠᏑᏯᎾ.|Asǔ:yanaʔi.; Asǔ:yana.|Stuffing.|||
 ||||||ᎠᏑᏍᏗ.; ᎠᏑ.|Asú:sdi.; Asú.|Gravy.|||
-||||||ᏄᎾ.; ᏄᏂ.; Ꮔn.|Nǔ:na.; Nǔ:ni.; Nǔ:n.|A potato. Potatoes.|||
+||||||ᏄᎾ.; ᏄᏂ.; ᏄᎾ.|Nǔ:na.; Nǔ:ni.; Nǔ:n.|A potato. Potatoes.|||
 ||||||ᏄᎾ ᎠᏂᏅᎯᏓ.; ᏄᎾ ᎠᏂᏅᎯd.|Nǔ:na aninv:hi̋:da.; Nǔ:na aninv:hi̋:d.|A sweet or long potato. Sweet or long potatoes.|||
 ||||||ᎢᏯ ᎨᎵᏍᎩ.; ᎢᏯ ᎨᎵ.|I:ya ge:li̋:sgi.; I:ya ge:li̋.|A pumpkin pie.|||
 ||||||ᎤᏓᏢᏓ.; ᎤᏓᏢᏗ.; ᎤᏓᏢd.|Udadlv̌:da.; Udadlv̌:di.; Udadlv̌:d.|Cream.|||
@@ -452,7 +452,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏧnᏍᏗ.|Ju:nsdi̋.|Little ones. Babies.|||
 
 ||||||ᎠᏧᏣ.; ᎠᏧᏥ.; ᎠᏧj.|Achű:ja.; Achű:ji.; Achű:j.|A boy.|||
-||||||ᎠᏂᏧᏣ.; ᎠᏂᏧᏥ.; ᎠᏂᏧj.|Ani:chű:ja.; Ani:chű:ji.; Ani:chű:j.|Boys.|||
+||||||ᎠᏂᏧᏣ.; ᎠᏂᏧᏥ.; ᎠᏂᏧᏣ.|Ani:chű:ja.; Ani:chű:ji.; Ani:chű:j.|Boys.|||
 ||||||ᎠᎨᏳᏣ.; ᎠᎨᏳj.|Age:hyű:ja.; Age:hyű:j.|A girl.|||
 ||||||ᎠᏂᎨᏳᏣ.; ᎠᏂᎨᏳj.|Ani:ge:hyű:ja.; Ani:ge:hyű:j.|Girls.|||
 ||||||ᎠᏫᎾ.; ᎠᏫn.|Awi̋:na.; Awi̋:n.|A young man. A teenage boy.|||

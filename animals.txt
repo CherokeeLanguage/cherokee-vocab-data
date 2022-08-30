@@ -54,13 +54,13 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏘᏲᎭᎵ.; ᏘᏲᎭꮅ|tiyǒ:háʔli.; tiyǒ:háʔl|A lizard. Lizards.|||
 ||||||ᏙᏌ.; ᏙᏍ|do:sa.; do:s|A mosquito. Mosquitoes.|||
 ||||||ᏙᏒᏓᎵ.; ᏙᏒᏓꮅ|do:sv̌:dáʔli.; do:sv̌:dáʔl|An ant. Ants.|||
-||||||ᏙᏯ.; Ꮩy|do:ya.; do:y|A beaver. Beaver.|||
+||||||ᏙᏯ.; ᏙᏯ|do:ya.; do:y|A beaver. Beaver.|||
 ||||||ᏛᎦ.; Ꮫg|tvhga.; tvhg|A fly. Flies.|||
 ||||||ᏜᎺᎭ.|dla:me:ha.|A bat. Bats.|||
 ||||||ᏜᏄᏏ.|dla:nú:si.|A leech. Leeches.|||
 ||||||ᏢᏓᏥ.; ᏢᏓj|hlv:daji.; hlv:daj|A great cat. Great cats.|||
 ||||||ᏢᏕᏆ.|tlv̌:dé:gwa.|An eel. Eels.|||
-||||||ᏥᏍᏚ.; ᏥᏍd|ji:sdu.; ji:sd|A rabbit. Rabbits.|||
+||||||ᏥᏍᏚ.; ᏥᏍᏚ|ji:sdu.; ji:sd|A rabbit. Rabbits.|||
 ||||||ᏥᏔᎦ.; ᏥᏔg|jitǎ:ga.; jitǎ:g|A chicken. Chickens.|||
 ||||||ᏥᏲ|jiyo|An otter. Otters.|||
 ||||||ᏧᎳ.; Ꮷꮅ|chu:la.; chu:l|A fox. Foxes.|||
@@ -78,4 +78,4 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏪᏌ.; ᏪᏍ|wě:sa.; wě:s|A cat. Cats.|||
 ||||||ᏬᏱ.; ᏬᎢ|wo:yi.; wo:i|A pigeon. Pigeons.|||
 ||||||ᏯnᏌ.|yansa.|A buffalo. Buffalo.|||
-||||||ᏲᎾ.; Ᏺn|yǒ:na.; yǒ:n|A bear. Bears.|||
+||||||ᏲᎾ.; ᏲᎾ|yǒ:na.; yǒ:n|A bear. Bears.|||
