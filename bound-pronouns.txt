@@ -748,7 +748,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 848|||ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᏍᏛᏯᎦᏙᏍᏗ|sdv:yagà:tǒ:sdi|I am looking at you both; We two are looking at you or you both|||sdvv2ya2gaa1too23sdi
 849|||Ꭶ̣²Ꮵ²-, Ꭶ̣²Ꮵ²Ꮿ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎦᏥᏯᎦᏙᏍᏗ|gaji:yagà:tǒ:sdi|I am looking at them (animate)|||ga2jii2ya2gaa1too23sdi
 850|||Ꭲ¹Ꮎ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏓ²||ᎢᎾᏓkᏙᏍᏓ|ì:nadaktǒ:sdā|You and I recently looked at ourselves|||ii1na2da2ktoo23sda2
-851|||Ꮳ̣²-, Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏣᎪwᏘᎭ|jagowhtíha|He is seeing you|||ja2gowh2ti3ha
+851|||Ꮳ̣²-, Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏣᎪᏩᏘᎭ|jagowhtíha|He is seeing you|||ja2gowh2ti3ha
 852|||Ꮥ³Ꮳ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏕᏣᏓᏚᎸᎲᎢ; ᏕᏣᏓᏚᎸᎲ|dé:jadadu:lv:hv̌:ʔi; dé:jadadu:lv:hv̌|You all wanted each other a while ago|||dee3ja2da2duu2lvv2hvv23-i
 853|||Ꮥ²ᏍᏓ̣²Ꮣ²[Ꮣ͓]-|Ꭰ̣²Ꮪ²Ꮈ²Ꮂ²³Ꭲ||ᏕᏍᏓᏓᏚᎸᎲᎢ; ᏕᏍᏓᏓᏚᎸᎲ|de:sdadadu:lv:hv̌:ʔi; de:sdadadu:lv:hv̌|You both wanted each other a while ago|||dee2sdaa2da2duu2lvv2hvv23-i
 854|||Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|ɂ¹ᏘᏗ||ᎠᎩtᏗ|à:gìtdi|For me to bake something|||aa1gi1tdi
@@ -867,7 +867,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 967|||Ꮳ̣²-, Ꮳ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᏣᎪwᏘᏍᎪᎢ; ᏣᎪwᏘᏍᎪ|jagowhtǐ:sgóʔi; jagowhtǐ:sgó|He is often seeing you|||ja2gowh2tii23sgo3-i
 968|||Ꮷ²-, Ꮷ²Ꮹ͓-|Ꭰ̣²Ꭶ͓Ꮩ²³ᏍᏙᏗ||ᏧkᏙᏍᏙᏗ|ju:ktǒ:sdóhdi|For him to look at them|||juu2ktoo23sdoh3di
 969|||Ꭼ²-, Ꭼ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎬᎪwᏘᎭ|gv:gowhtíha|I am seeing you|||gvv2gowh2ti3ha
-970|||Ꮵ²-, Ꮵ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪwᏘᎭ|ji:gowhtíha|I am seeing him|||jii2gowh2ti3ha
+970|||Ꮵ²-, Ꮵ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪᏩᏘᎭ|ji:gowhtíha|I am seeing him|||jii2gowh2ti3ha
 971|||ᏍᏗ²-|Ꮂ²³Ꭲ||ᏍᏗᎲᎢ; ᏍᏗᎲ|sdi:hv̌:ʔi; sdi:hv̌|You both had something a while ago|||sdii2hvv23-i
 972|||ᏍᏛ²-, ᏍᏛ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏍᏛᎪwᏘᎭ|sdv:gowhtíha|I am seeing you both; We two are seeing you or you both|||sdvv2gowh2ti3ha
 973|||Ꭲ¹Ꮵ²-|Ꮂ²³Ꭲ||ᎢᏥᎲᎢ; ᎢᏥᎲ|ì:ji:hv̌:ʔi; ì:ji:hv̌|You all had something a while ago|||ii1jii2hvv23-i
@@ -897,7 +897,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 997|||Ꮥ²ᏍᏗ²-|Ꭾ³ᏍᏗ||ᏕᏍᏗᎮᏍᏗ|de:sdi:hé:sdi|You both will be having things|||dee2sdii2hee3sdi
 998|||Ꭲ¹Ꮧ²-|Ꭰ̣²Ꮪ²³Ꭹ||ᎢᏓᏚᎩ|ì:datǔ:gi|Let all of us drink something alcoholic|||ii1da2tuu23gi
 999|||Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎨᏍᏓᎦᏙᏍᏓ|ge:sdagà:tǒ:sda|Let you both look at them (animate)|||gee2sda2gaa1too23sda
-1000|||Ꭿ²-, Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎯᎪwᏘᎭ|hi:gowhtíha|You are seeing him|||hii2gowh2ti3ha
+1000|||Ꭿ²-, Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎯᎪᏩᏘᎭ|hi:gowhtíha|You are seeing him|||hii2gowh2ti3ha
 1001|||Ꭲ¹Ꮸ²-, Ꭲ¹Ꮸ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏨᎪwᏘᎭ|ì:jv:gowhtíha|I, we two, or we all are seeing you all; We all are seeing you, two|||ii1jvv2gowh2ti3ha
 1002|||Ꭲ¹ᏍᎩ²-, Ꭲ¹ᏍᎩ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏍᎩᎪwᏘᎭ|ì:sgi:gowhtíha|You, two, or all are seeing us all; You all are seeing me|||ii1sgii2gowh2ti3ha
 1003|||Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎦᎯᎪwᏘᎭ|gahi:gowhtíha|You are seeing them (animate)|||ga2hii2gowh2ti3ha
@@ -934,7 +934,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 1034|||Ꭶ̣²Ꭿ²-, Ꭶ̣²Ꭿ²Ꮿ͓-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ*||ᎦᎯᏯᎦᏙᏍᏓ|gahi:yagà:tǒ:sda|Let you look at them (animate)|||ga2hii2ya2gaa1too23sda
 1035|||Ꭸ²ᏍᏗ²-|Ꭰ̣²Ꭶ¹Ꮩ²³ᏍᏓ²*||ᎨᏍᏓᎦᏙᏍᏓ|ge:sdagà:tǒ:sdā|You both recently looked at them (animate); They recently looked at you both|||gee2sda2gaa1too23sda2
 1036|||Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎡᏣᎪwᏘᎭ|è:jagowhtíha|You are being seen|||ee1ja2gowh2ti3ha
-1037|||Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎨᏣᎪwᏘᎭ|ge:jagowhtíha|They are seeing you|||gee2ja2gowh2ti3ha
+1037|||Ꭸ²Ꮳ̣²-, Ꭸ²Ꮳ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎨᏣᎪᏩᏘᎭ|ge:jagowhtíha|They are seeing you|||gee2ja2gowh2ti3ha
 1038|||Ꮵ̣²-, Ꭶ͓-|Ꭰ¹Ꭶ¹Ꮩ²³ᏍᏗ*||ᎦᎦᏙᏍᏗ|gagà:tǒ:sdi|I am looking at it|||ga2gaa1too23sdi
 1039|||Ꭱ¹Ꭹ²-|Ꭰ̣²Ꮪ²Ꮅ̣³Ꭽ||ᎡᎦᏚᎵᎭ|è:gadu:líha|All of us are wanted|||ee1ga2duu2li3ha
 1040|||Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꭳ²Ꮅ³ᏍᏗ||ᎠᏉᏟᏍᏗ|à:gwo:hlísdi|For me to understand it; For him to recognize me|||aa1gwoo2hli3sdi
@@ -1027,7 +1027,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 1127|||Ꭲ¹Ꮧ²-|ᏍᏗ²³Ꭶ||ᎢᏗᏍᏗᎦ; ᎢᏗᏍᏗ|ì:di:sdǐ:ga; ì:di:sdǐ|Let all of us eat something long|||ii1dii2sdii23ga
 1128|||Ꮳ̣²-|ɂᏰ¹ᏍᏗ||ᏣᏰᏍᏗ|jahyè:sdi|For you to eat something flexible|||ja2hyee1sdi
 1129|||Ꭱ¹Ꮳ̣²-, Ꭱ¹Ꮳ̣²-|ᎪᏩ͓²Ꮨ²³ᏍᎪ̣³Ꭲ||ᎡᏣᎪwᏘᏍᎪᎢ; ᎡᏣᎪwᏘᏍᎪ|è:jagowhtǐ:sgóʔi; è:jagowhtǐ:sgó|You are usually seen|||ee1ja2gowh2tii23sgo3-i
-1130|||Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎬᎩᎪwᏘᎭ|gv:gigowhtíha|They are seeing me|||gvv2gi2gowh2ti3ha
+1130|||Ꭼ²Ꭹ̣²-, Ꭼ²Ꮖ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎬᎩᎪᏩᏘᎭ|gv:gigowhtíha|They are seeing me|||gvv2gi2gowh2ti3ha
 1131|||Ꭳ¹Ꭹ²-|Ꭺ²Ꮂ²³Ꭲ||ᎣᎩᎪᎲᎢ; ᎣᎩᎪᎲ|ò:gi:go:hv̌:ʔi; ò:gi:go:hv̌|He saw them and me a while ago; They and I saw it a while ago; They and I were seen a while ago|||oo1gii2goo2hvv23-i
 1132|||Ꭴ¹Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎤᏂᎪᎲᎢ; ᎤᏂᎪᎲ|ù:ni:go:hv̌:ʔi; ù:ni:go:hv̌|They saw him a while ago; They saw it a while ago|||uu1nii2goo2hvv23-i
 1133|||Ꭹ̣²Ꮒ²-|Ꭺ²Ꮂ²³Ꭲ||ᎩᏂᎪᎲᎢ; ᎩᏂᎪᎲ|gini:go:hv̌:ʔi; gini:go:hv̌|He saw you and me a while ago; You and I saw it a while ago|||gi2nii2goo2hvv23-i
@@ -1134,7 +1134,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 1234|||Ꮥ³Ꮒ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏂᎪwᏘᎭ|dé:ni:gowhtíha|You and I are seeing them (inanimate)|||dee3nii2gowh2ti3ha
 1235|||Ꮥ³Ꮧ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᏗᎪwᏘᎭ|dé:di:gowhtíha|All of us are seeing them (inanimate)|||dee3dii2gowh2ti3ha
 1236|||Ꮩ¹Ꮵ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏙᏥᎪwᏘᎭ|dò:ji:gowhtíha|They and I are seeing them (inanimate)|||doo1jii2gowh2ti3ha
-1237|||Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᎯᎪwᏘᎭ|de:higowhtíha|You are seeing them (inanimate)|||dee2hi2gowh2ti3ha
+1237|||Ꮥ²Ꭿ̣²-, Ꮥ²Ꭿ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏕᎯᎪᏩᏘᎭ|de:higowhtíha|You are seeing them (inanimate)|||dee2hi2gowh2ti3ha
 1238|||Ꮩ¹ᏍᏗ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏙᏍᏗᎪwᏘᎭ|dò:sdi:gowhtíha|He and I are seeing them (inanimate)|||doo1sdii2gowh2ti3ha
 1239||||Ꭰ²Ꮅ̣²Ꭲ||ᎠᎵᎢ|a:liʔi|Friendship|||aa2li2-i
 1240|||Ꮥ³Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᏕᎩᏍᏗᎬᎢ; ᏕᎩᏍᏗᎬ|dé:gì:sdí:gv̌:ʔi; dé:gì:sdí:gv̌|All of us ate long things a while ago|||dee3gii1sdii3gvv23-i
@@ -1412,11 +1412,11 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 1512|||Ꭿ̣²-|¹ᏍᏗ²³Ꭹ̣³Ꭰ||ᎯᏍᏗᎩᎠ|hìsdǐ:gíʔa|You are eating something long|||hi1sdii23gi3-a
 1513|||Ꭴ¹-, Ꭴ¹Ꮹ͓-|ɂ³Ꮪ²Ꮕ²³Ꭲ||ᎤᏩᏚᏅᎢ; ᎤᏩᏚᏅ|ù:wá:du:hnv̌:ʔi; ù:wá:du:hnv̌|He baked something a while ago|||uu1waa3duu2hnvv23-i
 1514|||Ꭲ¹Ꮵ²-|ᏍᏗ²³Ꭶ²||ᎢᏥᏍᏗᎦ|ì:ji:sdǐ:gā|You all recently ate something long|||ii1jii2sdii23ga2
-1515|||Ꮵ̣²-, Ꭶ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪwᏘᎭ|jigowhtíha|I am seeing it|||ji2gowh2ti3ha
+1515|||Ꮵ̣²-, Ꭶ͓-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᏥᎪᏩᏘᎭ|jigowhtíha|I am seeing it|||ji2gowh2ti3ha
 1516||||Ꭶ̣²Ꮵ²Ꮩ²Ꮣ||ᎦᏥᏙᏓ|gaji:do:da|I, their father|||ga2jii2doo2da
 1517|||Ꭲ¹Ꭹ²-|¹ᏍᏗ³Ꭼ²³Ꭲ||ᎢᎩᏍᏗᎬᎢ; ᎢᎩᏍᏗᎬ|ì:gì:sdí:gv̌:ʔi; ì:gì:sdí:gv̌|All of us ate something long a while ago|||ii1gii1sdii3gvv23-i
 1518|||Ꭰ¹Ꭹ̣²-, Ꭰ¹Ꮖ͓-|Ꮎ̣³Ꭳ³Ꭲ||ᎠᎩᎾᎣᎢ; ᎠᎩᎾᎣ|à:gináó:ʔi; à:gináó|I usually have something flexible|||aa1gi2na3oo3-i
-1519|||Ꭿ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎯᎪwᏘᎭ|higowhtíha|You are seeing it|||hi2gowh2ti3ha
+1519|||Ꭿ̣²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎯᎪᏩᏘᎭ|higowhtíha|You are seeing it|||hi2gowh2ti3ha
 1520|||Ꭲ¹Ꮒ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏂᎪwᏘᎭ|ì:ni:gowhtíha|You and I are seeing it|||ii1nii2gowh2ti3ha
 1521|||Ꭲ¹Ꮧ²-|ᎪᏩ͓²Ꮨ̣³Ꭽ||ᎢᏗᎪwᏘᎭ|ì:di:gowhtíha|All of us are seeing it|||ii1dii2gowh2ti3ha
 1522||||Ꭹ̣²Ꮒ²Ꮩ²Ꮣ||ᎩᏂᏙᏓ|gini:do:da|Your one's and my father|||gi2nii2doo2da
