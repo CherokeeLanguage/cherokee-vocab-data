@@ -126,7 +126,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᏗᏦᏪᎸᎦ|dì:jo:hwe:lv̀:ga|Let all of you write them.||Complete the lesson material through the end of chapter 8.|
 
 #Chapter 9|||
-||||||ᎦᏬᏂᏍᎬᎢ ᎠkᏔᎲᎢ.; ᎦᏬᏂᏍᎬ ᎠkᏔᎲ.|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|Knowing how to speak.|||
+||||||ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ.; ᎦᏬᏂᏍᎬ ᎠᎦᏔᎲ.|Gawó:ni:sgv́:ʔi à:ktahv́:ʔi.; Gawó:ni:sgv́ à:ktahv.́|Knowing how to speak.|||
 
 ||||||ᎠᎨᏯᎲ?|agě:hyahv?|But a woman?|||
 ||||||ᎥᏍᎩᎾᎲ?; ᎾᏍᎩᎲ?|v̀:sginahv?; nà:sgihv?|But for him, them, or that?|||
@@ -228,10 +228,10 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙ?; Ꮩ?|Gadò?; Dò?|What?|||
 ||||||ᎦᏙᎩ?; ᏙᎩ?|Gadògí?; Dògí?|What again?|||
 
-*||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|Gadō ű:sdi?; Dō ű:sdi?; Dō ű:sd?|Which one?|||
-*||||||ᎦᏙ ᎤnᏍᏗ?; Ꮩ ᎤᎾᏍᏗ?; Ꮩ ᎤnᏍd?|Gadō űnsdi?; Dō űnsdi?; Dō űnsd?|Which ones?|||
+*||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?|Gadō ű:sdi?; Dō ű:sdi?; Dō ű:sd?|Which one?|||
+*||||||ᎦᏙ ᎤᎾᏍᏗ?; Ꮩ ᎤᎾᏍᏗ?; Ꮩ ᎤᎾᏍᏗ?|Gadō űnsdi?; Dō űnsdi?; Dō űnsd?|Which ones?|||
 
-||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|Gadō u:sdi?; Dō u:sdi?; Dō u:sd?|What thing? What?|||
+||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?|Gadō u:sdi?; Dō u:sdi?; Dō u:sd?|What thing? What?|||
 ||||||ᎦᏙᎲ?; ᏙᎲ?|Gadò:hv̋?; Dò:hv̋?|Why?|||
 
 ||||||ᎡᏂᏙᏂ ᏓᏆᏙᎠ; ᎡᏂᏙᏂ ᏓᏆᏙ; ᏓᏆᏙ ᎡᏂᏙᏂ|énto:ni dà:gwadó:ʔa; énto:n dà:gwadó; dà:gwadó énto:ni|My name is Anthony.|||
@@ -271,7 +271,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 
 *||||||ᏕᏫᏗ ᏥᏍᏚ; ᏕᏫᏗ ᏥᏍᏚ|dé:widi ji:sdu; dé:wid ji:sd|David Rabbit|||
 *||||||Ꮎ ᎠᏂᏦᎢ ᏲᎾ; Ꮎ ᎠᏂᏦ ᏲᎾ|na a:nijoʔi yǒ:na; na a:nijo yǒ:n|The Three Bears|||
-*||||||ᎯᎠ ᏌᏊ ᎤᏲ ᏥᏍᏚ.; ᎯᎠ ᏌᏊ ᎤᏲ ᏥᏍd.|Hiʔa sà:gwű u:yő ji:sdu.; Hiʔa sà:gwű u:yő ji:sd.|This is one bad rabbit!|||
+*||||||ᎯᎠ ᏌᏊ ᎤᏲ ᏥᏍᏚ.; ᎯᎠ ᏌᏊ ᎤᏲ ᏥᏍᏚ.|Hiʔa sà:gwű u:yő ji:sdu.; Hiʔa sà:gwű u:yő ji:sd.|This is one bad rabbit!|||
 *||||||ᏏᏲ ᏕᏫᏗ; ᏏᏲ ᏕᏫᏗ|síyo dé:widi; síyo dé:wid|Hello David|||
 *||||||ᎠᎨᏳᏣ ᎠᎴ ᎠᏂᏦᎢ ᏲᎾ; ᎠᎨᏳ ᎠᎴ ᎠᏂᏦ ᏲᎾ|age:hyű:ja ale a:nijoʔi yǒ:na; age:hyű ale a:nijo yǒ:n|A Girl and Three Bears|||
 *|||||male|ᎠᎭᏂ ᏥᏍᏚ.; ᎠᏂ ᏥᏍᏚ.|áhani ji:sdu.; áhni ji:sd.|Here is a rabbit.|||
@@ -378,9 +378,9 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 #ID|PSET|DIALOG|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|AUDIO FILE|||
 
 ||||||Ꮎ ᏩᎭᏯ ᎬᎩᎪᏩᏘᎭ.; Ꮎ ᏩᏯ ᎬᎩᎪᏩᏘ.; ᎬᎩᎪᏩᏘᎭ Ꮎ ᏩᎭᏯ.; ᎬᎩᎪᏩᏘ Ꮎ ᏩᏯ.|na wahaya gv:gigowhtíha.; na wahya gv:gigowhtí.; gv:gigowhtíha na wahaya.; gv:gigowhtí na wahya.|The wolves see me.|||
-||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪwᏘᎭ.; Ꮭ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪᏩᏘ.; ᎥᏝ ᏱᎬᎩᎪwᏘᎭ Ꮎ ᎠᏂᎨᏳᏣ.; Ꮎ ᎠᏂᎨᏳᏣ Ꮭ ᏱᎬᎩᎪᏩᏘ.|v́ːhla ani:ge:hyű:ja yigv:gigowhtíha.; hla ani:ge:hyű:j yigv:gigowhtí.; v́ːhla yigv:gigowhtíha na ani:ge:hyű:ja.;na ani:ge:hyű:j hla yigv:gigowhtí.|The girls don't see me.|||
+||||||ᎥᏝ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪᏩᏘᎭ.; Ꮭ ᎠᏂᎨᏳᏣ ᏱᎬᎩᎪᏩᏘ.; ᎥᏝ ᏱᎬᎩᎪᏩᏘᎭ Ꮎ ᎠᏂᎨᏳᏣ.; Ꮎ ᎠᏂᎨᏳᏣ Ꮭ ᏱᎬᎩᎪᏩᏘ.|v́ːhla ani:ge:hyű:ja yigv:gigowhtíha.; hla ani:ge:hyű:j yigv:gigowhtí.; v́ːhla yigv:gigowhtíha na ani:ge:hyű:ja.;na ani:ge:hyű:j hla yigv:gigowhtí.|The girls don't see me.|||
 ||||||ᎠᏂᏧᏣ ᎨᏣᎪᏩᏘᎭ.; ᎠᏂᏧᏣ ᎨᏣᎪᏩᏘ.; ᎨᏣᎪᏩᏘᎭ Ꮎ ᎠᏂᏧᏣ.; ᎨᏣᎪᏩᏘ Ꮎ ᎠᏂᏧᏣ.|ani:chű:ja ge:jagowhtíha.; ani:chű:j ge:jagowhtí.; ge:jagowhtíha na ani:chű:ja.; ge:jagowhtí na ani:chű:j.|The boys see you.|||
-||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪwᏘᎭ.; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪᏩᏘ.; ᎥᏝ ᏱᎨᏣᎪwᏘᎭ Ꮎ ᏌᎶᎵ.; Ꮎ ᏌᎶꮅ Ꮭ ᏱᎨᏣᎪᏩᏘ.|v́ːhla salǒ:li yige:jagowhtíha.; hla salǒ:l yige:jagowhtí.; v́ːhla yige:jagowhtíha na salǒ:li.; na salǒ:l hla yige:jagowhtí.|The squirrels don't see you.|||
+||||||ᎥᏝ ᏌᎶᎵ ᏱᎨᏣᎪᏩᏘᎭ.; Ꮭ ᏌᎶꮅ ᏱᎨᏣᎪᏩᏘ.; ᎥᏝ ᏱᎨᏣᎪᏩᏘᎭ Ꮎ ᏌᎶᎵ.; Ꮎ ᏌᎶꮅ Ꮭ ᏱᎨᏣᎪᏩᏘ.|v́ːhla salǒ:li yige:jagowhtíha.; hla salǒ:l yige:jagowhtí.; v́ːhla yige:jagowhtíha na salǒ:li.; na salǒ:l hla yige:jagowhtí.|The squirrels don't see you.|||
 
 ||||||ᏗᏌᏛᏗ ᏚᎭ.; ᏗᏌᏛᏗ ᏚᎭ.; ᏚᎭ Ꮎ ᏗᏌᏛᏗ.; ᏚᎭ Ꮎ ᏗᏌᏛᏗ.|di:sadv́:di dǔ:ha.; di:sadv́:d dǔ:ha.; dǔ:ha na di:sadv́:di.; dǔ:ha na di:sadv́:d.|He has the traps.|||
 ||||||ᏄᎾ ᏚᏂᎭ.; ᏄᎾ ᏚᏂᎭ.; ᏚᏂᎭ Ꮎ ᏄᎾ.; ᏚᏂᎭ Ꮎ ᏄᎾ.|nǔ:na dù:nǐ:ha.; nǔ:n dù:nǐ:ha.; dù:nǐ:ha na nǔ:na.; dù:nǐ:ha na nǔ:n.|They have the potatoes.|||

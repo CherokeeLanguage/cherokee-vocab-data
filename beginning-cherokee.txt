@@ -187,7 +187,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 ||||||ᎦᏙᎩ ᎭᏗᎠ?; ᏙᎩ ᎭᏗ?|Gadò:gi hadí:ʔa?; Dò:gi hadí?|What did you just say?|||
 ||||||ᎭᏢ ᎪᏪᎵ ᏗᏣᏁᏍᏗ?; ᎭᏢ ᎪᏪᎳ ᏗᏣᏁᏍᏗ?; ᎭᏢ ᎪᏪꮅ ᏗᏣᏁᏍᏗ?|Ha:dlv go:hwě:li dijanè:sdi?; Ha:dlv go:hwě:la dijanè:sdi?; Ha:dlv go:hwě:l dijanè:sdi?|What is your address?|||
 ||||||ᎪᏪᎵ ᏗᎦᏁᏍᏗᎢ.; ᎪᏪꮅ ᏗᎦᏁᏍᏗ.|Go:hwě:li diganè:sdíʔi.; Go:hwě:l diganè:sdí.|My address is.|||
-||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍd?|Gadō u:sdi?; Dō u:sd?|What is it?|||
+||||||ᎦᏙ ᎤᏍᏗ?; Ꮩ ᎤᏍᏗ?|Gadō u:sdi?; Dō u:sd?|What is it?|||
 ||||||ᎦᏙ ᎤᏍᏗ ᏣᏚᎵᎠ?; ᎦᏙ ᎤᏍᏗ ᏣᏚᎵᎭ?; Ꮩ ᎤᏍd ᏣᏚᎵ?|Gadō u:sdi jadu:líʔa?; Gadō u:sdi jadu:líha?; Dō u:sd jadu:lí?|What do you want?|||
 ||||||ᎦᏙ ᎤᏍᏗ ᏍᏓᏚᎵᎠ?; ᎦᏙ ᎤᏍᏗ ᏍᏓᏚᎵᎭ?; Ꮩ ᎤᏍd ᏍᏓᏚᎵ?|Gadō u:sdi sdadu:líʔa?; Gadō u:sdi sdadu:líha?; Dō u:sd sdadu:lí?|What do you two want?|||
 ||||||ᎦᏙ ᎤᏍᏗ ᎢᏣᏚᎵᎠ?; ᎦᏙ ᎤᏍᏗ ᎢᏣᏚᎵᎭ?; Ꮩ ᎤᏍd ᎢᏣᏚᎵ?|Gadō u:sdi ì:jadu:líʔa?; Gadō u:sdi ì:jadu:líha?; Dō u:sd ì:jadu:lí?|What do you all want?|||
@@ -201,7 +201,7 @@ ID|PSET|ALT_PRONOUNCE|PRONOUN|VERB|GENDER|SYLLABARY|PRONOUNCE|ENGLISH|INTRO NOTE
 *||||||ᎤᏍᎦᏃᎵ.; ᎤᏍᎦᏃꮅ.|U:sganőli.; U:sganől.|Slowly.|||
 
 ||||||ᎦᏙ?|Gadō?|What? Which?|||
-||||||ᎦᏙ ᎤᏍᏗ?; ᎦᏙ ᎤᏍd?; Ꮩ ᎤᏍd?|Gadō ű:sdi?; Gadō ű:sd?; Dō ű:sd?|What kind of?|||
+||||||ᎦᏙ ᎤᏍᏗ?; ᎦᏙ ᎤᏍd?; Ꮩ ᎤᏍᏗ?|Gadō ű:sdi?; Gadō ű:sd?; Dō ű:sd?|What kind of?|||
 ||||||ᎭᏢ?|Ha:dlv?|Where?|||
 ||||||ᎪᏪᎵ.; ᎪᏪᎳ.; ᎪᏪꮅ.|Go:hwe:li.; Go:hwe:la.; Go:hwe:l.|Written material.|||
 ||||||ᎠᏆnᏔ.; ᎠᏆnt.|À:gwanhta.; À:gwanht.|I know something.|||
